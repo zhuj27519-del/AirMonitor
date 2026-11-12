@@ -45,4 +45,4 @@ arduino-cli compile --fqbn esp8266:esp8266:nodemcuv2 src/AirMonitor
 
 ## GitHub
 
-私有仓库：https://github.com/zhuj27519-del/AirMonitor 。主分支为 main。首次上传已核对 commit SHA 与 tree SHA 一致；完整原始归档仍仅本地保存。
+公开仓库：https://github.com/zhuj27519-del/AirMonitor 。主分支为 main。首次上传已核对 commit SHA 与 tree SHA 一致；完整原始归档仍仅本地保存。
