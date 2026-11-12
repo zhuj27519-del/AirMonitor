@@ -1,0 +1,2 @@
+
+{"ok":true,"value":{"title":"获取网络规则","visibility":"beta","params":[],"returns":{"type":"Array<{ [key: string]: any }>","description":"当前 PCB 的所有网络规则"},"isAsync":true},"logs":[],"durationMs":191}

@@ -1,0 +1,2 @@
+
+{"ok":true,"value":{"title":"自动布局","remarks":"本接口预期将会执行较长时间，可以尝试异步处理或增加超时时限\n\nADD since EDA v3.2.150 / EDA v4.1.66","visibility":"alpha","params":[],"returns":{"type":"IPCB_AutoLayoutResult","description":"自动布局结果"},"isAsync":true},"logs":[],"durationMs":200}

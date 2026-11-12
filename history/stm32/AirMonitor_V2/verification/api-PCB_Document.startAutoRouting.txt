@@ -1,0 +1,2 @@
+
+{"ok":true,"value":{"title":"以作业模型启动自动布线","remarks":"立即返回作业句柄（`jobId`），任务寿命与本次调用寿命解耦；后续用 {@link PCB_Document.getAutoJobStatus | getAutoJobStatus} 查询进度、\n{@link PCB_Document.cancelAutoJob | cancelAutoJob} 取消作业、{@link PCB_Document.getAutoJobLog | getAutoJobLog} 读取日志；\n入参语义与 {@link PCB_Document.autoRouting | autoRouting} 一致","visibility":"alpha","params":[{"name":"props","type":"IPCB_AutoRoutingProps","description":"自动布线参数","required":false}],"returns":{"type":"ISYS_JobHandle","description":"自动布线作业句柄"},"isAsync":true},"logs":[],"durationMs":284}

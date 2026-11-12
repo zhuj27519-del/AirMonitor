@@ -1,0 +1,8 @@
+PCB V1.5 AUTOMATED REVIEW
+Routed non-GND branches: 48/48
+Copper traces (segments): 279
+Vias: 22
+Independently detected geometric short overlaps: 0
+Heuristic net-to-net gaps <0.2mm: 23 (includes 0.2mm LQFP pin pitch gaps and routing pad gaps)
+Schematic symbol IDs linked to PCB path IDs: 25/29
+WARNING: This is NOT KiCad DRC or ERC, NOT ready for Gerber export; connector mechanical footprints still require real-part verification.

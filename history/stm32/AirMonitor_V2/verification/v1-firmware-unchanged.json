@@ -1,0 +1,9 @@
+{
+  "baseline": "ad4e2493cffe687d613dfba4a7fd445f3fbed14e",
+  "tracked_firmware_unchanged": true,
+  "tests_reused": [
+    "cubeide-build-final.txt",
+    "protocol-tests-final.txt"
+  ],
+  "hardware_tested": false
+}

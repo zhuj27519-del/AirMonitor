@@ -1,0 +1,9 @@
+{
+  "observed_via": "Windows GUI, full Check DRC button; observed completion after click",
+  "editor_version": "4.1.78",
+  "displayed_completion_time": "2026-10-27 23:58:30 Asia/Shanghai",
+  "displayed_duration": "00:06",
+  "displayed_check_items": 141,
+  "displayed_all_errors": 0,
+  "scope": "Existing complete board DRC; no rule/filter modifications"
+}

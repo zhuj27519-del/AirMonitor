@@ -1,0 +1,20 @@
+{
+  "hardware\\EasyEDA\\pcb\\PCB1.epcb2": {
+    "usb_power_lands_0p76mm": true,
+    "u3_twenty_rect_lands_0p2_by_0p6": true,
+    "u3_paste_apertures_22": true,
+    "thermal_pads_direct_ground": true,
+    "u4_lands_1p1_by_0p6": true,
+    "j4_anchor_x_9p35mm": true
+  },
+  "hardware\\EasyEDA\\sch\\Schematic1\\P1.esch2": {
+    "usb_power_lands_0p76mm": true,
+    "u3_twenty_rect_lands_0p2_by_0p6": true,
+    "u3_paste_apertures_22": true,
+    "thermal_pads_direct_ground": true,
+    "u4_lands_1p1_by_0p6": true,
+    "j4_anchor_x_9p35mm": true
+  },
+  "embedded_pad_resources_identical": true,
+  "all_passed": true
+}

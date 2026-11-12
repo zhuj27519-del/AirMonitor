@@ -1,0 +1,25 @@
+{
+  "fresh_exports": true,
+  "same_schematic_pcb_pin_maps": true,
+  "pins_compared": 182,
+  "bom_cpl_components": 42,
+  "drill_files": [
+    "Drill_PTH_Through.DRL",
+    "Drill_NPTH_Through.DRL",
+    "Drill_PTH_Through_Via.DRL"
+  ],
+  "gerber_copper_regions": {
+    "Gerber_TopLayer.GTL": 4,
+    "Gerber_BottomLayer.GBL": 2
+  },
+  "source_files_unchanged_during_diagnosis": {
+    "AirMonitor V1 - First Article.eprj3": true,
+    "eprj3-intro.md": true,
+    "panel/Panel1.epan2": true,
+    "pcb/PCB1.epcb2": true,
+    "sch/Schematic1/P1.esch2": true,
+    "sch/Schematic1/Schematic1.ecfg": true
+  },
+  "sealed_delivery_zip_unchanged": true,
+  "smt_assembly_release": false
+}

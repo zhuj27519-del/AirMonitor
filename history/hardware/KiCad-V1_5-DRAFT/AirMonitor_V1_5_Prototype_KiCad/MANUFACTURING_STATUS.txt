@@ -1,0 +1,1 @@
+DESIGN DRAFT / UNSIGNED: DO NOT ORDER PCB. KiCad ERC/DRC and connector footprints must be verified. No Gerbers provided.

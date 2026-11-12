@@ -1,0 +1,146 @@
+{
+  "CC1": {
+    "target_connections": 1,
+    "done": 1,
+    "failures": [],
+    "visited_nodes": 518
+  },
+  "CC2": {
+    "target_connections": 1,
+    "done": 1,
+    "failures": [],
+    "visited_nodes": 202
+  },
+  "NRST": {
+    "target_connections": 4,
+    "done": 4,
+    "failures": [],
+    "visited_nodes": 4696
+  },
+  "MCU_TX_TO_VOC": {
+    "target_connections": 1,
+    "done": 1,
+    "failures": [],
+    "visited_nodes": 15152
+  },
+  "VOC_TX_TO_MCU": {
+    "target_connections": 1,
+    "done": 1,
+    "failures": [],
+    "visited_nodes": 14068
+  },
+  "LCD_CS": {
+    "target_connections": 1,
+    "done": 1,
+    "failures": [],
+    "visited_nodes": 12988
+  },
+  "LCD_CLK": {
+    "target_connections": 1,
+    "done": 1,
+    "failures": [],
+    "visited_nodes": 12499
+  },
+  "LCD_DC": {
+    "target_connections": 1,
+    "done": 1,
+    "failures": [],
+    "visited_nodes": 13874
+  },
+  "LCD_MOSI": {
+    "target_connections": 1,
+    "done": 1,
+    "failures": [],
+    "visited_nodes": 11252
+  },
+  "LCD_RST": {
+    "target_connections": 1,
+    "done": 1,
+    "failures": [],
+    "visited_nodes": 13564
+  },
+  "KEY_1": {
+    "target_connections": 1,
+    "done": 1,
+    "failures": [],
+    "visited_nodes": 7945
+  },
+  "PMS_SET": {
+    "target_connections": 1,
+    "done": 1,
+    "failures": [],
+    "visited_nodes": 23052
+  },
+  "PMS_RESET": {
+    "target_connections": 1,
+    "done": 1,
+    "failures": [],
+    "visited_nodes": 26112
+  },
+  "KEY_2": {
+    "target_connections": 1,
+    "done": 1,
+    "failures": [],
+    "visited_nodes": 3962
+  },
+  "MCU_TX_TO_PMS": {
+    "target_connections": 1,
+    "done": 1,
+    "failures": [],
+    "visited_nodes": 26295
+  },
+  "KEY_3": {
+    "target_connections": 1,
+    "done": 1,
+    "failures": [],
+    "visited_nodes": 14724
+  },
+  "PMS_TX_TO_MCU": {
+    "target_connections": 1,
+    "done": 1,
+    "failures": [],
+    "visited_nodes": 38543
+  },
+  "SWDIO": {
+    "target_connections": 1,
+    "done": 1,
+    "failures": [],
+    "visited_nodes": 2719
+  },
+  "SWCLK": {
+    "target_connections": 1,
+    "done": 1,
+    "failures": [],
+    "visited_nodes": 2923
+  },
+  "LCD_BL": {
+    "target_connections": 1,
+    "done": 1,
+    "failures": [],
+    "visited_nodes": 2863
+  },
+  "LED_K": {
+    "target_connections": 1,
+    "done": 1,
+    "failures": [],
+    "visited_nodes": 121
+  },
+  "USB_5V": {
+    "target_connections": 2,
+    "done": 2,
+    "failures": [],
+    "visited_nodes": 232
+  },
+  "5V": {
+    "target_connections": 8,
+    "done": 8,
+    "failures": [],
+    "visited_nodes": 46107
+  },
+  "3V3": {
+    "target_connections": 14,
+    "done": 14,
+    "failures": [],
+    "visited_nodes": 14674
+  }
+}

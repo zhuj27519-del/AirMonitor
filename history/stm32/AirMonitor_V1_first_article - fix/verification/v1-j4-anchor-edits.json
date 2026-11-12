@@ -1,0 +1,26 @@
+[
+  {
+    "file": "hardware\\EasyEDA\\pcb\\PCB1.epcb2",
+    "pin": "10",
+    "old_x_mm": 9.849993,
+    "new_x_mm": 9.35
+  },
+  {
+    "file": "hardware\\EasyEDA\\pcb\\PCB1.epcb2",
+    "pin": "9",
+    "old_x_mm": -9.849993,
+    "new_x_mm": -9.35
+  },
+  {
+    "file": "hardware\\EasyEDA\\sch\\Schematic1\\P1.esch2",
+    "pin": "10",
+    "old_x_mm": 9.849993,
+    "new_x_mm": 9.35
+  },
+  {
+    "file": "hardware\\EasyEDA\\sch\\Schematic1\\P1.esch2",
+    "pin": "9",
+    "old_x_mm": -9.849993,
+    "new_x_mm": -9.35
+  }
+]

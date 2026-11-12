@@ -1,0 +1,13 @@
+await eda.dmt_EditorControl.openDocument('0d571ee1a4bcf754');
+const m=v=>v/.0254;
+const lines=await eda.pcb_PrimitiveLine.getAll();
+const key=lines.filter(l=>['50ed7851da96bd02','3dc5ae6a88fe8cb1'].includes(l.getState_PrimitiveId()));
+if(key.length!==2||key.some(l=>l.getState_Net()!=='KEY3'))throw Error('KEY3 error location changed');
+const x=1561.866,y=1545.2761;
+if(key.some(l=>Math.hypot(l.getState_EndX()-x,l.getState_EndY()-y)>.01))throw Error('KEY3 endpoints do not coincide');
+await eda.pcb_PrimitiveVia.create('KEY3',x,y,m(.3),m(.6));
+const trunk=lines.filter(l=>l.getState_Net()==='5V_FUSED'&&Math.abs(l.getState_StartX()*.0254-15.73043336)<.01&&Math.abs(l.getState_EndX()*.0254-12.44495352)<.01&&Math.abs(l.getState_StartY()*.0254-40)<.01);
+if(trunk.length!==1)throw Error('Expected one input trunk');
+const before=trunk[0].getState_LineWidth();await eda.pcb_PrimitiveLine.modify(trunk[0].getState_PrimitiveId(),{lineWidth:m(.5)});
+await eda.pcb_PrimitivePoured.delete(await eda.pcb_PrimitivePoured.getAll());
+await eda.pcb_Document.save();return {key3_via_mm:[x*.0254,y*.0254],trunk:trunk[0].getState_PrimitiveId(),old_width_mm:before*.0254,new_width_mm:.5};

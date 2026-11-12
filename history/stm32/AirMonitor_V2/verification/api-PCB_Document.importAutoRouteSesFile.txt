@@ -1,0 +1,2 @@
+
+{"ok":true,"value":{"title":"导入自动布线文件（SES）","remarks":"可以使用 {@link SYS_FileSystem.openReadFileDialog} 读入文件","visibility":"beta","params":[{"name":"autoRouteFile","type":"File","description":"欲导入的 SES 文件","required":true}],"returns":{"type":"boolean","description":"导入操作是否成功"},"isAsync":true},"logs":[],"durationMs":184}

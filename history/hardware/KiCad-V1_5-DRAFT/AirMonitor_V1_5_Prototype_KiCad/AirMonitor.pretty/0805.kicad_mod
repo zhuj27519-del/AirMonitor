@@ -1,0 +1,8 @@
+(footprint "0805"
+ (version 20221018)
+ (generator "air-monitor-design")
+ (layer "F.Cu")
+ (fp_rect (start -1.615 -0.74) (end 1.615 0.74) (stroke (width 0.12) (type default)) (fill none) (layer "F.Fab"))
+ (pad "1" smd rect (at -1 0) (size 0.98 1.18) (layers "F.Cu" "F.Paste" "F.Mask"))
+ (pad "2" smd rect (at 1 0) (size 0.98 1.18) (layers "F.Cu" "F.Paste" "F.Mask"))
+)

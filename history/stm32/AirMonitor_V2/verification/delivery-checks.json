@@ -1,0 +1,17 @@
+{
+  "bom_quantity": 42,
+  "bom_unique_designators": 42,
+  "cpl_rows": 42,
+  "cpl_unique_designators": 42,
+  "bom_cpl_netlist_designators_match": true,
+  "gerber_archive_crc_error": null,
+  "gerber_member_count": 16,
+  "drill_file_count": 3,
+  "extracted_drills_match_archive": true,
+  "step_bytes": 0,
+  "step_export_status": "Timed out; optional STEP omitted; no old STEP reused",
+  "step_iso10303_header_and_terminator": false,
+  "required_files_missing_or_empty": [],
+  "scope": "Artifact integrity only; does not change NOT RELEASED engineering status",
+  "artifact_integrity_passed": true
+}

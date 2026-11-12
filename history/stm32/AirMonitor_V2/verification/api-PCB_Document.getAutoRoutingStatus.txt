@@ -1,0 +1,3 @@
+
+{"ok":false,"error":{"code":"DOC_QUERY_FAILED","message":"[help] eda.PCB_Document 下不存在方法：getAutoRoutingStatus"}}
+DOC_QUERY_FAILED: [help] eda.PCB_Document 下不存在方法：getAutoRoutingStatus

@@ -1,0 +1,706 @@
+{
+  "before_connection_errors": 23,
+  "before_disconnected_smd_pads": 21,
+  "before_track_errors": 2,
+  "before_disconnected_nets": 8,
+  "before_pins": [
+    {
+      "net": "GND",
+      "pin": "(GND): C6_2",
+      "position_mm": {
+        "x": 32.5,
+        "y": 43.0
+      },
+      "classification": "Real required connection; not an allowed NC"
+    },
+    {
+      "net": "GND",
+      "pin": "(GND): U2_2",
+      "position_mm": {
+        "x": 29.8699,
+        "y": 40.0
+      },
+      "classification": "Real required connection; not an allowed NC"
+    },
+    {
+      "net": "5V",
+      "pin": "(5V): U3_4",
+      "position_mm": {
+        "x": 17.25,
+        "y": 43.6
+      },
+      "classification": "Real required connection; not an allowed NC"
+    },
+    {
+      "net": "5V",
+      "pin": "(5V): U3_5",
+      "position_mm": {
+        "x": 17.75,
+        "y": 43.6
+      },
+      "classification": "Real required connection; not an allowed NC"
+    },
+    {
+      "net": "5V",
+      "pin": "(5V): U3_6",
+      "position_mm": {
+        "x": 18.25,
+        "y": 43.6
+      },
+      "classification": "Real required connection; not an allowed NC"
+    },
+    {
+      "net": "5V",
+      "pin": "(5V): U3_7",
+      "position_mm": {
+        "x": 18.9,
+        "y": 44.25
+      },
+      "classification": "Real required connection; not an allowed NC"
+    },
+    {
+      "net": "5V",
+      "pin": "(5V): U3_8",
+      "position_mm": {
+        "x": 18.9,
+        "y": 44.75
+      },
+      "classification": "Real required connection; not an allowed NC"
+    },
+    {
+      "net": "5V",
+      "pin": "(5V): C13_1",
+      "position_mm": {
+        "x": 25.0,
+        "y": 46.3
+      },
+      "classification": "Real required connection; not an allowed NC"
+    },
+    {
+      "net": "EF_EN",
+      "pin": "(EF_EN): U3_14",
+      "position_mm": {
+        "x": 16.75,
+        "y": 46.4
+      },
+      "classification": "Real required connection; not an allowed NC"
+    },
+    {
+      "net": "EF_EN",
+      "pin": "(EF_EN): U4_6",
+      "position_mm": {
+        "x": 22.65,
+        "y": 53.05
+      },
+      "classification": "Real required connection; not an allowed NC"
+    },
+    {
+      "net": "KEY3",
+      "pin": "(KEY3): e1557",
+      "position_mm": {
+        "x": 40.2108,
+        "y": 39.25
+      },
+      "classification": "Real required connection; not an allowed NC"
+    },
+    {
+      "net": "KEY3",
+      "pin": "(KEY3): e1564",
+      "position_mm": {
+        "x": 39.7473,
+        "y": 39.1741
+      },
+      "classification": "Real required connection; not an allowed NC"
+    },
+    {
+      "net": "5V_FUSED",
+      "pin": "(5V_FUSED): U3_13",
+      "position_mm": {
+        "x": 17.25,
+        "y": 46.4
+      },
+      "classification": "Real required connection; not an allowed NC"
+    },
+    {
+      "net": "5V_FUSED",
+      "pin": "(5V_FUSED): U3_12",
+      "position_mm": {
+        "x": 17.75,
+        "y": 46.4
+      },
+      "classification": "Real required connection; not an allowed NC"
+    },
+    {
+      "net": "5V_FUSED",
+      "pin": "(5V_FUSED): U3_9",
+      "position_mm": {
+        "x": 18.9,
+        "y": 45.25
+      },
+      "classification": "Real required connection; not an allowed NC"
+    },
+    {
+      "net": "5V_FUSED",
+      "pin": "(5V_FUSED): U3_10",
+      "position_mm": {
+        "x": 18.9,
+        "y": 45.75
+      },
+      "classification": "Real required connection; not an allowed NC"
+    },
+    {
+      "net": "5V_FUSED",
+      "pin": "(5V_FUSED): U3_11",
+      "position_mm": {
+        "x": 18.25,
+        "y": 46.4
+      },
+      "classification": "Real required connection; not an allowed NC"
+    },
+    {
+      "net": "OVP_DIV",
+      "pin": "(OVP_DIV): U3_15",
+      "position_mm": {
+        "x": 16.25,
+        "y": 46.4
+      },
+      "classification": "Real required connection; not an allowed NC"
+    },
+    {
+      "net": "OVP_DIV",
+      "pin": "(OVP_DIV): R8_2",
+      "position_mm": {
+        "x": 16.2534,
+        "y": 51.0
+      },
+      "classification": "Real required connection; not an allowed NC"
+    },
+    {
+      "net": "EF_DVDT",
+      "pin": "(EF_DVDT): C12_1",
+      "position_mm": {
+        "x": 12.5,
+        "y": 42.8
+      },
+      "classification": "Real required connection; not an allowed NC"
+    },
+    {
+      "net": "EF_DVDT",
+      "pin": "(EF_DVDT): U3_18",
+      "position_mm": {
+        "x": 15.1,
+        "y": 45.25
+      },
+      "classification": "Real required connection; not an allowed NC"
+    },
+    {
+      "net": "EF_ILIM",
+      "pin": "(EF_ILIM): R10_1",
+      "position_mm": {
+        "x": 12.5,
+        "y": 45.2466
+      },
+      "classification": "Real required connection; not an allowed NC"
+    },
+    {
+      "net": "EF_ILIM",
+      "pin": "(EF_ILIM): U3_17",
+      "position_mm": {
+        "x": 15.1,
+        "y": 45.75
+      },
+      "classification": "Real required connection; not an allowed NC"
+    }
+  ],
+  "power_trace_geometry": {
+    "VBUS": {
+      "widths_mm": [
+        0.49987
+      ],
+      "short_segments_below_0p3mm": [],
+      "max_short_segment_mm": 0
+    },
+    "5V_FUSED": {
+      "widths_mm": [
+        0.2,
+        0.20015,
+        0.49987,
+        0.5
+      ],
+      "short_segments_below_0p3mm": [
+        {
+          "width_mm": 0.20015200000000002,
+          "length_mm": 0.6045174600000024,
+          "start_mm": [
+            18.89983774,
+            45.249985699999996
+          ],
+          "end_mm": [
+            19.504355200000003,
+            45.249985699999996
+          ]
+        },
+        {
+          "width_mm": 0.20015200000000002,
+          "length_mm": 3.1380535147415025,
+          "start_mm": [
+            21.723294119999995,
+            47.468924619999996
+          ],
+          "end_mm": [
+            19.504355200000003,
+            45.249985699999996
+          ]
+        },
+        {
+          "width_mm": 0.20000000000000004,
+          "length_mm": 0.5999999999999964,
+          "start_mm": [
+            17.25,
+            46.400000000000006
+          ],
+          "end_mm": [
+            17.25,
+            47.0
+          ]
+        },
+        {
+          "width_mm": 0.20000000000000004,
+          "length_mm": 0.5999999999999964,
+          "start_mm": [
+            17.75,
+            46.400000000000006
+          ],
+          "end_mm": [
+            17.75,
+            47.0
+          ]
+        },
+        {
+          "width_mm": 0.20000000000000004,
+          "length_mm": 0.5999999999999964,
+          "start_mm": [
+            18.250000000000004,
+            46.400000000000006
+          ],
+          "end_mm": [
+            18.250000000000004,
+            47.0
+          ]
+        },
+        {
+          "width_mm": 0.20000000000000004,
+          "length_mm": 0.6000000000000022,
+          "start_mm": [
+            18.9,
+            45.75
+          ],
+          "end_mm": [
+            19.5,
+            45.75
+          ]
+        },
+        {
+          "width_mm": 0.20000000000000004,
+          "length_mm": 0.4999999999999989,
+          "start_mm": [
+            17.25,
+            47.0
+          ],
+          "end_mm": [
+            17.75,
+            47.0
+          ]
+        },
+        {
+          "width_mm": 0.20000000000000004,
+          "length_mm": 0.5000000000000018,
+          "start_mm": [
+            17.75,
+            47.0
+          ],
+          "end_mm": [
+            18.250000000000004,
+            47.0
+          ]
+        },
+        {
+          "width_mm": 0.20000000000000004,
+          "length_mm": 1.2499999999999987,
+          "start_mm": [
+            18.250000000000004,
+            47.0
+          ],
+          "end_mm": [
+            19.5,
+            47.0
+          ]
+        },
+        {
+          "width_mm": 0.20000000000000004,
+          "length_mm": 1.2499999999999987,
+          "start_mm": [
+            19.5,
+            47.0
+          ],
+          "end_mm": [
+            19.5,
+            45.75
+          ]
+        },
+        {
+          "width_mm": 0.20000000000000004,
+          "length_mm": 0.5000000000000018,
+          "start_mm": [
+            19.5,
+            45.75
+          ],
+          "end_mm": [
+            19.5,
+            45.25
+          ]
+        }
+      ],
+      "max_short_segment_mm": 3.1380535147415025
+    },
+    "5V": {
+      "widths_mm": [
+        0.2,
+        0.49987,
+        0.5
+      ],
+      "short_segments_below_0p3mm": [
+        {
+          "width_mm": 0.20000000000000004,
+          "length_mm": 0.6000000000000137,
+          "start_mm": [
+            17.25,
+            43.60000000000001
+          ],
+          "end_mm": [
+            17.25,
+            42.99999999999999
+          ]
+        },
+        {
+          "width_mm": 0.20000000000000004,
+          "length_mm": 0.6000000000000137,
+          "start_mm": [
+            17.75,
+            43.60000000000001
+          ],
+          "end_mm": [
+            17.75,
+            42.99999999999999
+          ]
+        },
+        {
+          "width_mm": 0.20000000000000004,
+          "length_mm": 0.6000000000000137,
+          "start_mm": [
+            18.250000000000004,
+            43.60000000000001
+          ],
+          "end_mm": [
+            18.250000000000004,
+            42.99999999999999
+          ]
+        },
+        {
+          "width_mm": 0.20000000000000004,
+          "length_mm": 0.6000000000000022,
+          "start_mm": [
+            18.9,
+            44.25
+          ],
+          "end_mm": [
+            19.5,
+            44.25
+          ]
+        },
+        {
+          "width_mm": 0.20000000000000004,
+          "length_mm": 0.6000000000000022,
+          "start_mm": [
+            18.9,
+            44.75
+          ],
+          "end_mm": [
+            19.5,
+            44.75
+          ]
+        },
+        {
+          "width_mm": 0.20000000000000004,
+          "length_mm": 0.4999999999999989,
+          "start_mm": [
+            17.25,
+            42.99999999999999
+          ],
+          "end_mm": [
+            17.75,
+            42.99999999999999
+          ]
+        },
+        {
+          "width_mm": 0.20000000000000004,
+          "length_mm": 0.5000000000000018,
+          "start_mm": [
+            17.75,
+            42.99999999999999
+          ],
+          "end_mm": [
+            18.250000000000004,
+            42.99999999999999
+          ]
+        },
+        {
+          "width_mm": 0.20000000000000004,
+          "length_mm": 1.2499999999999987,
+          "start_mm": [
+            18.250000000000004,
+            42.99999999999999
+          ],
+          "end_mm": [
+            19.5,
+            42.99999999999999
+          ]
+        },
+        {
+          "width_mm": 0.20000000000000004,
+          "length_mm": 1.2500000000000044,
+          "start_mm": [
+            19.5,
+            42.99999999999999
+          ],
+          "end_mm": [
+            19.5,
+            44.25
+          ]
+        },
+        {
+          "width_mm": 0.20000000000000004,
+          "length_mm": 0.5000000000000018,
+          "start_mm": [
+            19.5,
+            44.25
+          ],
+          "end_mm": [
+            19.5,
+            44.75
+          ]
+        }
+      ],
+      "max_short_segment_mm": 1.2500000000000044
+    },
+    "3V3": {
+      "widths_mm": [
+        0.24841,
+        0.49987
+      ],
+      "short_segments_below_0p3mm": [
+        {
+          "width_mm": 0.24841199999999997,
+          "length_mm": 0.3525494600000034,
+          "start_mm": [
+            44.05009224,
+            33.147424179999994
+          ],
+          "end_mm": [
+            44.05009224,
+            33.49997364
+          ]
+        },
+        {
+          "width_mm": 0.24841199999999997,
+          "length_mm": 1.0787354600000012,
+          "start_mm": [
+            44.75011369999999,
+            35.75015456
+          ],
+          "end_mm": [
+            44.75011369999999,
+            36.82889002
+          ]
+        },
+        {
+          "width_mm": 0.24841199999999997,
+          "length_mm": 0.20446999999999885,
+          "start_mm": [
+            44.75011369999999,
+            36.82889002
+          ],
+          "end_mm": [
+            44.5456437,
+            36.82889002
+          ]
+        },
+        {
+          "width_mm": 0.24841199999999997,
+          "length_mm": 0.41811892894961716,
+          "start_mm": [
+            44.5456437,
+            36.82889002
+          ],
+          "end_mm": [
+            44.249990239999995,
+            36.533234019999995
+          ]
+        },
+        {
+          "width_mm": 0.24841199999999997,
+          "length_mm": 0.9913594600000056,
+          "start_mm": [
+            43.75011824,
+            35.75015456
+          ],
+          "end_mm": [
+            43.75011824,
+            36.741514020000004
+          ]
+        },
+        {
+          "width_mm": 0.24841199999999997,
+          "length_mm": 0.12356832422590942,
+          "start_mm": [
+            43.75011824,
+            36.741514020000004
+          ],
+          "end_mm": [
+            43.83749424,
+            36.82889002
+          ]
+        },
+        {
+          "width_mm": 0.24841199999999997,
+          "length_mm": 0.11683999999999768,
+          "start_mm": [
+            43.83749424,
+            36.82889002
+          ],
+          "end_mm": [
+            43.954334239999994,
+            36.82889002
+          ]
+        },
+        {
+          "width_mm": 0.24841199999999997,
+          "length_mm": 0.4181207249969793,
+          "start_mm": [
+            43.954334239999994,
+            36.82889002
+          ],
+          "end_mm": [
+            44.249990239999995,
+            36.533234019999995
+          ]
+        },
+        {
+          "width_mm": 0.24841199999999997,
+          "length_mm": 0.7830794599999987,
+          "start_mm": [
+            44.249990239999995,
+            36.533234019999995
+          ],
+          "end_mm": [
+            44.249990239999995,
+            35.75015456
+          ]
+        },
+        {
+          "width_mm": 0.24841199999999997,
+          "length_mm": 1.8686729199999996,
+          "start_mm": [
+            44.75011369999999,
+            36.82889002
+          ],
+          "end_mm": [
+            46.618786619999995,
+            36.82889002
+          ]
+        },
+        {
+          "width_mm": 0.24841199999999997,
+          "length_mm": 0.2880866163638978,
+          "start_mm": [
+            46.618786619999995,
+            36.82889002
+          ],
+          "end_mm": [
+            46.82249461999999,
+            37.03259802
+          ]
+        },
+        {
+          "width_mm": 0.24841199999999997,
+          "length_mm": 0.3726154600000082,
+          "start_mm": [
+            49.838229000000005,
+            36.26806056
+          ],
+          "end_mm": [
+            49.46561353999999,
+            36.26806056
+          ]
+        },
+        {
+          "width_mm": 0.24841199999999997,
+          "length_mm": 0.6670534246730185,
+          "start_mm": [
+            49.46561353999999,
+            36.26806056
+          ],
+          "end_mm": [
+            48.993935539999995,
+            35.79638256
+          ]
+        },
+        {
+          "width_mm": 0.24841199999999997,
+          "length_mm": 0.6670534246730185,
+          "start_mm": [
+            48.993935539999995,
+            35.79638256
+          ],
+          "end_mm": [
+            48.52225754,
+            36.26806056
+          ]
+        },
+        {
+          "width_mm": 0.24841199999999997,
+          "length_mm": 0.935225459999999,
+          "start_mm": [
+            48.52225754,
+            36.26806056
+          ],
+          "end_mm": [
+            47.58703208,
+            36.26806056
+          ]
+        },
+        {
+          "width_mm": 0.24841199999999997,
+          "length_mm": 1.0812192448742795,
+          "start_mm": [
+            47.58703208,
+            36.26806056
+          ],
+          "end_mm": [
+            46.82249461999999,
+            37.03259802
+          ]
+        }
+      ],
+      "max_short_segment_mm": 1.8686729199999996
+    }
+  },
+  "allowed_nc": [
+    "U3.2 PGOOD",
+    "U3.19 IMON",
+    "U3.20 FLT",
+    "U4.1 OUTA",
+    "Unused MCU GPIO pins declared NC"
+  ],
+  "thermal_measurements_performed": false
+}

@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "AirMonitor")(type "KiCad")(uri "${KIPRJMOD}/AirMonitor.pretty")(options "")(descr "Project-local conceptual footprints; NEED manufacturer mechanical validation"))
+)

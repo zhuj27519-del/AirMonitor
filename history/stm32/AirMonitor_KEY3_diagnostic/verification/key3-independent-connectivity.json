@@ -1,0 +1,236 @@
+{
+  "units": "mm in report; native inputs mil",
+  "native_live_key3_geometry_matches": true,
+  "semantic_changes_vs_sealed_delivery": [
+    {
+      "record": [
+        "0d571ee1a4bcf754",
+        "PRIMITIVE",
+        "[\"PRIMITIVE\",\"COPPERFILLED\"]"
+      ],
+      "before": {
+        "display": true,
+        "pick": true,
+        "transparency": null,
+        "viewMode": null
+      },
+      "after": {
+        "display": false,
+        "pick": true,
+        "transparency": null,
+        "viewMode": null
+      }
+    },
+    {
+      "record": [
+        "0d571ee1a4bcf754",
+        "PRIMITIVE",
+        "[\"PRIMITIVE\",\"COPPEROUTLINE\"]"
+      ],
+      "before": {
+        "display": true,
+        "pick": true,
+        "transparency": 0.3,
+        "viewMode": null
+      },
+      "after": {
+        "display": false,
+        "pick": true,
+        "transparency": 0.3,
+        "viewMode": null
+      }
+    }
+  ],
+  "physical_or_rule_changes_vs_sealed_delivery": [],
+  "all_key3_objects_reachable_from_U1_44": true,
+  "three_required_pads_same_copper_component": true,
+  "node_count": 16,
+  "trace_count": 12,
+  "plated_via_count": 1,
+  "pad_count": 3,
+  "paths": {
+    "U1.44": [
+      "U1.44"
+    ],
+    "R6.2": [
+      "U1.44",
+      "50ed7851da96bd02",
+      "9b31158553647615",
+      "0f41f76142e860f0",
+      "a817ab0d1483d6f2",
+      "66b9171361bd2f30",
+      "6ee9d2cd0735d91f",
+      "a52c834fd07f68b0",
+      "6243fb3085fe0957",
+      "86e872637536511b",
+      "09e4729f14009908",
+      "R6.2"
+    ],
+    "SW3.1": [
+      "U1.44",
+      "50ed7851da96bd02",
+      "9b31158553647615",
+      "0f41f76142e860f0",
+      "a817ab0d1483d6f2",
+      "66b9171361bd2f30",
+      "6ee9d2cd0735d91f",
+      "a52c834fd07f68b0",
+      "6243fb3085fe0957",
+      "f0ba5987f4d8cb06",
+      "e562ea94a4fff578",
+      "SW3.1"
+    ]
+  },
+  "negative_control_remove_via_disconnects_mcu": true,
+  "edges": [
+    {
+      "a": "e562ea94a4fff578",
+      "b": "f0ba5987f4d8cb06",
+      "basis": "same-layer trace copper overlap",
+      "overlap_margin_mm": 0.24917399999999995
+    },
+    {
+      "a": "e562ea94a4fff578",
+      "b": "SW3.1",
+      "basis": "trace endpoint strictly inside actual pad copper",
+      "overlap_margin_mm": 0.5241086800000083
+    },
+    {
+      "a": "09e4729f14009908",
+      "b": "86e872637536511b",
+      "basis": "same-layer trace copper overlap",
+      "overlap_margin_mm": 0.24917399999999995
+    },
+    {
+      "a": "09e4729f14009908",
+      "b": "R6.2",
+      "basis": "trace endpoint strictly inside actual pad copper",
+      "overlap_margin_mm": 0.40294305999999336
+    },
+    {
+      "a": "86e872637536511b",
+      "b": "6243fb3085fe0957",
+      "basis": "same-layer trace copper overlap",
+      "overlap_margin_mm": 0.24841199999999997
+    },
+    {
+      "a": "86e872637536511b",
+      "b": "f0ba5987f4d8cb06",
+      "basis": "same-layer trace copper overlap",
+      "overlap_margin_mm": 0.24841199999999997
+    },
+    {
+      "a": "6243fb3085fe0957",
+      "b": "a52c834fd07f68b0",
+      "basis": "same-layer trace copper overlap",
+      "overlap_margin_mm": 0.24841199999999997
+    },
+    {
+      "a": "6243fb3085fe0957",
+      "b": "f0ba5987f4d8cb06",
+      "basis": "same-layer trace copper overlap",
+      "overlap_margin_mm": 0.24841199999999997
+    },
+    {
+      "a": "a52c834fd07f68b0",
+      "b": "6ee9d2cd0735d91f",
+      "basis": "same-layer trace copper overlap",
+      "overlap_margin_mm": 0.24841199999999997
+    },
+    {
+      "a": "6ee9d2cd0735d91f",
+      "b": "66b9171361bd2f30",
+      "basis": "same-layer trace copper overlap",
+      "overlap_margin_mm": 0.24841199999999997
+    },
+    {
+      "a": "66b9171361bd2f30",
+      "b": "a817ab0d1483d6f2",
+      "basis": "same-layer trace copper overlap",
+      "overlap_margin_mm": 0.24841199999999997
+    },
+    {
+      "a": "a817ab0d1483d6f2",
+      "b": "0f41f76142e860f0",
+      "basis": "same-layer trace copper overlap",
+      "overlap_margin_mm": 0.24841199999999997
+    },
+    {
+      "a": "0f41f76142e860f0",
+      "b": "3dc5ae6a88fe8cb1",
+      "basis": "same-layer trace copper overlap",
+      "overlap_margin_mm": 0.24841199999999997
+    },
+    {
+      "a": "0f41f76142e860f0",
+      "b": "9b31158553647615",
+      "basis": "trace intersects annular copper of plated through via",
+      "overlap_margin_mm": 0.20911827358402524
+    },
+    {
+      "a": "3dc5ae6a88fe8cb1",
+      "b": "9b31158553647615",
+      "basis": "trace intersects annular copper of plated through via",
+      "overlap_margin_mm": 0.18915372641597475
+    },
+    {
+      "a": "50ed7851da96bd02",
+      "b": "U1.44",
+      "basis": "trace endpoint strictly inside actual pad copper",
+      "overlap_margin_mm": 0.13401294000000222
+    },
+    {
+      "a": "50ed7851da96bd02",
+      "b": "9b31158553647615",
+      "basis": "trace intersects annular copper of plated through via",
+      "overlap_margin_mm": 0.423926
+    }
+  ],
+  "key_objects": [
+    {
+      "async": true,
+      "primitiveType": "Line",
+      "net": "KEY3",
+      "layer": 2,
+      "startX": 1567.846,
+      "startY": 1539.2961,
+      "endX": 1561.866,
+      "endY": 1545.2761,
+      "lineWidth": 9.78,
+      "primitiveLock": false,
+      "primitiveId": "3dc5ae6a88fe8cb1",
+      "start_mm": [
+        39.823288399999996,
+        39.09812094
+      ],
+      "end_mm": [
+        39.6713964,
+        39.25001294
+      ],
+      "width_mm": 0.24841199999999997
+    },
+    {
+      "async": true,
+      "primitiveType": "Line",
+      "net": "KEY3",
+      "layer": 1,
+      "startX": 1604.3359,
+      "startY": 1545.2761,
+      "endX": 1561.866,
+      "endY": 1545.2761,
+      "lineWidth": 9.78,
+      "primitiveLock": false,
+      "primitiveId": "50ed7851da96bd02",
+      "start_mm": [
+        40.750131859999996,
+        39.25001294
+      ],
+      "end_mm": [
+        39.6713964,
+        39.25001294
+      ],
+      "width_mm": 0.24841199999999997
+    }
+  ],
+  "method_limits": "Conservative geometry graph uses trace widths, actual pin API pad shapes, annular copper and plated barrel. No reliance on equal net names alone; no GND pour used to establish KEY3. Not an electrical measurement."
+}

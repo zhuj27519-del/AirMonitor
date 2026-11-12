@@ -1,0 +1,36 @@
+# Local evidence and unreviewed opaque packages
+/local-only/
+**/build/
+**/Debug/
+**/Release/
+**/.metadata/
+**/__pycache__/
+*.pyc
+*.o
+*.elf
+*.map
+*.bin
+*.hex
+*.zip
+*.bundle
+*.7z
+*.rar
+*.exe
+*.dll
+# Credentials
+.env
+.env.*
+!.env.example
+secrets.h
+credentials.h
+wifi_config.h
+*.pem
+*.key
+*.p12
+*.pfx
+# Machine state
+.DS_Store
+Thumbs.db
+*.lck
+*.bak
+*.kicad_prl

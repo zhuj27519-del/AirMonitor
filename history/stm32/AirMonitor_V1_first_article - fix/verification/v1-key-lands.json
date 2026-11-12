@@ -1,0 +1,996 @@
+{
+  "J4": [
+    {
+      "pin": "10",
+      "x": 9.35,
+      "y": -2.825,
+      "w": 1.5,
+      "h": 3.4,
+      "rotation": 180,
+      "hole": null
+    },
+    {
+      "pin": "9",
+      "x": -9.35,
+      "y": -2.825,
+      "w": 1.5,
+      "h": 3.4,
+      "rotation": 180,
+      "hole": null
+    },
+    {
+      "pin": "8",
+      "x": 6.9998,
+      "y": 2.825,
+      "w": 1.0,
+      "h": 3.5,
+      "rotation": 180,
+      "hole": null
+    },
+    {
+      "pin": "7",
+      "x": 4.9998,
+      "y": 2.825,
+      "w": 1.0,
+      "h": 3.5,
+      "rotation": 180,
+      "hole": null
+    },
+    {
+      "pin": "6",
+      "x": 2.9998,
+      "y": 2.825,
+      "w": 1.0,
+      "h": 3.5,
+      "rotation": 180,
+      "hole": null
+    },
+    {
+      "pin": "5",
+      "x": 0.9998,
+      "y": 2.825,
+      "w": 1.0,
+      "h": 3.5,
+      "rotation": 180,
+      "hole": null
+    },
+    {
+      "pin": "4",
+      "x": -1.0002,
+      "y": 2.825,
+      "w": 1.0,
+      "h": 3.5,
+      "rotation": 180,
+      "hole": null
+    },
+    {
+      "pin": "3",
+      "x": -3.0002,
+      "y": 2.825,
+      "w": 1.0,
+      "h": 3.5,
+      "rotation": 180,
+      "hole": null
+    },
+    {
+      "pin": "2",
+      "x": -5.0002,
+      "y": 2.825,
+      "w": 1.0,
+      "h": 3.5,
+      "rotation": 180,
+      "hole": null
+    },
+    {
+      "pin": "1",
+      "x": -7.0002,
+      "y": 2.825,
+      "w": 1.0,
+      "h": 3.5,
+      "rotation": 180,
+      "hole": null
+    }
+  ],
+  "J3": [
+    {
+      "pin": "1",
+      "x": 3.0,
+      "y": -2.9875,
+      "w": 1.0,
+      "h": 3.5,
+      "rotation": 0,
+      "hole": null
+    },
+    {
+      "pin": "2",
+      "x": 1.0,
+      "y": -2.9873,
+      "w": 1.0,
+      "h": 3.5,
+      "rotation": 0,
+      "hole": null
+    },
+    {
+      "pin": "3",
+      "x": -1.0,
+      "y": -2.9873,
+      "w": 1.0,
+      "h": 3.5,
+      "rotation": 0,
+      "hole": null
+    },
+    {
+      "pin": "4",
+      "x": -3.0,
+      "y": -2.9873,
+      "w": 1.0,
+      "h": 3.5,
+      "rotation": 0,
+      "hole": null
+    },
+    {
+      "pin": "5",
+      "x": -5.35,
+      "y": 2.9875,
+      "w": 1.8,
+      "h": 3.7,
+      "rotation": 0,
+      "hole": null
+    },
+    {
+      "pin": "6",
+      "x": 5.35,
+      "y": 2.9875,
+      "w": 1.8,
+      "h": 3.7,
+      "rotation": 0,
+      "hole": null
+    }
+  ],
+  "U1": [
+    {
+      "pin": "1",
+      "x": -2.7501,
+      "y": -4.2499,
+      "w": 0.27,
+      "h": 1.5,
+      "rotation": 0,
+      "hole": {
+        "holeType": "ROUND",
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "pin": "2",
+      "x": -2.2499,
+      "y": -4.2499,
+      "w": 0.27,
+      "h": 1.5,
+      "rotation": 0,
+      "hole": {
+        "holeType": "ROUND",
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "pin": "3",
+      "x": -1.7501,
+      "y": -4.2499,
+      "w": 0.27,
+      "h": 1.5,
+      "rotation": 0,
+      "hole": {
+        "holeType": "ROUND",
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "pin": "4",
+      "x": -1.2499,
+      "y": -4.2499,
+      "w": 0.27,
+      "h": 1.5,
+      "rotation": 0,
+      "hole": {
+        "holeType": "ROUND",
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "pin": "5",
+      "x": -0.7501,
+      "y": -4.2499,
+      "w": 0.27,
+      "h": 1.5,
+      "rotation": 0,
+      "hole": {
+        "holeType": "ROUND",
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "pin": "6",
+      "x": -0.2499,
+      "y": -4.2499,
+      "w": 0.27,
+      "h": 1.5,
+      "rotation": 0,
+      "hole": {
+        "holeType": "ROUND",
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "pin": "7",
+      "x": 0.2499,
+      "y": -4.2499,
+      "w": 0.27,
+      "h": 1.5,
+      "rotation": 0,
+      "hole": {
+        "holeType": "ROUND",
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "pin": "8",
+      "x": 0.7501,
+      "y": -4.2499,
+      "w": 0.27,
+      "h": 1.5,
+      "rotation": 0,
+      "hole": {
+        "holeType": "ROUND",
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "pin": "9",
+      "x": 1.2499,
+      "y": -4.2499,
+      "w": 0.27,
+      "h": 1.5,
+      "rotation": 0,
+      "hole": {
+        "holeType": "ROUND",
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "pin": "10",
+      "x": 1.7501,
+      "y": -4.2499,
+      "w": 0.27,
+      "h": 1.5,
+      "rotation": 0,
+      "hole": {
+        "holeType": "ROUND",
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "pin": "11",
+      "x": 2.2499,
+      "y": -4.2499,
+      "w": 0.27,
+      "h": 1.5,
+      "rotation": 0,
+      "hole": {
+        "holeType": "ROUND",
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "pin": "12",
+      "x": 2.7501,
+      "y": -4.2499,
+      "w": 0.27,
+      "h": 1.5,
+      "rotation": 0,
+      "hole": {
+        "holeType": "ROUND",
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "pin": "13",
+      "x": 4.2499,
+      "y": -2.7501,
+      "w": 1.5,
+      "h": 0.27,
+      "rotation": 0,
+      "hole": {
+        "holeType": "ROUND",
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "pin": "14",
+      "x": 4.2499,
+      "y": -2.2499,
+      "w": 1.5,
+      "h": 0.27,
+      "rotation": 0,
+      "hole": {
+        "holeType": "ROUND",
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "pin": "15",
+      "x": 4.2499,
+      "y": -1.7501,
+      "w": 1.5,
+      "h": 0.27,
+      "rotation": 0,
+      "hole": {
+        "holeType": "ROUND",
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "pin": "16",
+      "x": 4.2499,
+      "y": -1.2499,
+      "w": 1.5,
+      "h": 0.27,
+      "rotation": 0,
+      "hole": {
+        "holeType": "ROUND",
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "pin": "17",
+      "x": 4.2499,
+      "y": -0.7501,
+      "w": 1.5,
+      "h": 0.27,
+      "rotation": 0,
+      "hole": {
+        "holeType": "ROUND",
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "pin": "18",
+      "x": 4.2499,
+      "y": -0.2499,
+      "w": 1.5,
+      "h": 0.27,
+      "rotation": 0,
+      "hole": {
+        "holeType": "ROUND",
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "pin": "19",
+      "x": 4.2499,
+      "y": 0.2499,
+      "w": 1.5,
+      "h": 0.27,
+      "rotation": 0,
+      "hole": {
+        "holeType": "ROUND",
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "pin": "20",
+      "x": 4.2499,
+      "y": 0.7501,
+      "w": 1.5,
+      "h": 0.27,
+      "rotation": 0,
+      "hole": {
+        "holeType": "ROUND",
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "pin": "21",
+      "x": 4.2499,
+      "y": 1.2499,
+      "w": 1.5,
+      "h": 0.27,
+      "rotation": 0,
+      "hole": {
+        "holeType": "ROUND",
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "pin": "22",
+      "x": 4.2499,
+      "y": 1.7501,
+      "w": 1.5,
+      "h": 0.27,
+      "rotation": 0,
+      "hole": {
+        "holeType": "ROUND",
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "pin": "23",
+      "x": 4.2499,
+      "y": 2.2499,
+      "w": 1.5,
+      "h": 0.27,
+      "rotation": 0,
+      "hole": {
+        "holeType": "ROUND",
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "pin": "24",
+      "x": 4.2499,
+      "y": 2.7501,
+      "w": 1.5,
+      "h": 0.27,
+      "rotation": 0,
+      "hole": {
+        "holeType": "ROUND",
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "pin": "25",
+      "x": 2.7501,
+      "y": 4.2499,
+      "w": 0.27,
+      "h": 1.5,
+      "rotation": 0,
+      "hole": {
+        "holeType": "ROUND",
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "pin": "26",
+      "x": 2.2499,
+      "y": 4.2499,
+      "w": 0.27,
+      "h": 1.5,
+      "rotation": 0,
+      "hole": {
+        "holeType": "ROUND",
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "pin": "27",
+      "x": 1.7501,
+      "y": 4.2499,
+      "w": 0.27,
+      "h": 1.5,
+      "rotation": 0,
+      "hole": {
+        "holeType": "ROUND",
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "pin": "28",
+      "x": 1.2499,
+      "y": 4.2499,
+      "w": 0.27,
+      "h": 1.5,
+      "rotation": 0,
+      "hole": {
+        "holeType": "ROUND",
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "pin": "29",
+      "x": 0.7501,
+      "y": 4.2499,
+      "w": 0.27,
+      "h": 1.5,
+      "rotation": 0,
+      "hole": {
+        "holeType": "ROUND",
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "pin": "30",
+      "x": 0.2499,
+      "y": 4.2499,
+      "w": 0.27,
+      "h": 1.5,
+      "rotation": 0,
+      "hole": {
+        "holeType": "ROUND",
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "pin": "31",
+      "x": -0.2499,
+      "y": 4.2499,
+      "w": 0.27,
+      "h": 1.5,
+      "rotation": 0,
+      "hole": {
+        "holeType": "ROUND",
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "pin": "32",
+      "x": -0.7501,
+      "y": 4.2499,
+      "w": 0.27,
+      "h": 1.5,
+      "rotation": 0,
+      "hole": {
+        "holeType": "ROUND",
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "pin": "33",
+      "x": -1.2499,
+      "y": 4.2499,
+      "w": 0.27,
+      "h": 1.5,
+      "rotation": 0,
+      "hole": {
+        "holeType": "ROUND",
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "pin": "34",
+      "x": -1.7501,
+      "y": 4.2499,
+      "w": 0.27,
+      "h": 1.5,
+      "rotation": 0,
+      "hole": {
+        "holeType": "ROUND",
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "pin": "35",
+      "x": -2.2499,
+      "y": 4.2499,
+      "w": 0.27,
+      "h": 1.5,
+      "rotation": 0,
+      "hole": {
+        "holeType": "ROUND",
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "pin": "36",
+      "x": -2.7501,
+      "y": 4.2499,
+      "w": 0.27,
+      "h": 1.5,
+      "rotation": 0,
+      "hole": {
+        "holeType": "ROUND",
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "pin": "37",
+      "x": -4.2499,
+      "y": 2.7501,
+      "w": 1.5,
+      "h": 0.27,
+      "rotation": 0,
+      "hole": {
+        "holeType": "ROUND",
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "pin": "38",
+      "x": -4.2499,
+      "y": 2.2499,
+      "w": 1.5,
+      "h": 0.27,
+      "rotation": 0,
+      "hole": {
+        "holeType": "ROUND",
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "pin": "39",
+      "x": -4.2499,
+      "y": 1.7501,
+      "w": 1.5,
+      "h": 0.27,
+      "rotation": 0,
+      "hole": {
+        "holeType": "ROUND",
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "pin": "40",
+      "x": -4.2499,
+      "y": 1.2499,
+      "w": 1.5,
+      "h": 0.27,
+      "rotation": 0,
+      "hole": {
+        "holeType": "ROUND",
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "pin": "41",
+      "x": -4.2499,
+      "y": 0.7501,
+      "w": 1.5,
+      "h": 0.27,
+      "rotation": 0,
+      "hole": {
+        "holeType": "ROUND",
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "pin": "42",
+      "x": -4.2499,
+      "y": 0.2499,
+      "w": 1.5,
+      "h": 0.27,
+      "rotation": 0,
+      "hole": {
+        "holeType": "ROUND",
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "pin": "43",
+      "x": -4.2499,
+      "y": -0.2499,
+      "w": 1.5,
+      "h": 0.27,
+      "rotation": 0,
+      "hole": {
+        "holeType": "ROUND",
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "pin": "44",
+      "x": -4.2499,
+      "y": -0.7501,
+      "w": 1.5,
+      "h": 0.27,
+      "rotation": 0,
+      "hole": {
+        "holeType": "ROUND",
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "pin": "45",
+      "x": -4.2499,
+      "y": -1.2499,
+      "w": 1.5,
+      "h": 0.27,
+      "rotation": 0,
+      "hole": {
+        "holeType": "ROUND",
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "pin": "46",
+      "x": -4.2499,
+      "y": -1.7501,
+      "w": 1.5,
+      "h": 0.27,
+      "rotation": 0,
+      "hole": {
+        "holeType": "ROUND",
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "pin": "47",
+      "x": -4.2499,
+      "y": -2.2499,
+      "w": 1.5,
+      "h": 0.27,
+      "rotation": 0,
+      "hole": {
+        "holeType": "ROUND",
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "pin": "48",
+      "x": -4.2499,
+      "y": -2.7501,
+      "w": 1.5,
+      "h": 0.27,
+      "rotation": 0,
+      "hole": {
+        "holeType": "ROUND",
+        "width": 0,
+        "height": 0
+      }
+    }
+  ],
+  "J1": [
+    {
+      "pin": "A12",
+      "x": 2.7502,
+      "y": 1.9401,
+      "w": 0.8,
+      "h": 1.2,
+      "rotation": 0,
+      "hole": null
+    },
+    {
+      "pin": "A9",
+      "x": 1.5201,
+      "y": 1.9401,
+      "w": 0.76,
+      "h": 1.2,
+      "rotation": 0,
+      "hole": null
+    },
+    {
+      "pin": "B5",
+      "x": 0.5,
+      "y": 1.9401,
+      "w": 0.7,
+      "h": 1.2,
+      "rotation": 0,
+      "hole": null
+    },
+    {
+      "pin": "A5",
+      "x": -0.5,
+      "y": 1.9401,
+      "w": 0.7,
+      "h": 1.2,
+      "rotation": 0,
+      "hole": null
+    },
+    {
+      "pin": "B9",
+      "x": -1.5201,
+      "y": 1.9401,
+      "w": 0.76,
+      "h": 1.2,
+      "rotation": 0,
+      "hole": null
+    },
+    {
+      "pin": "B12",
+      "x": -2.7502,
+      "y": 1.9401,
+      "w": 0.8,
+      "h": 1.2,
+      "rotation": 0,
+      "hole": null
+    },
+    {
+      "pin": "7",
+      "x": -4.3199,
+      "y": 1.86,
+      "w": 1.1,
+      "h": 1.7,
+      "rotation": 0,
+      "hole": {
+        "holeType": "SLOT",
+        "width": 47.244,
+        "height": 23.622
+      }
+    },
+    {
+      "pin": "7",
+      "x": 4.3199,
+      "y": 1.86,
+      "w": 1.1,
+      "h": 1.7,
+      "rotation": 0,
+      "hole": {
+        "holeType": "SLOT",
+        "width": 47.244,
+        "height": 23.622
+      }
+    },
+    {
+      "pin": "7",
+      "x": -4.3199,
+      "y": -1.9401,
+      "w": 1.1,
+      "h": 1.7,
+      "rotation": 0,
+      "hole": {
+        "holeType": "SLOT",
+        "width": 47.244,
+        "height": 23.622
+      }
+    },
+    {
+      "pin": "7",
+      "x": 4.3199,
+      "y": -1.9401,
+      "w": 1.1,
+      "h": 1.7,
+      "rotation": 0,
+      "hole": {
+        "holeType": "SLOT",
+        "width": 47.244,
+        "height": 23.622
+      }
+    }
+  ],
+  "J2": [
+    {
+      "pin": "1",
+      "x": 4.9949,
+      "y": -2.8724,
+      "w": 1.0,
+      "h": 3.5,
+      "rotation": 180,
+      "hole": null
+    },
+    {
+      "pin": "2",
+      "x": 2.9949,
+      "y": -2.8724,
+      "w": 1.0,
+      "h": 3.5,
+      "rotation": 180,
+      "hole": null
+    },
+    {
+      "pin": "3",
+      "x": 0.9949,
+      "y": -2.8724,
+      "w": 1.0,
+      "h": 3.5,
+      "rotation": 180,
+      "hole": null
+    },
+    {
+      "pin": "4",
+      "x": -1.0051,
+      "y": -2.8724,
+      "w": 1.0,
+      "h": 3.5,
+      "rotation": 180,
+      "hole": null
+    },
+    {
+      "pin": "5",
+      "x": -3.0051,
+      "y": -2.8724,
+      "w": 1.0,
+      "h": 3.5,
+      "rotation": 180,
+      "hole": null
+    },
+    {
+      "pin": "6",
+      "x": -5.0051,
+      "y": -2.8724,
+      "w": 1.0,
+      "h": 3.5,
+      "rotation": 180,
+      "hole": null
+    },
+    {
+      "pin": "8",
+      "x": 7.4,
+      "y": 2.8724,
+      "w": 1.5,
+      "h": 3.4,
+      "rotation": 0,
+      "hole": null
+    },
+    {
+      "pin": "7",
+      "x": -7.4,
+      "y": 2.8724,
+      "w": 1.5,
+      "h": 3.4,
+      "rotation": 0,
+      "hole": null
+    }
+  ],
+  "U2": [
+    {
+      "pin": "1",
+      "x": 2.8699,
+      "y": -2.3,
+      "w": 2.34,
+      "h": 0.98,
+      "rotation": 0,
+      "hole": null
+    },
+    {
+      "pin": "2",
+      "x": 2.8699,
+      "y": 0.0,
+      "w": 2.34,
+      "h": 0.98,
+      "rotation": 0,
+      "hole": null
+    },
+    {
+      "pin": "3",
+      "x": 2.8699,
+      "y": 2.3,
+      "w": 2.34,
+      "h": 0.98,
+      "rotation": 0,
+      "hole": null
+    },
+    {
+      "pin": "4",
+      "x": -2.8699,
+      "y": 0.0,
+      "w": 2.34,
+      "h": 3.6,
+      "rotation": 0,
+      "hole": null
+    }
+  ]
+}

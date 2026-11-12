@@ -1,0 +1,2 @@
+
+{"ok":true,"value":{"name":"IPCB_AutoRoutingResult","comment":"自动布线结果","visibility":"public","fields":[{"name":"success","type":"boolean","comment":"自动布线是否成功启动","required":true},{"name":"totalNetsCount","type":"number","comment":"参与自动布线的网络总数","required":true},{"name":"successNetsCount","type":"number","comment":"成功完成布线的网络数量","required":true},{"name":"failedNets","type":"Array<string>","comment":"未能完成布线的网络名称列表","required":true},{"name":"duration","type":"number","comment":"自动布线耗时（毫秒）","required":true}]},"logs":[],"durationMs":213}

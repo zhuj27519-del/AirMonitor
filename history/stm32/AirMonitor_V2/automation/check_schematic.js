@@ -1,0 +1,10 @@
+await eda.dmt_EditorControl.openDocument('5f3d3d8e1737d3ae');
+await new Promise(r=>setTimeout(r,6000));
+await eda.sch_Document.save();
+const errors=await eda.sch_Drc.check(true,false,true);
+const passed=await eda.sch_Drc.check(true,false,false);
+const netlist=await eda.sch_ManufactureData.getNetlistFile('AirMonitor_V2');
+const bom=await eda.sch_ManufactureData.getBomFile('AirMonitor_V2','csv');
+const png=await eda.sch_ManufactureData.getPngFile('AirMonitor_V2',{width:4096});
+const b64=b=>new Promise(r=>{const f=new FileReader();f.onload=()=>r(String(f.result).split(',')[1]);f.readAsDataURL(b);});
+return {errors,passed,netlist:netlist?await netlist.text():null,bom:bom?await bom.text():null,png:png?{name:png.name,b64:await b64(png)}:null};

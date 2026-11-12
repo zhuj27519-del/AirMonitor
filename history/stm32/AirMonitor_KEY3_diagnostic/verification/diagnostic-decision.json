@@ -1,0 +1,13 @@
+{
+  "key3_copper_connected": true,
+  "gui_drc_errors": 0,
+  "cli_drc_errors": 0,
+  "gui_cli_consistent": true,
+  "design_repaired_this_turn": false,
+  "power_placement_firmware_changed": false,
+  "gnd_refilled_this_turn": false,
+  "gnd_refill_reason": "No copper or via geometry was modified; existing two filled regions and Gerber copper verified",
+  "candidate_ready_for_next_manufacturing_review": true,
+  "overall_manufacturing_or_power_on_release": false,
+  "cause_confidence": "Previous session connectivity-state mismatch inferred; internal cache mechanism not proven; unchanged geometry and rules now pass native checks"
+}

@@ -1,0 +1,30 @@
+Ref,Value,Footprint,Qty,Engineering note
+U1,STM32G0B1CBT6,AirMonitor:LQFP48_7x7_P0.5,1,"STM32G0B1CBT6 (GP non-N) LQFP48 pinout cross-referenced against ST DS13560 Rev6 Fig5, VDD/VDDA, VBAT, VREF+ explicitly powered."
+J1,HRO_TYPE-C-31-M-12,AirMonitor:USB_C_HRO,1,USB-C 5V power-only; verify HRO contact land-pattern against specific purchased connector. CURRENT PAD MODEL IS PROVISIONAL!
+F1,0.75A_PTC_1812,AirMonitor:1812,1,
+R1,5.1k,AirMonitor:0805,1,
+R2,5.1k,AirMonitor:0805,1,
+U2,AP2112K-3.3TRG1,AirMonitor:SOT23_5,1,
+C1,10uF/10V,AirMonitor:0805,1,
+C2,10uF/10V,AirMonitor:0805,1,
+C3,100nF,AirMonitor:0805,1,
+C4,1uF,AirMonitor:0805,1,
+R3,10k_NRST,AirMonitor:0805,1,
+C6,100nF_NRST,AirMonitor:0805,1,
+D1,SMF5.0A_TVS,AirMonitor:SOD123,1,
+J2,PMS7003M_ADAPTER,AirMonitor:PinHeader_2x05_2.54,1,"PMS7003M interface by adaptor cable, NOT native PMS connector. 5V/3V3 logic verification required on user module."
+J3,21VOC_4P_2.00,AirMonitor:PinHeader_1x04_2.00,1,"21VOC 2.0mm side-port socket, per manufacturer. Align pin 1 to user datasheet; verify mechanical shape."
+J4,WAVESHARE_ST7789_CABLE,AirMonitor:PinHeader_1x08_2.00,1,Waveshare 1.54 inch LCD SKU18079 2.0mm PH cable. J4 PCB male generic TH placeholder; replace with confirmed keyed connector before manufacturing.
+R4,0R_BL_ALWAYS_ON,AirMonitor:0805,1,
+J5,SWD_2x3_2.54,AirMonitor:PinHeader_2x03_2.54,1,
+SW1,KEY_1,AirMonitor:SW_6x6mm_THT,1,
+SW2,KEY_2,AirMonitor:SW_6x6mm_THT,1,
+SW3,KEY_3,AirMonitor:SW_6x6mm_THT,1,
+R5,1k_LED,AirMonitor:0805,1,
+D2,LED_GREEN_0805,AirMonitor:LED_0805,1,
+J6,PWR_TEST_5V_3V3_GND,AirMonitor:PinHeader_1x03_2.54,1,"3-pin test header for commissioning: 5V, 3V3, GND. Do not power board via multiple sources without isolation."
+SW4,RESET_6MM,AirMonitor:SW_6x6mm_THT,1,"Reset button; pins on same side of tactile switch internally common, pins on other side common; verify actual body orientation."
+H1,M3_NPTH,AirMonitor:MountingHole_3.2,1,
+H2,M3_NPTH,AirMonitor:MountingHole_3.2,1,
+H3,M3_NPTH,AirMonitor:MountingHole_3.2,1,
+H4,M3_NPTH,AirMonitor:MountingHole_3.2,1,

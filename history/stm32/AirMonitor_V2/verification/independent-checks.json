@@ -1,0 +1,39 @@
+{
+  "same_pin_maps": true,
+  "pin_map_differences": [],
+  "pin_plan_matches": true,
+  "pin_plan_differences": [],
+  "all_symbol_pins_compared": 182,
+  "intended_connections": 152,
+  "component_count": 42,
+  "trace_segments": 477,
+  "vias": 41,
+  "copper_layers": 2,
+  "gerber_files": [
+    "Gerber_TopLayer.GTL",
+    "Gerber_BottomLayer.GBL",
+    "Gerber_TopSilkscreenLayer.GTO",
+    "Gerber_BottomSilkscreenLayer.GBO",
+    "Gerber_TopSolderMaskLayer.GTS",
+    "Gerber_BottomSolderMaskLayer.GBS",
+    "Gerber_TopPasteMaskLayer.GTP",
+    "Gerber_BottomPasteMaskLayer.GBP",
+    "Gerber_BoardOutlineLayer.GKO",
+    "Gerber_DocumentLayer.GDL",
+    "Gerber_DrillDrawingLayer.GDD",
+    "Drill_PTH_Through.DRL",
+    "Drill_NPTH_Through.DRL",
+    "Drill_PTH_Through_Via.DRL",
+    "FlyingProbeTesting.json",
+    "PCB下单必读.txt"
+  ],
+  "drills": [
+    "Drill_PTH_Through.DRL",
+    "Drill_NPTH_Through.DRL",
+    "Drill_PTH_Through_Via.DRL"
+  ],
+  "copper_fill_regions": {
+    "Gerber_TopLayer.GTL": 4,
+    "Gerber_BottomLayer.GBL": 2
+  }
+}

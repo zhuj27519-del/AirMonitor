@@ -1,0 +1,2 @@
+
+{"ok":true,"value":{"title":"系统 / 顶部菜单类","visibility":"public","methods":[{"name":"insertHeaderMenus","comment":"导入顶部菜单数据","visibility":"public"},{"name":"removeHeaderMenus","comment":"移除顶部菜单数据","visibility":"public"},{"name":"replaceHeaderMenus","comment":"替换顶部菜单数据","visibility":"public"},{"name":"removeSystemHeaderMenuItem","comment":"移除系统顶部菜单项","visibility":"beta"},{"name":"insertSystemHeaderMenuItem","comment":"在指定位置插入系统顶部菜单项","visibility":"beta"},{"name":"insertSystemHeaderMenus","comment":"导入系统顶部菜单 **暂不开发**"}],"callPath":"sys_HeaderMenu"},"logs":[],"durationMs":211}

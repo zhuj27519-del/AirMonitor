@@ -1,0 +1,260 @@
+--- 
+
++++ 
+
+@@ -1 +1 @@
+
+-{"type":"DOCHEAD","ticket":501700}||{"docType":"SYMBOL","client":"322b63081aa3f48e","uuid":"03662276a1d386e8","updateTime":1793110313552,"version":"1739501688000","editVersion":"4.1.78","user":{}}|
++{"type":"DOCHEAD","ticket":501712}||{"docType":"SYMBOL","client":"c807118e02b5a123","uuid":"03662276a1d386e8","updateTime":1793115727072,"version":"1739501688000","editVersion":"4.1.78","user":{}}|
+@@ -24 +24 @@
+
+-{"type":"DOCHEAD","ticket":501700}||{"docType":"SYMBOL","client":"322b63081aa3f48e","uuid":"18962c9da2b49a02","updateTime":1793110313552,"version":"1744133837000","editVersion":"4.1.78","user":{}}|
++{"type":"DOCHEAD","ticket":501712}||{"docType":"SYMBOL","client":"c807118e02b5a123","uuid":"18962c9da2b49a02","updateTime":1793115727072,"version":"1744133837000","editVersion":"4.1.78","user":{}}|
+@@ -274 +274 @@
+
+-{"type":"DOCHEAD","ticket":501700}||{"docType":"SYMBOL","client":"322b63081aa3f48e","uuid":"1d90b462a8294654","updateTime":1793110313552,"version":"1732212308000","editVersion":"4.1.78","user":{}}|
++{"type":"DOCHEAD","ticket":501712}||{"docType":"SYMBOL","client":"c807118e02b5a123","uuid":"1d90b462a8294654","updateTime":1793115727072,"version":"1732212308000","editVersion":"4.1.78","user":{}}|
+@@ -314 +314 @@
+
+-{"type":"DOCHEAD","ticket":501700}||{"docType":"SYMBOL","client":"322b63081aa3f48e","uuid":"1f43638e8828406f","updateTime":1793110313552,"version":"1723568488000","editVersion":"4.1.78","user":{}}|
++{"type":"DOCHEAD","ticket":501712}||{"docType":"SYMBOL","client":"c807118e02b5a123","uuid":"1f43638e8828406f","updateTime":1793115727072,"version":"1723568488000","editVersion":"4.1.78","user":{}}|
+@@ -332 +332 @@
+
+-{"type":"DOCHEAD","ticket":501700}||{"docType":"SYMBOL","client":"322b63081aa3f48e","uuid":"246ac539919dfe77","updateTime":1793110313552,"version":"1719208805000","editVersion":"4.1.78","user":{}}|
++{"type":"DOCHEAD","ticket":501712}||{"docType":"SYMBOL","client":"c807118e02b5a123","uuid":"246ac539919dfe77","updateTime":1793115727072,"version":"1719208805000","editVersion":"4.1.78","user":{}}|
+@@ -382 +382 @@
+
+-{"type":"DOCHEAD","ticket":501700}||{"docType":"SYMBOL","client":"322b63081aa3f48e","uuid":"4f5c5a706b7f680f","updateTime":1793110313552,"version":"1757120348000","editVersion":"4.1.78","user":{}}|
++{"type":"DOCHEAD","ticket":501712}||{"docType":"SYMBOL","client":"c807118e02b5a123","uuid":"4f5c5a706b7f680f","updateTime":1793115727072,"version":"1757120348000","editVersion":"4.1.78","user":{}}|
+@@ -442 +442 @@
+
+-{"type":"DOCHEAD","ticket":501700}||{"docType":"SYMBOL","client":"322b63081aa3f48e","uuid":"6239bfc63ccda694","updateTime":1793110313552,"version":"1732101053000","editVersion":"4.1.78","user":{}}|
++{"type":"DOCHEAD","ticket":501712}||{"docType":"SYMBOL","client":"c807118e02b5a123","uuid":"6239bfc63ccda694","updateTime":1793115727072,"version":"1732101053000","editVersion":"4.1.78","user":{}}|
+@@ -465 +465 @@
+
+-{"type":"DOCHEAD","ticket":501700}||{"docType":"SYMBOL","client":"322b63081aa3f48e","uuid":"67c2b2c2e6b0f8ae","updateTime":1793110313552,"version":"1672833920000","editVersion":"4.1.78","user":{}}|
++{"type":"DOCHEAD","ticket":501712}||{"docType":"SYMBOL","client":"c807118e02b5a123","uuid":"67c2b2c2e6b0f8ae","updateTime":1793115727072,"version":"1672833920000","editVersion":"4.1.78","user":{}}|
+@@ -495 +495 @@
+
+-{"type":"DOCHEAD","ticket":501700}||{"docType":"SYMBOL","client":"322b63081aa3f48e","uuid":"6d5d68947dc07fd8","updateTime":1793110313552,"version":"1776970689000","editVersion":"4.1.78","user":{}}|
++{"type":"DOCHEAD","ticket":501712}||{"docType":"SYMBOL","client":"c807118e02b5a123","uuid":"6d5d68947dc07fd8","updateTime":1793115727072,"version":"1776970689000","editVersion":"4.1.78","user":{}}|
+@@ -519 +519 @@
+
+-{"type":"DOCHEAD","ticket":501700}||{"docType":"SYMBOL","client":"322b63081aa3f48e","uuid":"758328c620dc49c2","updateTime":1793110313552,"version":"1741683006000","editVersion":"4.1.78","user":{}}|
++{"type":"DOCHEAD","ticket":501712}||{"docType":"SYMBOL","client":"c807118e02b5a123","uuid":"758328c620dc49c2","updateTime":1793115727072,"version":"1741683006000","editVersion":"4.1.78","user":{}}|
+@@ -537 +537 @@
+
+-{"type":"DOCHEAD","ticket":501700}||{"docType":"SYMBOL","client":"322b63081aa3f48e","uuid":"77aff7af9c08b31d","updateTime":1793110313552,"version":"1704977706000","editVersion":"4.1.78","user":{}}|
++{"type":"DOCHEAD","ticket":501712}||{"docType":"SYMBOL","client":"c807118e02b5a123","uuid":"77aff7af9c08b31d","updateTime":1793115727072,"version":"1704977706000","editVersion":"4.1.78","user":{}}|
+@@ -555 +555 @@
+
+-{"type":"DOCHEAD","ticket":501700}||{"docType":"SYMBOL","client":"322b63081aa3f48e","uuid":"78aabffc2759cee5","updateTime":1793110313552,"version":"1722021801000","editVersion":"4.1.78","user":{}}|
++{"type":"DOCHEAD","ticket":501712}||{"docType":"SYMBOL","client":"c807118e02b5a123","uuid":"78aabffc2759cee5","updateTime":1793115727072,"version":"1722021801000","editVersion":"4.1.78","user":{}}|
+@@ -573 +573 @@
+
+-{"type":"DOCHEAD","ticket":501700}||{"docType":"SYMBOL","client":"322b63081aa3f48e","uuid":"7dc5fc5094878ebe","updateTime":1793110313552,"version":"1762842932000","editVersion":"4.1.78","user":{}}|
++{"type":"DOCHEAD","ticket":501712}||{"docType":"SYMBOL","client":"c807118e02b5a123","uuid":"7dc5fc5094878ebe","updateTime":1793115727072,"version":"1762842932000","editVersion":"4.1.78","user":{}}|
+@@ -591 +591 @@
+
+-{"type":"DOCHEAD","ticket":501700}||{"docType":"SYMBOL","client":"322b63081aa3f48e","uuid":"802764e22c7fbcff","updateTime":1793110313552,"version":"1710235889000","editVersion":"4.1.78","user":{}}|
++{"type":"DOCHEAD","ticket":501712}||{"docType":"SYMBOL","client":"c807118e02b5a123","uuid":"802764e22c7fbcff","updateTime":1793115727072,"version":"1710235889000","editVersion":"4.1.78","user":{}}|
+@@ -706 +706 @@
+
+-{"type":"DOCHEAD","ticket":501700}||{"docType":"SYMBOL","client":"322b63081aa3f48e","uuid":"908915e7514c248f","updateTime":1793110313552,"version":"1734917406000","editVersion":"4.1.78","user":{}}|
++{"type":"DOCHEAD","ticket":501712}||{"docType":"SYMBOL","client":"c807118e02b5a123","uuid":"908915e7514c248f","updateTime":1793115727072,"version":"1734917406000","editVersion":"4.1.78","user":{}}|
+@@ -746 +746 @@
+
+-{"type":"DOCHEAD","ticket":501700}||{"docType":"SYMBOL","client":"322b63081aa3f48e","uuid":"933c759423e34d55","updateTime":1793110313552,"version":"1785199256000","editVersion":"4.1.78","user":{}}|
++{"type":"DOCHEAD","ticket":501712}||{"docType":"SYMBOL","client":"c807118e02b5a123","uuid":"933c759423e34d55","updateTime":1793115727072,"version":"1785199256000","editVersion":"4.1.78","user":{}}|
+@@ -768 +768 @@
+
+-{"type":"DOCHEAD","ticket":501700}||{"docType":"SYMBOL","client":"322b63081aa3f48e","uuid":"9844bbe448c589b7","updateTime":1793110313552,"version":"1744297682000","editVersion":"4.1.78","user":{}}|
++{"type":"DOCHEAD","ticket":501712}||{"docType":"SYMBOL","client":"c807118e02b5a123","uuid":"9844bbe448c589b7","updateTime":1793115727072,"version":"1744297682000","editVersion":"4.1.78","user":{}}|
+@@ -788 +788 @@
+
+-{"type":"DOCHEAD","ticket":501700}||{"docType":"SYMBOL","client":"322b63081aa3f48e","uuid":"9e7f402112031d77","updateTime":1793110313552,"version":"1730984720000","editVersion":"4.1.78","user":{}}|
++{"type":"DOCHEAD","ticket":501712}||{"docType":"SYMBOL","client":"c807118e02b5a123","uuid":"9e7f402112031d77","updateTime":1793115727072,"version":"1730984720000","editVersion":"4.1.78","user":{}}|
+@@ -806 +806 @@
+
+-{"type":"DOCHEAD","ticket":501700}||{"docType":"SYMBOL","client":"322b63081aa3f48e","uuid":"cdbc480bd1b60510","updateTime":1793110313552,"version":"1706585734000","editVersion":"4.1.78","user":{}}|
++{"type":"DOCHEAD","ticket":501712}||{"docType":"SYMBOL","client":"c807118e02b5a123","uuid":"cdbc480bd1b60510","updateTime":1793115727072,"version":"1706585734000","editVersion":"4.1.78","user":{}}|
+@@ -824 +824 @@
+
+-{"type":"DOCHEAD","ticket":501700}||{"docType":"SYMBOL","client":"322b63081aa3f48e","uuid":"d41b0dfef275f23f","updateTime":1793110313552,"version":"1728889437000","editVersion":"4.1.78","user":{}}|
++{"type":"DOCHEAD","ticket":501712}||{"docType":"SYMBOL","client":"c807118e02b5a123","uuid":"d41b0dfef275f23f","updateTime":1793115727072,"version":"1728889437000","editVersion":"4.1.78","user":{}}|
+@@ -869 +869 @@
+
+-{"type":"DOCHEAD","ticket":501700}||{"docType":"SYMBOL","client":"322b63081aa3f48e","uuid":"ebde398d2c634121","updateTime":1793110313552,"version":"1704955238000","editVersion":"4.1.78","user":{}}|
++{"type":"DOCHEAD","ticket":501712}||{"docType":"SYMBOL","client":"c807118e02b5a123","uuid":"ebde398d2c634121","updateTime":1793115727072,"version":"1704955238000","editVersion":"4.1.78","user":{}}|
+@@ -909 +909 @@
+
+-{"type":"DOCHEAD","ticket":501700}||{"docType":"SYMBOL","client":"322b63081aa3f48e","uuid":"f17c57c356cb5de7","updateTime":1793110313552,"version":"1684459400000","editVersion":"4.1.78","user":{}}|
++{"type":"DOCHEAD","ticket":501712}||{"docType":"SYMBOL","client":"c807118e02b5a123","uuid":"f17c57c356cb5de7","updateTime":1793115727072,"version":"1684459400000","editVersion":"4.1.78","user":{}}|
+@@ -930 +930 @@
+
+-{"type":"DOCHEAD","ticket":501700}||{"docType":"FOOTPRINT","client":"322b63081aa3f48e","uuid":"077fd60b0473b66b","updateTime":1793110313552,"version":"1649423253000","editVersion":"4.1.78","user":{}}|
++{"type":"DOCHEAD","ticket":501712}||{"docType":"FOOTPRINT","client":"c807118e02b5a123","uuid":"077fd60b0473b66b","updateTime":1793115727072,"version":"1649423253000","editVersion":"4.1.78","user":{}}|
+@@ -986 +986 @@
+
+-{"type":"DOCHEAD","ticket":501700}||{"docType":"FOOTPRINT","client":"322b63081aa3f48e","uuid":"0c67bbc8fc49b79f","updateTime":1793110313552,"version":"1749558639000","editVersion":"4.1.78","user":{}}|
++{"type":"DOCHEAD","ticket":501712}||{"docType":"FOOTPRINT","client":"c807118e02b5a123","uuid":"0c67bbc8fc49b79f","updateTime":1793115727072,"version":"1749558639000","editVersion":"4.1.78","user":{}}|
+@@ -1053 +1053 @@
+
+-{"type":"DOCHEAD","ticket":501700}||{"docType":"FOOTPRINT","client":"322b63081aa3f48e","uuid":"104eef5391f6b0cf","updateTime":1793110313552,"version":"1783385940000","editVersion":"4.1.78","user":{}}|
++{"type":"DOCHEAD","ticket":501712}||{"docType":"FOOTPRINT","client":"c807118e02b5a123","uuid":"104eef5391f6b0cf","updateTime":1793115727072,"version":"1783385940000","editVersion":"4.1.78","user":{}}|
+@@ -1175 +1175 @@
+
+-{"type":"DOCHEAD","ticket":501700}||{"docType":"FOOTPRINT","client":"322b63081aa3f48e","uuid":"19adb13d4e12f4a1","updateTime":1793110313552,"version":"1627608795000","editVersion":"4.1.78","user":{}}|
++{"type":"DOCHEAD","ticket":501712}||{"docType":"FOOTPRINT","client":"c807118e02b5a123","uuid":"19adb13d4e12f4a1","updateTime":1793115727072,"version":"1627608795000","editVersion":"4.1.78","user":{}}|
+@@ -1231 +1231 @@
+
+-{"type":"DOCHEAD","ticket":501700}||{"docType":"FOOTPRINT","client":"322b63081aa3f48e","uuid":"1d91105e402e9e85","updateTime":1793110313552,"version":"1787898490000","editVersion":"4.1.78","user":{}}|
++{"type":"DOCHEAD","ticket":501712}||{"docType":"FOOTPRINT","client":"c807118e02b5a123","uuid":"1d91105e402e9e85","updateTime":1793115727072,"version":"1787898490000","editVersion":"4.1.78","user":{}}|
+@@ -1491 +1491 @@
+
+-{"type":"DOCHEAD","ticket":501700}||{"docType":"FOOTPRINT","client":"322b63081aa3f48e","uuid":"58086e7c85980f86","updateTime":1793110313552,"version":"1649404153000","editVersion":"4.1.78","user":{}}|
++{"type":"DOCHEAD","ticket":501712}||{"docType":"FOOTPRINT","client":"c807118e02b5a123","uuid":"58086e7c85980f86","updateTime":1793115727072,"version":"1649404153000","editVersion":"4.1.78","user":{}}|
+@@ -1536 +1536 @@
+
+-{"type":"DOCHEAD","ticket":501700}||{"docType":"FOOTPRINT","client":"322b63081aa3f48e","uuid":"62f5990f8876e5a1","updateTime":1793110313552,"version":"1679302552000","editVersion":"4.1.78","user":{}}|
++{"type":"DOCHEAD","ticket":501712}||{"docType":"FOOTPRINT","client":"c807118e02b5a123","uuid":"62f5990f8876e5a1","updateTime":1793115727072,"version":"1679302552000","editVersion":"4.1.78","user":{}}|
+@@ -1612 +1612 @@
+
+-{"type":"DOCHEAD","ticket":501700}||{"docType":"FOOTPRINT","client":"322b63081aa3f48e","uuid":"691e115e1822e7e1","updateTime":1793110313552,"version":"1766479705000","editVersion":"4.1.78","user":{}}|
++{"type":"DOCHEAD","ticket":501712}||{"docType":"FOOTPRINT","client":"c807118e02b5a123","uuid":"691e115e1822e7e1","updateTime":1793115727072,"version":"1766479705000","editVersion":"4.1.78","user":{}}|
+@@ -1657 +1657 @@
+
+-{"type":"DOCHEAD","ticket":501700}||{"docType":"FOOTPRINT","client":"322b63081aa3f48e","uuid":"6ece61e920a67cd5","updateTime":1793110313552,"version":"1739762186000","editVersion":"4.1.78","user":{}}|
++{"type":"DOCHEAD","ticket":501712}||{"docType":"FOOTPRINT","client":"c807118e02b5a123","uuid":"6ece61e920a67cd5","updateTime":1793115727072,"version":"1739762186000","editVersion":"4.1.78","user":{}}|
+@@ -1720 +1720 @@
+
+-{"type":"DOCHEAD","ticket":501700}||{"docType":"FOOTPRINT","client":"322b63081aa3f48e","uuid":"8a1a08ea2b720979","updateTime":1793110313552,"version":"1652435796000","editVersion":"4.1.78","user":{}}|
++{"type":"DOCHEAD","ticket":501712}||{"docType":"FOOTPRINT","client":"c807118e02b5a123","uuid":"8a1a08ea2b720979","updateTime":1793115727072,"version":"1652435796000","editVersion":"4.1.78","user":{}}|
+@@ -1775 +1775 @@
+
+-{"type":"DOCHEAD","ticket":501700}||{"docType":"FOOTPRINT","client":"322b63081aa3f48e","uuid":"96b152974707cdac","updateTime":1793110313552,"version":"1655885310000","editVersion":"4.1.78","user":{}}|
++{"type":"DOCHEAD","ticket":501712}||{"docType":"FOOTPRINT","client":"c807118e02b5a123","uuid":"96b152974707cdac","updateTime":1793115727072,"version":"1655885310000","editVersion":"4.1.78","user":{}}|
+@@ -1883 +1883 @@
+
+-{"type":"DOCHEAD","ticket":501700}||{"docType":"FOOTPRINT","client":"322b63081aa3f48e","uuid":"9c469a70bf730ea5","updateTime":1793110313552,"version":"1734501471000","editVersion":"4.1.78","user":{}}|
++{"type":"DOCHEAD","ticket":501712}||{"docType":"FOOTPRINT","client":"c807118e02b5a123","uuid":"9c469a70bf730ea5","updateTime":1793115727072,"version":"1734501471000","editVersion":"4.1.78","user":{}}|
+@@ -1929 +1929 @@
+
+-{"type":"DOCHEAD","ticket":501700}||{"docType":"FOOTPRINT","client":"322b63081aa3f48e","uuid":"a3dfe8fc6158c620","updateTime":1793110313552,"version":"1652421396000","editVersion":"4.1.78","user":{}}|
++{"type":"DOCHEAD","ticket":501712}||{"docType":"FOOTPRINT","client":"c807118e02b5a123","uuid":"a3dfe8fc6158c620","updateTime":1793115727072,"version":"1652421396000","editVersion":"4.1.78","user":{}}|
+@@ -1978 +1978 @@
+
+-{"type":"DOCHEAD","ticket":501700}||{"docType":"FOOTPRINT","client":"322b63081aa3f48e","uuid":"dc2fd17465533d59","updateTime":1793110313552,"version":"1732950744000","editVersion":"4.1.78","user":{}}|
++{"type":"DOCHEAD","ticket":501712}||{"docType":"FOOTPRINT","client":"c807118e02b5a123","uuid":"dc2fd17465533d59","updateTime":1793115727072,"version":"1732950744000","editVersion":"4.1.78","user":{}}|
+@@ -2026 +2026 @@
+
+-{"type":"DOCHEAD","ticket":501700}||{"docType":"DEVICE","client":"322b63081aa3f48e","uuid":"02465b7e3536f788","updateTime":1793110313552,"version":"1658090551000","editVersion":"4.1.78","user":{}}|
++{"type":"DOCHEAD","ticket":501712}||{"docType":"DEVICE","client":"c807118e02b5a123","uuid":"02465b7e3536f788","updateTime":1793115727072,"version":"1658090551000","editVersion":"4.1.78","user":{}}|
+@@ -2028 +2028 @@
+
+-{"type":"DOCHEAD","ticket":501700}||{"docType":"DEVICE","client":"322b63081aa3f48e","uuid":"13f35f0daac94986","updateTime":1793110313552,"version":"1658259903000","editVersion":"4.1.78","user":{}}|
++{"type":"DOCHEAD","ticket":501712}||{"docType":"DEVICE","client":"c807118e02b5a123","uuid":"13f35f0daac94986","updateTime":1793115727072,"version":"1658259903000","editVersion":"4.1.78","user":{}}|
+@@ -2030 +2030 @@
+
+-{"type":"DOCHEAD","ticket":501700}||{"docType":"DEVICE","client":"322b63081aa3f48e","uuid":"220dcb34b0201653","updateTime":1793110313552,"version":"1658259904000","editVersion":"4.1.78","user":{}}|
++{"type":"DOCHEAD","ticket":501712}||{"docType":"DEVICE","client":"c807118e02b5a123","uuid":"220dcb34b0201653","updateTime":1793115727072,"version":"1658259904000","editVersion":"4.1.78","user":{}}|
+@@ -2032 +2032 @@
+
+-{"type":"DOCHEAD","ticket":501700}||{"docType":"DEVICE","client":"322b63081aa3f48e","uuid":"2422304fe1789841","updateTime":1793110313552,"version":"1656793261000","editVersion":"4.1.78","user":{}}|
++{"type":"DOCHEAD","ticket":501712}||{"docType":"DEVICE","client":"c807118e02b5a123","uuid":"2422304fe1789841","updateTime":1793115727072,"version":"1656793261000","editVersion":"4.1.78","user":{}}|
+@@ -2034 +2034 @@
+
+-{"type":"DOCHEAD","ticket":501700}||{"docType":"DEVICE","client":"322b63081aa3f48e","uuid":"33fecec6681f14eb","updateTime":1793110313552,"version":"1658435056000","editVersion":"4.1.78","user":{}}|
++{"type":"DOCHEAD","ticket":501712}||{"docType":"DEVICE","client":"c807118e02b5a123","uuid":"33fecec6681f14eb","updateTime":1793115727072,"version":"1658435056000","editVersion":"4.1.78","user":{}}|
+@@ -2036 +2036 @@
+
+-{"type":"DOCHEAD","ticket":501700}||{"docType":"DEVICE","client":"322b63081aa3f48e","uuid":"3834e781bfae5d35","updateTime":1793110313552,"version":"1649760245000","editVersion":"4.1.78","user":{}}|
++{"type":"DOCHEAD","ticket":501712}||{"docType":"DEVICE","client":"c807118e02b5a123","uuid":"3834e781bfae5d35","updateTime":1793115727072,"version":"1649760245000","editVersion":"4.1.78","user":{}}|
+@@ -2038 +2038 @@
+
+-{"type":"DOCHEAD","ticket":501700}||{"docType":"DEVICE","client":"322b63081aa3f48e","uuid":"3ae3b52f8affeb99","updateTime":1793110313552,"version":"1657830431000","editVersion":"4.1.78","user":{}}|
++{"type":"DOCHEAD","ticket":501712}||{"docType":"DEVICE","client":"c807118e02b5a123","uuid":"3ae3b52f8affeb99","updateTime":1793115727072,"version":"1657830431000","editVersion":"4.1.78","user":{}}|
+@@ -2040 +2040 @@
+
+-{"type":"DOCHEAD","ticket":501700}||{"docType":"DEVICE","client":"322b63081aa3f48e","uuid":"46f70c59da18a664","updateTime":1793110313552,"version":"1658434828000","editVersion":"4.1.78","user":{}}|
++{"type":"DOCHEAD","ticket":501712}||{"docType":"DEVICE","client":"c807118e02b5a123","uuid":"46f70c59da18a664","updateTime":1793115727072,"version":"1658434828000","editVersion":"4.1.78","user":{}}|
+@@ -2042 +2042 @@
+
+-{"type":"DOCHEAD","ticket":501700}||{"docType":"DEVICE","client":"322b63081aa3f48e","uuid":"5ffb53a3fa463b13","updateTime":1793110313552,"version":"1716970802000","editVersion":"4.1.78","user":{}}|
++{"type":"DOCHEAD","ticket":501712}||{"docType":"DEVICE","client":"c807118e02b5a123","uuid":"5ffb53a3fa463b13","updateTime":1793115727072,"version":"1716970802000","editVersion":"4.1.78","user":{}}|
+@@ -2044 +2044 @@
+
+-{"type":"DOCHEAD","ticket":501700}||{"docType":"DEVICE","client":"322b63081aa3f48e","uuid":"6dcd196d1f40383c","updateTime":1793110313552,"version":"1649760225000","editVersion":"4.1.78","user":{}}|
++{"type":"DOCHEAD","ticket":501712}||{"docType":"DEVICE","client":"c807118e02b5a123","uuid":"6dcd196d1f40383c","updateTime":1793115727072,"version":"1649760225000","editVersion":"4.1.78","user":{}}|
+@@ -2046 +2046 @@
+
+-{"type":"DOCHEAD","ticket":501700}||{"docType":"DEVICE","client":"322b63081aa3f48e","uuid":"74eba3cd098f1243","updateTime":1793110313552,"version":"1658174834000","editVersion":"4.1.78","user":{}}|
++{"type":"DOCHEAD","ticket":501712}||{"docType":"DEVICE","client":"c807118e02b5a123","uuid":"74eba3cd098f1243","updateTime":1793115727072,"version":"1658174834000","editVersion":"4.1.78","user":{}}|
+@@ -2048 +2048 @@
+
+-{"type":"DOCHEAD","ticket":501700}||{"docType":"DEVICE","client":"322b63081aa3f48e","uuid":"901dea7c484456e7","updateTime":1793110313552,"version":"1658435074000","editVersion":"4.1.78","user":{}}|
++{"type":"DOCHEAD","ticket":501712}||{"docType":"DEVICE","client":"c807118e02b5a123","uuid":"901dea7c484456e7","updateTime":1793115727072,"version":"1658435074000","editVersion":"4.1.78","user":{}}|
+@@ -2050 +2050 @@
+
+-{"type":"DOCHEAD","ticket":501700}||{"docType":"DEVICE","client":"322b63081aa3f48e","uuid":"9fb97a0f1174dcd8","updateTime":1793110313552,"version":"1728890403000","editVersion":"4.1.78","user":{}}|
++{"type":"DOCHEAD","ticket":501712}||{"docType":"DEVICE","client":"c807118e02b5a123","uuid":"9fb97a0f1174dcd8","updateTime":1793115727072,"version":"1728890403000","editVersion":"4.1.78","user":{}}|
+@@ -2052 +2052 @@
+
+-{"type":"DOCHEAD","ticket":501700}||{"docType":"DEVICE","client":"322b63081aa3f48e","uuid":"a07cf4460c2e785e","updateTime":1793110313552,"version":"1655323670000","editVersion":"4.1.78","user":{}}|
++{"type":"DOCHEAD","ticket":501712}||{"docType":"DEVICE","client":"c807118e02b5a123","uuid":"a07cf4460c2e785e","updateTime":1793115727072,"version":"1655323670000","editVersion":"4.1.78","user":{}}|
+@@ -2054 +2054 @@
+
+-{"type":"DOCHEAD","ticket":501700}||{"docType":"DEVICE","client":"322b63081aa3f48e","uuid":"a3b9889c1c26e94e","updateTime":1793110313552,"version":"1741683601000","editVersion":"4.1.78","user":{}}|
++{"type":"DOCHEAD","ticket":501712}||{"docType":"DEVICE","client":"c807118e02b5a123","uuid":"a3b9889c1c26e94e","updateTime":1793115727072,"version":"1741683601000","editVersion":"4.1.78","user":{}}|
+@@ -2056 +2056 @@
+
+-{"type":"DOCHEAD","ticket":501700}||{"docType":"DEVICE","client":"322b63081aa3f48e","uuid":"b3a0093d1c988bef","updateTime":1793110313552,"version":"1654892815000","editVersion":"4.1.78","user":{}}|
++{"type":"DOCHEAD","ticket":501712}||{"docType":"DEVICE","client":"c807118e02b5a123","uuid":"b3a0093d1c988bef","updateTime":1793115727072,"version":"1654892815000","editVersion":"4.1.78","user":{}}|
+@@ -2058 +2058 @@
+
+-{"type":"DOCHEAD","ticket":501700}||{"docType":"DEVICE","client":"322b63081aa3f48e","uuid":"b411a1db974dad20","updateTime":1793110313552,"version":"1654892601000","editVersion":"4.1.78","user":{}}|
++{"type":"DOCHEAD","ticket":501712}||{"docType":"DEVICE","client":"c807118e02b5a123","uuid":"b411a1db974dad20","updateTime":1793115727072,"version":"1654892601000","editVersion":"4.1.78","user":{}}|
+@@ -2060 +2060 @@
+
+-{"type":"DOCHEAD","ticket":501700}||{"docType":"DEVICE","client":"322b63081aa3f48e","uuid":"d26e2ea6f3ce881f","updateTime":1793110313552,"version":"1658435056000","editVersion":"4.1.78","user":{}}|
++{"type":"DOCHEAD","ticket":501712}||{"docType":"DEVICE","client":"c807118e02b5a123","uuid":"d26e2ea6f3ce881f","updateTime":1793115727072,"version":"1658435056000","editVersion":"4.1.78","user":{}}|
+@@ -2062 +2062 @@
+
+-{"type":"DOCHEAD","ticket":501700}||{"docType":"DEVICE","client":"322b63081aa3f48e","uuid":"dbd47607a509e1cf","updateTime":1793110313552,"version":"1654805038000","editVersion":"4.1.78","user":{}}|
++{"type":"DOCHEAD","ticket":501712}||{"docType":"DEVICE","client":"c807118e02b5a123","uuid":"dbd47607a509e1cf","updateTime":1793115727072,"version":"1654805038000","editVersion":"4.1.78","user":{}}|
+@@ -2064 +2064 @@
+
+-{"type":"DOCHEAD","ticket":501700}||{"docType":"DEVICE","client":"322b63081aa3f48e","uuid":"ec677ef87462caf1","updateTime":1793110313552,"version":"1776933628000","editVersion":"4.1.78","user":{}}|
++{"type":"DOCHEAD","ticket":501712}||{"docType":"DEVICE","client":"c807118e02b5a123","uuid":"ec677ef87462caf1","updateTime":1793115727072,"version":"1776933628000","editVersion":"4.1.78","user":{}}|
+@@ -2066 +2066 @@
+
+-{"type":"DOCHEAD","ticket":501700}||{"docType":"DEVICE","client":"322b63081aa3f48e","uuid":"f1a49eb9b80fe326","updateTime":1793110313552,"version":"1657397248000","editVersion":"4.1.78","user":{}}|
++{"type":"DOCHEAD","ticket":501712}||{"docType":"DEVICE","client":"c807118e02b5a123","uuid":"f1a49eb9b80fe326","updateTime":1793115727072,"version":"1657397248000","editVersion":"4.1.78","user":{}}|
+@@ -2068 +2068 @@
+
+-{"type":"DOCHEAD","ticket":501700}||{"docType":"DEVICE","client":"322b63081aa3f48e","uuid":"fee27fb696591b4e","updateTime":1793110313552,"version":"1654896291000","editVersion":"4.1.78","user":{}}|
++{"type":"DOCHEAD","ticket":501712}||{"docType":"DEVICE","client":"c807118e02b5a123","uuid":"fee27fb696591b4e","updateTime":1793115727072,"version":"1654896291000","editVersion":"4.1.78","user":{}}|
+@@ -2070 +2070 @@
+
+-{"type":"DOCHEAD","ticket":501700}||{"docType":"PCB","client":"322b63081aa3f48e","uuid":"0d571ee1a4bcf754","updateTime":1793110313552,"version":"1793110313552","editVersion":"4.1.78","user":{}}|
++{"type":"DOCHEAD","ticket":501712}||{"docType":"PCB","client":"c807118e02b5a123","uuid":"0d571ee1a4bcf754","updateTime":1793115727072,"version":"1793115727072","editVersion":"4.1.78","user":{}}|
+@@ -2087,2 +2087,2 @@
+
+-{"type":"PRIMITIVE","ticket":106004,"id":"[\"PRIMITIVE\",\"COPPEROUTLINE\"]"}||{"display":true,"pick":true,"transparency":0.3,"viewMode":null}|
+-{"type":"PRIMITIVE","ticket":106005,"id":"[\"PRIMITIVE\",\"COPPERFILLED\"]"}||{"display":true,"pick":true,"transparency":null,"viewMode":null}|
++{"type":"PRIMITIVE","ticket":501701,"id":"[\"PRIMITIVE\",\"COPPEROUTLINE\"]"}||{"display":false,"pick":true,"transparency":0.3,"viewMode":null}|
++{"type":"PRIMITIVE","ticket":501702,"id":"[\"PRIMITIVE\",\"COPPERFILLED\"]"}||{"display":false,"pick":true,"transparency":null,"viewMode":null}|
+@@ -2203 +2203 @@
+
+-{"type":"PREFERENCE","ticket":105988,"id":"PREFERENCE"}||{"startTrackWidthFollowLast":false,"lastTrackWidth":10,"startViaSizeFollowLast":false,"lastViaInnerDiameter":12.0078,"lastViaDiameter":24.0158,"snap":true,"routingMode":"SURROUND","routingCorner":"L45","removeLoop":true,"rotatingObject":false,"trackFollow":false,"stretchTrackMinCorner":1,"preferenceConfig":"","realTimeUpdateUnusedLayers":false,"unusedPadRange":"VIA","pushVia":"OPTIMIZA_OPEN","pathOptimization4BePushed":"SINGLE","currentPathOptimization4BePushed":"OPTIMIZA_WEAK","removeCircuitsContainingVias":true,"removeAntenna":true}|
++{"type":"PREFERENCE","ticket":501703,"id":"PREFERENCE"}||{"startTrackWidthFollowLast":false,"lastTrackWidth":10,"startViaSizeFollowLast":false,"lastViaInnerDiameter":12.0078,"lastViaDiameter":24.0158,"snap":true,"routingMode":"SURROUND","routingCorner":"L45","removeLoop":true,"rotatingObject":false,"trackFollow":false,"stretchTrackMinCorner":1,"preferenceConfig":"","realTimeUpdateUnusedLayers":false,"unusedPadRange":"VIA","pushVia":"OPTIMIZA_OPEN","pathOptimization4BePushed":"SINGLE","currentPathOptimization4BePushed":"OPTIMIZA_WEAK","removeCircuitsContainingVias":true,"removeAntenna":true}|
+@@ -4586 +4586 @@
+
+-{"type":"LINE","ticket":500482,"id":"50ed7851da96bd02"}||{"partitionId":"","groupId":0,"netName":"KEY3","layerId":1,"startX":1604.3359,"startY":1545.2761,"endX":1561.866,"endY":1545.2761,"width":9.78,"locked":false,"zIndex":-1}|
++{"type":"LINE","ticket":501711,"id":"50ed7851da96bd02"}||{"partitionId":"","groupId":0,"netName":"KEY3","layerId":1,"startX":1604.3359,"startY":1545.2761,"endX":1561.866,"endY":1545.2761,"width":9.78,"locked":false,"zIndex":-1}|
+@@ -4719 +4719,3 @@
+
+-{"type":"VIA","ticket":500894,"id":"9b31158553647615"}||{"partitionId":"","groupId":0,"netName":"KEY3","ruleName":"","centerX":1561.866,"centerY":1545.2761,"holeDiameter":11.811,"viaDiameter":23.622,"viaType":"NORMAL","topSolderExpansion":null,"bottomSolderExpansion":null,"locked":false,"unusedInnerLayers":[],"propagationDelay":0}
++{"type":"VIA","ticket":500894,"id":"9b31158553647615"}||{"partitionId":"","groupId":0,"netName":"KEY3","ruleName":"","centerX":1561.866,"centerY":1545.2761,"holeDiameter":11.811,"viaDiameter":23.622,"viaType":"NORMAL","topSolderExpansion":null,"bottomSolderExpansion":null,"locked":false,"unusedInnerLayers":[],"propagationDelay":0}|
++{"type":"LINE","ticket":501705,"id":"d0d431b6e1e38b3a"}|||
++{"type":"LINE","ticket":501706,"id":"79fffa33d999bf17"}||

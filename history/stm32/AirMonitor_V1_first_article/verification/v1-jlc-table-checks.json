@@ -1,0 +1,11 @@
+{
+  "all_components": 42,
+  "smt_components": 41,
+  "manual_components": [
+    "J5"
+  ],
+  "coordinate_unit": "mm",
+  "rotations_preserved_from_native": true,
+  "assembly_portal_pin1_review_completed": false,
+  "stock_and_assembly_eligibility_verified": false
+}

@@ -1,0 +1,2 @@
+
+{"ok":true,"value":{"name":"EPCB_PrimitivePadHeatWeldingConnectionMethod","comment":"焊盘热焊连接方式","visibility":"public","values":[{"name":"DIVERGENT","value":"Divergent","description":"发散"},{"name":"DIRECT_CONNECTED","value":"Direct-connected","description":"直连"},{"name":"NON_CONNECTED","value":"Non-connected","description":"无连接"}]},"logs":[],"durationMs":346}

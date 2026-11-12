@@ -1,0 +1,2 @@
+
+{"ok":true,"value":{"key3_via_mm":[39.6713964,39.25001294],"trunk":"a0a50906f2a82645","old_width_mm":0.20015200000000002,"new_width_mm":0.5},"logs":[],"durationMs":1746}

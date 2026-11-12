@@ -1,0 +1,16 @@
+[
+  {
+    "file": "hardware\\EasyEDA\\pcb\\PCB1.epcb2",
+    "u3_pads": 21,
+    "u3_paste_shapes": 22,
+    "u4_pads": 6,
+    "u3_ep_paste_coverage_percent": 81.27403846153845
+  },
+  {
+    "file": "hardware\\EasyEDA\\sch\\Schematic1\\P1.esch2",
+    "u3_pads": 21,
+    "u3_paste_shapes": 22,
+    "u4_pads": 6,
+    "u3_ep_paste_coverage_percent": 81.27403846153845
+  }
+]

@@ -1,0 +1,2 @@
+
+{"ok":true,"value":{"success":true,"totalNetsCount":8,"successNetsCount":8,"failedNets":[],"duration":41884},"logs":[],"durationMs":42251}

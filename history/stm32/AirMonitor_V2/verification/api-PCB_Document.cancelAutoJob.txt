@@ -1,0 +1,2 @@
+
+{"ok":true,"value":{"title":"取消自动布线 / 自动布局作业","remarks":"终止失控的自动布线 / 自动布局作业，无需等待内部截止时间；\n仅适用于 {@link PCB_Document.startAutoRouting | startAutoRouting} 与 {@link PCB_Document.startAutoLayout | startAutoLayout} 启动的作业","visibility":"alpha","params":[{"name":"jobId","type":"string","description":"作业 ID","required":true}],"returns":{"type":"boolean","description":"是否成功发起取消"},"isAsync":true},"logs":[],"durationMs":201}

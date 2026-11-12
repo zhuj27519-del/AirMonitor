@@ -1,0 +1,5 @@
+{
+  "passed": true,
+  "assertions": 107,
+  "method": "Actual compiled ARM C parser executed on host in Unicorn; no hardware emulation claimed"
+}

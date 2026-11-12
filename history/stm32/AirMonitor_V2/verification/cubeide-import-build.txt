@@ -1,0 +1,6 @@
+Create.
+Opening 'AirMonitor_V2'.
+Saving workspace.
+Stm32cubeidec:
+An error has occurred. See the log file
+C:\Users\Peter\Documents\Codex\2026-10-26\files-pasted-by-the-user-project\work\cubeide-workspace\.metadata\.log.

@@ -1,0 +1,111 @@
+{
+  "erc_errors_before": 0,
+  "drc_errors_before": 24,
+  "before_connection_errors": 23,
+  "before_actual_smd_pads": 21,
+  "before_track_errors": 2,
+  "before_disconnected_nets": 8,
+  "before_netlist_errors": 1,
+  "erc_errors_after": 0,
+  "drc_errors_after": 2,
+  "actual_disconnected_nets_after": [
+    "KEY3"
+  ],
+  "actual_disconnected_objects_after": 2,
+  "copper_fill_objects": 2,
+  "bare_pcb_decision": "NO-GO（存在未关闭生产阻断项）",
+  "safe_power_on_validated": false,
+  "direct_smt_release": false,
+  "remaining_drc_errors": [
+    {
+      "visible": true,
+      "errorType": "Connection Error",
+      "errorObjType": "Track",
+      "ruleName": "Common",
+      "obj1": {
+        "typeName": "Track",
+        "suffix": "(KEY3): e1557"
+      },
+      "isFree": false,
+      "net": "KEY3",
+      "explanation": {
+        "str": "{obj1} is disconnected from other objects of the same network",
+        "param": {
+          "obj1": "Object 1",
+          "type": "ConnectError"
+        },
+        "errData": {
+          "globalIndex": "err74",
+          "position": {
+            "x": 158.310095,
+            "y": 154.52761
+          },
+          "name": "Common",
+          "obj1": "50ed7851da96bd02",
+          "obj1Type": "Track",
+          "net": "KEY3",
+          "isFree": false,
+          "layerIds": [
+            1
+          ],
+          "errorType": "No Connection",
+          "obj1Suffix": "(KEY3): e1557"
+        }
+      },
+      "objs": [
+        "50ed7851da96bd02"
+      ],
+      "globalIndex": "err74",
+      "pos": {
+        "x": 158.310095,
+        "y": 154.52761
+      },
+      "parentId": "DRCTab|_|Errors|_|Connection Error|_|KEY3"
+    },
+    {
+      "visible": true,
+      "errorType": "Connection Error",
+      "errorObjType": "Track",
+      "ruleName": "Common",
+      "obj1": {
+        "typeName": "Track",
+        "suffix": "(KEY3): e1564"
+      },
+      "isFree": false,
+      "net": "KEY3",
+      "explanation": {
+        "str": "{obj1} is disconnected from other objects of the same network",
+        "param": {
+          "obj1": "Object 1",
+          "type": "ConnectError"
+        },
+        "errData": {
+          "globalIndex": "err75",
+          "position": {
+            "x": 156.4856,
+            "y": 154.22861
+          },
+          "name": "Common",
+          "obj1": "3dc5ae6a88fe8cb1",
+          "obj1Type": "Track",
+          "net": "KEY3",
+          "isFree": false,
+          "layerIds": [
+            2
+          ],
+          "errorType": "No Connection",
+          "obj1Suffix": "(KEY3): e1564"
+        }
+      },
+      "objs": [
+        "3dc5ae6a88fe8cb1"
+      ],
+      "globalIndex": "err75",
+      "pos": {
+        "x": 156.4856,
+        "y": 154.22861
+      },
+      "parentId": "DRCTab|_|Errors|_|Connection Error|_|KEY3"
+    }
+  ]
+}

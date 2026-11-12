@@ -1,0 +1,2 @@
+
+{"ok":true,"value":[{"async":true,"primitiveType":"Polyline","net":null,"layer":11,"polygon":{"polygon":[0,0,"L",0,3149.6063,3937.0079,3149.6063,3937.0079,0,0,0]},"lineWidth":4,"primitiveLock":true,"primitiveId":"1c5445168aaf0a9c"}],"logs":[],"durationMs":14}

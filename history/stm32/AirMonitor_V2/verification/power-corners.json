@@ -1,0 +1,21 @@
+{
+  "ovp_nominal_v": 5.375699999999999,
+  "ovp_initial_resistor_corners_v": [
+    5.254001692827174,
+    5.497783068548549
+  ],
+  "ovp_scope": "Comparator full-temperature bounds and leakage; resistor initial tolerances only. Excludes resistor drift, switching delay and input overshoot.",
+  "current_limit_a_at_nominal_150k": [
+    0.53,
+    0.58,
+    0.63
+  ],
+  "nominal_5v_ramp_ms": 42.016806722689076,
+  "ldo_dissipation_w": {
+    "0.102": 0.1989,
+    "0.15": 0.29250000000000004,
+    "0.25": 0.48750000000000004
+  },
+  "thermal_scope": "SOT-223 62 C/W is a four-layer JEDEC reference, not measured two-layer thermal resistance.",
+  "design_status": "Insufficient margin to guarantee 5.5 V at PMS over all temperatures and transients; characterize or revise before release."
+}

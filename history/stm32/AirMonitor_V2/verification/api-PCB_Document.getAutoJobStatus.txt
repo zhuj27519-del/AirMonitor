@@ -1,0 +1,2 @@
+
+{"ok":true,"value":{"title":"查询自动布线 / 自动布局作业状态","remarks":"返回指定作业的进度、结构化错误与中间结果是否已提交，无需靠超时猜测状态；\n仅适用于 {@link PCB_Document.startAutoRouting | startAutoRouting} 与 {@link PCB_Document.startAutoLayout | startAutoLayout} 启动的作业","visibility":"alpha","params":[{"name":"jobId","type":"string","description":"作业 ID","required":true}],"returns":{"type":"ISYS_JobStatus","description":"作业状态详情，作业不存在时为 `undefined`"},"isAsync":true},"logs":[],"durationMs":350}

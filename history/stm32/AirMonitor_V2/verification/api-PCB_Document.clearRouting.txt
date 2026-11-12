@@ -1,0 +1,2 @@
+
+{"ok":true,"value":{"title":"清除布线","visibility":"beta","params":[{"name":"type","type":"\"all\" | \"net\" | \"connection\"","description":"清除类型，如若需要指定清除类型，请提前选择指定图元","required":false}],"returns":{"type":"boolean"},"isAsync":true},"logs":[],"durationMs":183}

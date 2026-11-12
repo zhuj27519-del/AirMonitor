@@ -1,0 +1,3 @@
+
+{"ok":false,"error":{"code":"DOC_QUERY_FAILED","message":"[help] eda.PCB_PrimitiveComponent 下不存在方法：getAllPadsByPrimitiveId"}}
+DOC_QUERY_FAILED: [help] eda.PCB_PrimitiveComponent 下不存在方法：getAllPadsByPrimitiveId

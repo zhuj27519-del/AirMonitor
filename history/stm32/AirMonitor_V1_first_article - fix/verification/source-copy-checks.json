@@ -1,0 +1,9 @@
+{
+  "exact_copy_sha256": {
+    "hardware/EasyEDA/pcb/PCB1.epcb2": "f8e82b671876919f6509939226b0170fe72b2caf2f19d4080e65832a1f028374",
+    "hardware/EasyEDA/sch/Schematic1/P1.esch2": "34e8bc66d74de1aa6b7b136829f7a38fdce838ef6a5a4776d58bbf35e36c07fc",
+    "hardware/pcb.net": "13cdbf9655d4b297141fe837d6852ddd2e20af3b85831601f1e713631cf64383",
+    "hardware/schematic.net": "bbc0f22ed616340bc5a2cd4052da797be9fc1a4b673070eb2145d92abd6a3292"
+  },
+  "only_project_index_name_and_description_changed": true
+}

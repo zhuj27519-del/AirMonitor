@@ -1,0 +1,2 @@
+
+{"ok":true,"value":{"title":"获取当前设计规则配置","visibility":"beta","params":[],"returns":{"type":"{ [key: string]: any } | undefined","description":"当前设计规则配置，`undefined` 为获取失败"},"isAsync":true},"logs":[],"durationMs":221}

@@ -1,0 +1,9 @@
+(footprint "PinHeader_1x03_2.54"
+ (version 20221018)
+ (generator "air-monitor-design")
+ (layer "F.Cu")
+ (fp_rect (start -2 -4) (end 2 4) (stroke (width 0.12) (type default)) (fill none) (layer "F.Fab"))
+ (pad "1" thru_hole circle (at 0 -2.54) (size 1.6 1.6) (drill 0.9) (layers "*.Cu" "*.Mask"))
+ (pad "2" thru_hole circle (at 0 0) (size 1.6 1.6) (drill 0.9) (layers "*.Cu" "*.Mask"))
+ (pad "3" thru_hole circle (at 0 2.54) (size 1.6 1.6) (drill 0.9) (layers "*.Cu" "*.Mask"))
+)

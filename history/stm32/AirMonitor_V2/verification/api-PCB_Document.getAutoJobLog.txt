@@ -1,0 +1,2 @@
+
+{"ok":true,"value":{"title":"获取自动布线 / 自动布局作业日志","remarks":"以结构化形式返回单个自动布线 / 自动布局作业的日志","visibility":"alpha","params":[{"name":"jobId","type":"string","description":"作业 ID","required":true}],"returns":{"type":"Array<ISYS_JobLogEntry>","description":"作业日志条目列表"},"isAsync":true},"logs":[],"durationMs":298}

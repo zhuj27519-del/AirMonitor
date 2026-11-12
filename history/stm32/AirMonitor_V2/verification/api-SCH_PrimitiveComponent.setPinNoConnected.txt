@@ -1,0 +1,3 @@
+
+{"ok":false,"error":{"code":"DOC_QUERY_FAILED","message":"[help] eda.SCH_PrimitiveComponent 下不存在方法：setPinNoConnected"}}
+DOC_QUERY_FAILED: [help] eda.SCH_PrimitiveComponent 下不存在方法：setPinNoConnected

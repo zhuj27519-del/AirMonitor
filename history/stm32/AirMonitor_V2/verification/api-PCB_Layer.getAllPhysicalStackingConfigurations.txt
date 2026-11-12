@@ -1,0 +1,2 @@
+
+{"ok":true,"value":{"title":"获取所有物理叠层配置","visibility":"alpha","params":[],"returns":{"type":"Array<{ [key: string]: any }>","description":"所有物理叠层配置"},"isAsync":true},"logs":[],"durationMs":230}

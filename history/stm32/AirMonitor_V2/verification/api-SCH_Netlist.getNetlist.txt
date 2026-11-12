@@ -1,0 +1,2 @@
+
+{"ok":true,"value":{"title":"获取网表","visibility":"public","params":[{"name":"type","type":"ESYS_NetlistType","description":"网表格式","required":false}],"returns":{"type":"string","description":"网表数据"},"deprecated":"请使用 {@link SCH_ManufactureData.getNetlistFile} 替代","isAsync":true},"logs":[],"durationMs":335}

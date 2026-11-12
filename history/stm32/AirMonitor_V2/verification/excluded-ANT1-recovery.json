@@ -1,0 +1,44 @@
+{
+  "async": true,
+  "primitiveType": "Component",
+  "primitiveId": "9c04b38408cc1dfc",
+  "componentType": "part",
+  "x": 2025,
+  "y": -3300,
+  "subPartName": "AIGC035.1",
+  "rotation": 0,
+  "mirror": false,
+  "addIntoBom": true,
+  "addIntoPcb": true,
+  "net": "",
+  "component": {
+    "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+    "uuid": "0f858c2553221730",
+    "name": "AIGC035"
+  },
+  "symbol": {
+    "uuid": "81322b6b6dbbed75",
+    "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+    "name": "AIGC035"
+  },
+  "footprint": {
+    "uuid": "b2590bbf04127831",
+    "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+    "name": "ANT-TH_L35.5-W3.5_AIGC035"
+  },
+  "designator": "ANT1",
+  "name": "={Manufacturer Part}",
+  "uniqueId": "gge46",
+  "manufacturer": "",
+  "manufacturerId": "AIGC035",
+  "supplier": "LCSC",
+  "supplierId": "C9900329578",
+  "otherProperty": {
+    "PCB Layer": "Default",
+    "LCSC Part Name": "AIGC035",
+    "Supplier Footprint": "GPS陶瓷天线35x35mm双馈点",
+    "JLCPCB Part Class": "",
+    "Datasheet": "",
+    "Description": ""
+  }
+}

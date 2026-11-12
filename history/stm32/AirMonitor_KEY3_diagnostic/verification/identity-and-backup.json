@@ -1,0 +1,22 @@
+{
+  "current_project_path": "C:\\Users\\Peter\\Documents\\Codex\\2026-10-26\\files-pasted-by-the-user-project\\outputs\\AirMonitor_V1_first_article\\hardware\\EasyEDA\\AirMonitor V1 - First Article.eprj3",
+  "project_uuid": "9f9478fff5c4f16309970711552f89dbd8ca61388e2e9eec0fedb13157f2b72a",
+  "path_sha256_matches_project_uuid": true,
+  "backup_zip": "C:\\Users\\Peter\\Documents\\Codex\\2026-10-26\\files-pasted-by-the-user-project\\outputs\\AirMonitor_KEY3_diagnostic\\original_project_backup.zip",
+  "backup_sha256": "788fc8a104d23c66ff846762ddb6417ece2791b9d848448b6ecdf05b28920614",
+  "backup_files": 6,
+  "excluded_previous_automatic_backups": true,
+  "files_different_from_sealed_delivery": [
+    "AirMonitor V1 - First Article.eprj3",
+    "pcb/PCB1.epcb2"
+  ],
+  "original_file_sha256": {
+    "AirMonitor V1 - First Article.eprj3": "21a85c6ef28731435a3aaf827b14fe466d1278a596ee6ab3d1268dec86f1645b",
+    "eprj3-intro.md": "aa51d38bb0c3cc0fe8270da65b63f16a3ee905c601212724ddbd289d5e06529b",
+    "panel/Panel1.epan2": "c2d0b018e37b8849d990a79e6e9a7d0776352b845108adea961eecb4da2d7127",
+    "pcb/PCB1.epcb2": "c26f21013ddf4c2b10072870b306ad1198bb2edbe7d093fd93398ea5201201ea",
+    "sch/Schematic1/P1.esch2": "34e8bc66d74de1aa6b7b136829f7a38fdce838ef6a5a4776d58bbf35e36c07fc",
+    "sch/Schematic1/Schematic1.ecfg": "8509e019bdeb1b6f0e7beb0d3cbdfebd139988e8ad33b39895f1898d093bb779"
+  },
+  "sealed_delivery_zip_sha256": "1c71d253b462d9494d768ee500f95aa7c17172da619cd7ab532248cd0865ea1e"
+}

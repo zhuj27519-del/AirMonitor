@@ -1,0 +1,2 @@
+
+{"ok":true,"value":{"sessionId":"1865048c-3044-4954-97bd-eb60b62f41ad","status":"closed","headless":false},"logs":[],"durationMs":12}

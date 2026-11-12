@@ -1,0 +1,751 @@
+{
+  "8cfd82769aeb544a5a739684dbfa50e0c267e1845f2d3a0ba1c613d3405914ef": [
+    "history\\esp8266\\AirMonitor_V4_9Text_Matched\\AirMonitor_V4_9Text_Matched.ino",
+    "src\\AirMonitor\\AirMonitor.ino"
+  ],
+  "7b0becb9a0596f861b6b9cb82dc3e4b80813547de03a95f25874df01ec0b3b39": [
+    "hardware\\hmi\\HF035\\backUpImages\\100001_AirMonitor_V4_preview_212x318.bmp",
+    "hardware\\hmi\\HF035\\tempImages\\100001_AirMonitor_V4_preview_212x318.bmp",
+    "hardware\\hmi\\assets\\AirMonitor_V4_preview_212x318.bmp"
+  ],
+  "b52c8bec11c687a9b905599c77b78550ab8ca48eea6cf27c6cbb3d69cba243f8": [
+    "hardware\\hmi\\HF035\\backUpImages\\100002_AirMonitor_V4_Background_212x318.bmp",
+    "hardware\\hmi\\HF035\\tempImages\\100002_AirMonitor_V4_Background_212x318.bmp",
+    "hardware\\hmi\\assets\\AirMonitor_V4_Background_212x318.bmp"
+  ],
+  "1a40ac204d084efed9b104ed9ae1792aa8a5e9c8f943a96e19e7605058c681ed": [
+    "hardware\\sensors\\21voc\\6c0f5fe15c807db3d65c640978f76d1c.jpg",
+    "history\\stm32\\AirMonitor_V1_first_article\\datasheets\\21VOC\\6c0f5fe15c807db3d65c640978f76d1c.jpg",
+    "history\\stm32\\AirMonitor_V1_first_article - fix\\datasheets\\21VOC\\6c0f5fe15c807db3d65c640978f76d1c.jpg",
+    "history\\stm32\\AirMonitor_V2\\datasheets\\21VOC\\6c0f5fe15c807db3d65c640978f76d1c.jpg"
+  ],
+  "491d8a7c824a7216fca48742a7f19d26cba586ad1d8013b82a4e0f784adbddc6": [
+    "hardware\\sensors\\21voc\\96eb477987dba18f5265ee34690fde97.jpg",
+    "history\\stm32\\AirMonitor_V1_first_article\\datasheets\\21VOC\\96eb477987dba18f5265ee34690fde97.jpg",
+    "history\\stm32\\AirMonitor_V1_first_article - fix\\datasheets\\21VOC\\96eb477987dba18f5265ee34690fde97.jpg",
+    "history\\stm32\\AirMonitor_V2\\datasheets\\21VOC\\96eb477987dba18f5265ee34690fde97.jpg"
+  ],
+  "c520f720b6bfb9f4d44c2fe6c910c892e5138e217c2f67a30e635b8cb536afa7": [
+    "hardware\\sensors\\21voc\\d2af0fff95c0b9f44d673007e6fd1f0e.jpg",
+    "history\\stm32\\AirMonitor_V1_first_article\\datasheets\\21VOC\\d2af0fff95c0b9f44d673007e6fd1f0e.jpg",
+    "history\\stm32\\AirMonitor_V1_first_article - fix\\datasheets\\21VOC\\d2af0fff95c0b9f44d673007e6fd1f0e.jpg",
+    "history\\stm32\\AirMonitor_V2\\datasheets\\21VOC\\d2af0fff95c0b9f44d673007e6fd1f0e.jpg"
+  ],
+  "227283c06c725276af0663122c801d106d9a2a6d47dc54fb5be53cbcfc390767": [
+    "hardware\\sensors\\21voc\\d406f99c3d1587cd0746fb499f8712e6.jpg",
+    "history\\stm32\\AirMonitor_V1_first_article\\datasheets\\21VOC\\d406f99c3d1587cd0746fb499f8712e6.jpg",
+    "history\\stm32\\AirMonitor_V1_first_article - fix\\datasheets\\21VOC\\d406f99c3d1587cd0746fb499f8712e6.jpg",
+    "history\\stm32\\AirMonitor_V2\\datasheets\\21VOC\\d406f99c3d1587cd0746fb499f8712e6.jpg"
+  ],
+  "e627566333b7c9db49c75d8288818721b6c0469c87fe1d97eb5b896600b355f7": [
+    "hardware\\sensors\\21voc\\ffd40b1e6fdbc095ca067237d3dfe453.jpg",
+    "history\\stm32\\AirMonitor_V1_first_article\\datasheets\\21VOC\\ffd40b1e6fdbc095ca067237d3dfe453.jpg",
+    "history\\stm32\\AirMonitor_V1_first_article - fix\\datasheets\\21VOC\\ffd40b1e6fdbc095ca067237d3dfe453.jpg",
+    "history\\stm32\\AirMonitor_V2\\datasheets\\21VOC\\ffd40b1e6fdbc095ca067237d3dfe453.jpg"
+  ],
+  "aa51d38bb0c3cc0fe8270da65b63f16a3ee905c601212724ddbd289d5e06529b": [
+    "history\\hardware\\EasyEDA-live-V2-PROVISIONAL\\eprj3-intro.md",
+    "history\\stm32\\AirMonitor_KEY3_diagnostic\\hardware\\EasyEDA\\eprj3-intro.md",
+    "history\\stm32\\AirMonitor_V1_first_article\\hardware\\EasyEDA\\eprj3-intro.md",
+    "history\\stm32\\AirMonitor_V1_first_article - fix\\hardware\\EasyEDA\\eprj3-intro.md",
+    "history\\stm32\\AirMonitor_V2\\hardware\\EasyEDA\\eprj3-intro.md"
+  ],
+  "c2d0b018e37b8849d990a79e6e9a7d0776352b845108adea961eecb4da2d7127": [
+    "history\\hardware\\EasyEDA-live-V2-PROVISIONAL\\panel\\Panel1.epan2",
+    "history\\stm32\\AirMonitor_KEY3_diagnostic\\hardware\\EasyEDA\\panel\\Panel1.epan2",
+    "history\\stm32\\AirMonitor_V1_first_article\\hardware\\EasyEDA\\panel\\Panel1.epan2",
+    "history\\stm32\\AirMonitor_V1_first_article - fix\\hardware\\EasyEDA\\panel\\Panel1.epan2",
+    "history\\stm32\\AirMonitor_V2\\hardware\\EasyEDA\\panel\\Panel1.epan2"
+  ],
+  "d52f3c810f9194ce66bbef87f6221b7c0a87432f89ae7da002d2a48228f09da2": [
+    "history\\hardware\\EasyEDA-live-V2-PROVISIONAL\\sch\\Schematic1\\P1.esch2",
+    "history\\stm32\\AirMonitor_V2\\verification\\schematic-before-frame.esch2"
+  ],
+  "8509e019bdeb1b6f0e7beb0d3cbdfebd139988e8ad33b39895f1898d093bb779": [
+    "history\\hardware\\EasyEDA-live-V2-PROVISIONAL\\sch\\Schematic1\\Schematic1.ecfg",
+    "history\\stm32\\AirMonitor_KEY3_diagnostic\\hardware\\EasyEDA\\sch\\Schematic1\\Schematic1.ecfg",
+    "history\\stm32\\AirMonitor_V1_first_article\\hardware\\EasyEDA\\sch\\Schematic1\\Schematic1.ecfg",
+    "history\\stm32\\AirMonitor_V1_first_article - fix\\hardware\\EasyEDA\\sch\\Schematic1\\Schematic1.ecfg",
+    "history\\stm32\\AirMonitor_V2\\hardware\\EasyEDA\\sch\\Schematic1\\Schematic1.ecfg"
+  ],
+  "1c648f7fdf1de310f73f1d25ca268e70bb96e99c53cbdc36845d6d413197d4bc": [
+    "history\\stm32\\AirMonitor_KEY3_diagnostic\\automation\\eda_cli.py",
+    "history\\stm32\\AirMonitor_V1_first_article\\automation\\eda_cli.py",
+    "history\\stm32\\AirMonitor_V1_first_article - fix\\automation\\eda_cli.py",
+    "history\\stm32\\AirMonitor_V2\\automation\\eda_cli.py"
+  ],
+  "a771729617b71385e3a7677d49c64ee672313a7496adbf5c98e9cdaea36898c6": [
+    "history\\stm32\\AirMonitor_KEY3_diagnostic\\manufacturing\\BOM-JLCPCB-all.csv",
+    "history\\stm32\\AirMonitor_V1_first_article\\manufacturing\\BOM-JLCPCB-all.csv",
+    "history\\stm32\\AirMonitor_V1_first_article - fix\\manufacturing\\BOM-JLCPCB-all.csv",
+    "history\\stm32\\AirMonitor_V2\\manufacturing\\BOM-JLCPCB-all.csv"
+  ],
+  "c18ef9125b762773f7c0349e54bccae9a47dcc9ab829c87f92320103cd492a29": [
+    "history\\stm32\\AirMonitor_KEY3_diagnostic\\manufacturing\\BOM-JLCPCB-SMT.csv",
+    "history\\stm32\\AirMonitor_V1_first_article\\manufacturing\\BOM-JLCPCB-SMT.csv",
+    "history\\stm32\\AirMonitor_V1_first_article - fix\\manufacturing\\BOM-JLCPCB-SMT.csv",
+    "history\\stm32\\AirMonitor_V2\\manufacturing\\BOM-JLCPCB-SMT.csv"
+  ],
+  "7e47e9c237528e1ab1dcb0b0cbe6b1940568f1dd09561e8a46ff652d3ce43980": [
+    "history\\stm32\\AirMonitor_KEY3_diagnostic\\manufacturing\\BOM-manual.csv",
+    "history\\stm32\\AirMonitor_V1_first_article\\manufacturing\\BOM-manual.csv",
+    "history\\stm32\\AirMonitor_V1_first_article - fix\\manufacturing\\BOM-manual.csv",
+    "history\\stm32\\AirMonitor_V2\\manufacturing\\BOM-manual.csv"
+  ],
+  "21a85c6ef28731435a3aaf827b14fe466d1278a596ee6ab3d1268dec86f1645b": [
+    "history\\stm32\\AirMonitor_KEY3_diagnostic\\hardware\\EasyEDA\\AirMonitor V1 - First Article.eprj3",
+    "history\\stm32\\AirMonitor_V1_first_article\\hardware\\EasyEDA\\AirMonitor V1 - First Article.eprj3"
+  ],
+  "c26f21013ddf4c2b10072870b306ad1198bb2edbe7d093fd93398ea5201201ea": [
+    "history\\stm32\\AirMonitor_KEY3_diagnostic\\hardware\\EasyEDA\\pcb\\PCB1.epcb2",
+    "history\\stm32\\AirMonitor_V1_first_article\\hardware\\EasyEDA\\pcb\\PCB1.epcb2"
+  ],
+  "34e8bc66d74de1aa6b7b136829f7a38fdce838ef6a5a4776d58bbf35e36c07fc": [
+    "history\\stm32\\AirMonitor_KEY3_diagnostic\\hardware\\EasyEDA\\sch\\Schematic1\\P1.esch2",
+    "history\\stm32\\AirMonitor_V1_first_article\\hardware\\EasyEDA\\sch\\Schematic1\\P1.esch2",
+    "history\\stm32\\AirMonitor_V1_first_article - fix\\hardware\\EasyEDA\\sch\\Schematic1\\P1.esch2",
+    "history\\stm32\\AirMonitor_V2\\hardware\\EasyEDA\\sch\\Schematic1\\P1.esch2"
+  ],
+  "68b6280910925993cde8fa0eb0f6f32c3785b3de664a90684597d0917fd27d9e": [
+    "history\\stm32\\AirMonitor_V1_first_article\\FINAL_REPORT.md",
+    "history\\stm32\\AirMonitor_V1_first_article - fix\\FINAL_REPORT.md"
+  ],
+  "f0d2ce7e90ff7955cd83500cb10ceb016d1754c148d5ae78144e2a980e8d9c01": [
+    "history\\stm32\\AirMonitor_V1_first_article\\README.md",
+    "history\\stm32\\AirMonitor_V1_first_article - fix\\README.md"
+  ],
+  "0bf65e0fb771ee0a3197df878d8e2fd59393076bd25ab9c209cb3482c4811165": [
+    "history\\stm32\\AirMonitor_V1_first_article\\SHA256SUMS.json",
+    "history\\stm32\\AirMonitor_V1_first_article - fix\\SHA256SUMS.json"
+  ],
+  "ac08ed2869b7595760b9c66163f10de1bd921dd50e21f6ff5a6e5dede915b22a": [
+    "history\\stm32\\AirMonitor_V1_first_article\\automation\\check_schematic.js",
+    "history\\stm32\\AirMonitor_V1_first_article - fix\\automation\\check_schematic.js",
+    "history\\stm32\\AirMonitor_V2\\automation\\check_schematic.js"
+  ],
+  "423dc162a3544abc760957fc059cf36026d1a652de813967574f9bd4036a9f75": [
+    "history\\stm32\\AirMonitor_V1_first_article\\automation\\export_previews.js",
+    "history\\stm32\\AirMonitor_V1_first_article - fix\\automation\\export_previews.js",
+    "history\\stm32\\AirMonitor_V2\\automation\\export_previews.js"
+  ],
+  "059c1df459d068b1f9a05bdb022bb95822bcb73f94adaab4e54c8f353feb7965": [
+    "history\\stm32\\AirMonitor_V1_first_article\\automation\\export_v1.py",
+    "history\\stm32\\AirMonitor_V1_first_article - fix\\automation\\export_v1.py",
+    "history\\stm32\\AirMonitor_V2\\automation\\export_v1.py"
+  ],
+  "e76a9953b409da7f50298c7a99298c7467af7cdb9a44a2fe16a6c0e716ed68db": [
+    "history\\stm32\\AirMonitor_V1_first_article\\automation\\export_v1_manufacturing.js",
+    "history\\stm32\\AirMonitor_V1_first_article - fix\\automation\\export_v1_manufacturing.js",
+    "history\\stm32\\AirMonitor_V2\\automation\\export_v1_manufacturing.js"
+  ],
+  "1affadc3a045ccd5a78211a6e5a0acfa3d57aa53aef68dc9271dbd9d85d5e339": [
+    "history\\stm32\\AirMonitor_V1_first_article\\automation\\package_v1_exports.py",
+    "history\\stm32\\AirMonitor_V1_first_article - fix\\automation\\package_v1_exports.py",
+    "history\\stm32\\AirMonitor_V2\\automation\\package_v1_exports.py"
+  ],
+  "ac6e0ef32d9dc3f14ed0e8e1c8924ed9895c866c6856fbb814efb5598d8bf20d": [
+    "history\\stm32\\AirMonitor_V1_first_article\\automation\\pcb_state.js",
+    "history\\stm32\\AirMonitor_V1_first_article - fix\\automation\\pcb_state.js",
+    "history\\stm32\\AirMonitor_V2\\automation\\pcb_state.js"
+  ],
+  "16f74daa3d09c9a6f31e2349c479b4ebdf6f6ab31d5106ea418dac95896bd81d": [
+    "history\\stm32\\AirMonitor_V1_first_article\\automation\\step_v1_chunked.py",
+    "history\\stm32\\AirMonitor_V1_first_article - fix\\automation\\step_v1_chunked.py",
+    "history\\stm32\\AirMonitor_V2\\automation\\step_v1_chunked.py"
+  ],
+  "3bbcea9f4f38cadd936806cc05cf780d20dd5869b68c05169f6995a7bb677623": [
+    "history\\stm32\\AirMonitor_V1_first_article\\automation\\v1_complete_power_routes.js",
+    "history\\stm32\\AirMonitor_V1_first_article - fix\\automation\\v1_complete_power_routes.js",
+    "history\\stm32\\AirMonitor_V2\\automation\\v1_complete_power_routes.js"
+  ],
+  "1b0bddd714eeaa7977f3e7c09be10756839f67e0318d3b58287dd94d911ebf94": [
+    "history\\stm32\\AirMonitor_V1_first_article\\automation\\v1_connection_report.py",
+    "history\\stm32\\AirMonitor_V1_first_article - fix\\automation\\v1_connection_report.py",
+    "history\\stm32\\AirMonitor_V2\\automation\\v1_connection_report.py"
+  ],
+  "811b92cb5699736c54a4949a80d2caf601042d99436ab90404878a4bcf1131df": [
+    "history\\stm32\\AirMonitor_V1_first_article\\automation\\v1_freeze_audit.py",
+    "history\\stm32\\AirMonitor_V1_first_article - fix\\automation\\v1_freeze_audit.py",
+    "history\\stm32\\AirMonitor_V2\\automation\\v1_freeze_audit.py"
+  ],
+  "f9bedb83d107c3a3f29497b12d2c52a991c43e59a92c89dcde80f4432d67b4a2": [
+    "history\\stm32\\AirMonitor_V1_first_article\\automation\\v1_j4_anchor.py",
+    "history\\stm32\\AirMonitor_V1_first_article - fix\\automation\\v1_j4_anchor.py",
+    "history\\stm32\\AirMonitor_V2\\automation\\v1_j4_anchor.py"
+  ],
+  "6bb1f8354be4b130252070beb615c5c94fed05ed9fb4caa1d85b767c58a8ec76": [
+    "history\\stm32\\AirMonitor_V1_first_article\\automation\\v1_jlc_tables.py",
+    "history\\stm32\\AirMonitor_V1_first_article - fix\\automation\\v1_jlc_tables.py",
+    "history\\stm32\\AirMonitor_V2\\automation\\v1_jlc_tables.py"
+  ],
+  "c7651b308e89b60f4e61753e3c92016eb3a5389f57c4b30d36135dc045fd6810": [
+    "history\\stm32\\AirMonitor_V1_first_article\\automation\\v1_last_connection_fix.js",
+    "history\\stm32\\AirMonitor_V1_first_article - fix\\automation\\v1_last_connection_fix.js",
+    "history\\stm32\\AirMonitor_V2\\automation\\v1_last_connection_fix.js"
+  ],
+  "64c301d0260fd0d7493dfeb7bc637ab1341cf5515a787befd3d06fe01dbb435b": [
+    "history\\stm32\\AirMonitor_V1_first_article\\automation\\v1_native_footprints.py",
+    "history\\stm32\\AirMonitor_V1_first_article - fix\\automation\\v1_native_footprints.py",
+    "history\\stm32\\AirMonitor_V2\\automation\\v1_native_footprints.py"
+  ],
+  "3463f3fb014e7d01567f96afdd0368bcdeadb7acef60759e7ca27a5b1e2a8c4e": [
+    "history\\stm32\\AirMonitor_V1_first_article\\automation\\v1_place.js",
+    "history\\stm32\\AirMonitor_V1_first_article - fix\\automation\\v1_place.js",
+    "history\\stm32\\AirMonitor_V2\\automation\\v1_place.js"
+  ],
+  "51a846a288e8155848b3ece6d2dd8e32fd8fb0599e0ade88b37b4da43dc78a05": [
+    "history\\stm32\\AirMonitor_V1_first_article\\automation\\verify_v1_delivery.py",
+    "history\\stm32\\AirMonitor_V1_first_article - fix\\automation\\verify_v1_delivery.py"
+  ],
+  "ea33e0b40545e545bf698cbac3bb1c0f5a3fc7ca6b5b7fda83a63134d4affaa7": [
+    "history\\stm32\\AirMonitor_V1_first_article\\datasheets\\GCT_USB4125.pdf",
+    "history\\stm32\\AirMonitor_V1_first_article - fix\\datasheets\\GCT_USB4125.pdf",
+    "history\\stm32\\AirMonitor_V2\\datasheets\\GCT_USB4125.pdf"
+  ],
+  "5878e549f54c42a0d544d26fa75a666ad6f0f9486aaf4b4f44f1279cead9e524": [
+    "history\\stm32\\AirMonitor_V1_first_article\\datasheets\\JST_PH.pdf",
+    "history\\stm32\\AirMonitor_V1_first_article - fix\\datasheets\\JST_PH.pdf",
+    "history\\stm32\\AirMonitor_V2\\datasheets\\JST_PH.pdf"
+  ],
+  "86245f7017985fac98582b77b370b587db317a8b983d90fc8393f110435e5725": [
+    "history\\stm32\\AirMonitor_V1_first_article\\datasheets\\Microchip_MCP1826S.pdf",
+    "history\\stm32\\AirMonitor_V1_first_article - fix\\datasheets\\Microchip_MCP1826S.pdf",
+    "history\\stm32\\AirMonitor_V2\\datasheets\\Microchip_MCP1826S.pdf"
+  ],
+  "dee1a20ab750b1c43bf37ed64669de9d87293d93a7c8d075b251a156289607b8": [
+    "history\\stm32\\AirMonitor_V1_first_article\\datasheets\\Plantower_PMS7003M_V2_5.pdf",
+    "history\\stm32\\AirMonitor_V1_first_article - fix\\datasheets\\Plantower_PMS7003M_V2_5.pdf",
+    "history\\stm32\\AirMonitor_V2\\datasheets\\Plantower_PMS7003M_V2_5.pdf"
+  ],
+  "b97ac5c46caafd69bb762ee3da123e7906fb68394f552455a51b41385890c2fc": [
+    "history\\stm32\\AirMonitor_V1_first_article\\datasheets\\TI_TLV6700.pdf",
+    "history\\stm32\\AirMonitor_V1_first_article - fix\\datasheets\\TI_TLV6700.pdf",
+    "history\\stm32\\AirMonitor_V2\\datasheets\\TI_TLV6700.pdf"
+  ],
+  "9db4dc76b1040251f56d994041d2e6f02f1307d687aecbc5218f137a5c830adc": [
+    "history\\stm32\\AirMonitor_V1_first_article\\datasheets\\TI_TPS25940.pdf",
+    "history\\stm32\\AirMonitor_V1_first_article - fix\\datasheets\\TI_TPS25940.pdf",
+    "history\\stm32\\AirMonitor_V2\\datasheets\\TI_TPS25940.pdf"
+  ],
+  "39dc15ae945952de5aa88ce9cfd96815ca5b05ae1056ff301a77ccddc012770c": [
+    "history\\stm32\\AirMonitor_V1_first_article\\datasheets\\User_PMS_8pin_interface.jpg",
+    "history\\stm32\\AirMonitor_V1_first_article - fix\\datasheets\\User_PMS_8pin_interface.jpg",
+    "history\\stm32\\AirMonitor_V2\\datasheets\\User_PMS_8pin_interface.jpg"
+  ],
+  "9d0a35db1a79961d38712dff794764e432a487c937a18b03ff394350176af229": [
+    "history\\stm32\\AirMonitor_V1_first_article\\datasheets\\Waveshare_18079_dimensions.jpg",
+    "history\\stm32\\AirMonitor_V1_first_article - fix\\datasheets\\Waveshare_18079_dimensions.jpg",
+    "history\\stm32\\AirMonitor_V2\\datasheets\\Waveshare_18079_dimensions.jpg"
+  ],
+  "dc7c6c569e05ea48a8beefd272a6c1ae6442ce8f5c7177e314246d6caf4f6732": [
+    "history\\stm32\\AirMonitor_V1_first_article\\datasheets\\Waveshare_18079_schematic.pdf",
+    "history\\stm32\\AirMonitor_V1_first_article - fix\\datasheets\\Waveshare_18079_schematic.pdf",
+    "history\\stm32\\AirMonitor_V2\\datasheets\\Waveshare_18079_schematic.pdf"
+  ],
+  "92c666da7b3f7f5710be73798c40aa646d8f86eb48230fb64f0670c5cba1f683": [
+    "history\\stm32\\AirMonitor_V1_first_article\\documentation\\interfaces.md",
+    "history\\stm32\\AirMonitor_V1_first_article - fix\\documentation\\interfaces.md"
+  ],
+  "8fb237a21513b4c7008ebc5b9c577e335509ded64b6c894cfef6b6c808471bdd": [
+    "history\\stm32\\AirMonitor_V1_first_article\\documentation\\power-and-layout-review.md",
+    "history\\stm32\\AirMonitor_V1_first_article - fix\\documentation\\power-and-layout-review.md"
+  ],
+  "dfd965e0fd711e224252f823cda9fe45d1f852070b44d8ec4418fb591b954ac7": [
+    "history\\stm32\\AirMonitor_V1_first_article\\documentation\\sensor-harness-options.md",
+    "history\\stm32\\AirMonitor_V1_first_article - fix\\documentation\\sensor-harness-options.md"
+  ],
+  "760edb21a3edad2fc0d3cd24c70e3b40ef53f66054bc60dca61c71fefad5ce7f": [
+    "history\\stm32\\AirMonitor_V1_first_article\\firmware\\.cproject",
+    "history\\stm32\\AirMonitor_V1_first_article - fix\\firmware\\.cproject",
+    "history\\stm32\\AirMonitor_V2\\firmware\\.cproject"
+  ],
+  "50ee2cd0ff4e83fac25f4a96c1e2f333b0f607b85033be588e4ceacb331c7c17": [
+    "history\\stm32\\AirMonitor_V1_first_article\\firmware\\.project",
+    "history\\stm32\\AirMonitor_V1_first_article - fix\\firmware\\.project",
+    "history\\stm32\\AirMonitor_V2\\firmware\\.project"
+  ],
+  "eb20db5fe23283545b56e584938961850f9699944dd5ba6d0384a87ebc8cdadb": [
+    "history\\stm32\\AirMonitor_V1_first_article\\firmware\\build.py",
+    "history\\stm32\\AirMonitor_V1_first_article - fix\\firmware\\build.py",
+    "history\\stm32\\AirMonitor_V2\\firmware\\build.py"
+  ],
+  "88a0cf50bc80af510807cd32a638100f7d33d1120aa3073294fd795a538e3524": [
+    "history\\stm32\\AirMonitor_V1_first_article\\firmware\\README.md",
+    "history\\stm32\\AirMonitor_V1_first_article - fix\\firmware\\README.md",
+    "history\\stm32\\AirMonitor_V2\\firmware\\README.md"
+  ],
+  "f2df82da64eb249f8982868bc37770daff05601a0a0a12e3f82e742557231a09": [
+    "history\\stm32\\AirMonitor_V1_first_article\\firmware\\STM32G0B1CBTX_FLASH.ld",
+    "history\\stm32\\AirMonitor_V1_first_article - fix\\firmware\\STM32G0B1CBTX_FLASH.ld",
+    "history\\stm32\\AirMonitor_V2\\firmware\\STM32G0B1CBTX_FLASH.ld"
+  ],
+  "858e2f7dfde4e09f8eaeb40a939cdeb0c4d417e74f36a62cacd1955947c98afa": [
+    "history\\stm32\\AirMonitor_V1_first_article\\hardware\\BOM-native.csv",
+    "history\\stm32\\AirMonitor_V1_first_article\\manufacturing\\BOM-native.csv",
+    "history\\stm32\\AirMonitor_V1_first_article - fix\\hardware\\BOM-native.csv",
+    "history\\stm32\\AirMonitor_V1_first_article - fix\\manufacturing\\BOM-native.csv",
+    "history\\stm32\\AirMonitor_V2\\hardware\\BOM-native.csv",
+    "history\\stm32\\AirMonitor_V2\\manufacturing\\BOM-native.csv"
+  ],
+  "35931f5100c724a604606b9708b88007c48e3a16513234946e9649d3e89b11ee": [
+    "history\\stm32\\AirMonitor_V1_first_article\\hardware\\pcb-back-layer-top-view.png",
+    "history\\stm32\\AirMonitor_V1_first_article - fix\\hardware\\pcb-back-layer-top-view.png",
+    "history\\stm32\\AirMonitor_V2\\hardware\\pcb-back-layer-top-view.png"
+  ],
+  "dc05c6a84ea60e93cdf98384964888e0642cc1daf2357ea2f70200b7c24af607": [
+    "history\\stm32\\AirMonitor_V1_first_article\\hardware\\pcb-front.png",
+    "history\\stm32\\AirMonitor_V1_first_article - fix\\hardware\\pcb-front.png",
+    "history\\stm32\\AirMonitor_V2\\hardware\\pcb-front.png"
+  ],
+  "13cdbf9655d4b297141fe837d6852ddd2e20af3b85831601f1e713631cf64383": [
+    "history\\stm32\\AirMonitor_V1_first_article\\hardware\\pcb.net",
+    "history\\stm32\\AirMonitor_V1_first_article - fix\\hardware\\pcb.net",
+    "history\\stm32\\AirMonitor_V2\\hardware\\pcb.net"
+  ],
+  "d15b9293dea5225ed399b55b2360f052c4b6c9a63a16a4b9bbe2e04f35e535ed": [
+    "history\\stm32\\AirMonitor_V1_first_article\\hardware\\pin_plan.json",
+    "history\\stm32\\AirMonitor_V1_first_article - fix\\hardware\\pin_plan.json",
+    "history\\stm32\\AirMonitor_V2\\hardware\\pin_plan.json"
+  ],
+  "62d97f5a4232ebd3aa8ca76d6d59a88d820d48e0d22c8bee6eeb9a5c095d705e": [
+    "history\\stm32\\AirMonitor_V1_first_article\\hardware\\schematic-preview.png",
+    "history\\stm32\\AirMonitor_V1_first_article - fix\\hardware\\schematic-preview.png",
+    "history\\stm32\\AirMonitor_V2\\hardware\\schematic-preview.png"
+  ],
+  "bbc0f22ed616340bc5a2cd4052da797be9fc1a4b673070eb2145d92abd6a3292": [
+    "history\\stm32\\AirMonitor_V1_first_article\\hardware\\schematic.net",
+    "history\\stm32\\AirMonitor_V1_first_article - fix\\hardware\\schematic.net",
+    "history\\stm32\\AirMonitor_V2\\hardware\\schematic.net"
+  ],
+  "4bde9e14cecdb02aaf9b95c17a2231df5c27de2edf1ddce3f5517befbf2edcba": [
+    "history\\stm32\\AirMonitor_V1_first_article\\manufacturing\\AirMonitor_V1_Gerber_REVIEW.zip",
+    "history\\stm32\\AirMonitor_V1_first_article - fix\\manufacturing\\AirMonitor_V1_Gerber_REVIEW.zip",
+    "history\\stm32\\AirMonitor_V2\\manufacturing\\AirMonitor_V1_Gerber_REVIEW.zip"
+  ],
+  "64b2444141d339a2437f9d1cb49bb021ce00a0f5369c25a64a4c975ad3eda09a": [
+    "history\\stm32\\AirMonitor_V1_first_article\\manufacturing\\CPL-JLCPCB-all.csv",
+    "history\\stm32\\AirMonitor_V1_first_article - fix\\manufacturing\\CPL-JLCPCB-all.csv",
+    "history\\stm32\\AirMonitor_V2\\manufacturing\\CPL-JLCPCB-all.csv"
+  ],
+  "6979b322798ad49e30a22c08affa14b1fd6024879b5dd5926cc19c12e17aa5dc": [
+    "history\\stm32\\AirMonitor_V1_first_article\\manufacturing\\CPL-JLCPCB-SMT.csv",
+    "history\\stm32\\AirMonitor_V1_first_article - fix\\manufacturing\\CPL-JLCPCB-SMT.csv",
+    "history\\stm32\\AirMonitor_V2\\manufacturing\\CPL-JLCPCB-SMT.csv"
+  ],
+  "9a9d4d627a0a3db0ecded66b5a7622859ce1bf83602729e2a36035eb84e085be": [
+    "history\\stm32\\AirMonitor_V1_first_article\\manufacturing\\CPL-native.csv",
+    "history\\stm32\\AirMonitor_V1_first_article - fix\\manufacturing\\CPL-native.csv",
+    "history\\stm32\\AirMonitor_V2\\manufacturing\\CPL-native.csv"
+  ],
+  "5f052897e2725e4ff77bcfa1df442dbe14c9e6398a9f6cf32f5cdddb554b9079": [
+    "history\\stm32\\AirMonitor_V1_first_article\\manufacturing\\DO_NOT_ORDER.md",
+    "history\\stm32\\AirMonitor_V1_first_article - fix\\manufacturing\\DO_NOT_ORDER.md"
+  ],
+  "d3320580d8bfd6f43a4b94c4bc55da6cf4cc9819833b279822696e00af469b91": [
+    "history\\stm32\\AirMonitor_V1_first_article\\manufacturing\\Drill_NPTH_Through.DRL",
+    "history\\stm32\\AirMonitor_V1_first_article - fix\\manufacturing\\Drill_NPTH_Through.DRL",
+    "history\\stm32\\AirMonitor_V2\\manufacturing\\Drill_NPTH_Through.DRL"
+  ],
+  "51a6bc6ef873f4c1a5a78f2699cd99def54965276b4ea35d2d71b2686aa81abb": [
+    "history\\stm32\\AirMonitor_V1_first_article\\manufacturing\\Drill_PTH_Through.DRL",
+    "history\\stm32\\AirMonitor_V1_first_article - fix\\manufacturing\\Drill_PTH_Through.DRL",
+    "history\\stm32\\AirMonitor_V2\\manufacturing\\Drill_PTH_Through.DRL"
+  ],
+  "608b71e5cd4045abc05ae7dd6e8406cf7fe77d2301248234c1fda4240d54578b": [
+    "history\\stm32\\AirMonitor_V1_first_article\\manufacturing\\Drill_PTH_Through_Via.DRL",
+    "history\\stm32\\AirMonitor_V1_first_article - fix\\manufacturing\\Drill_PTH_Through_Via.DRL",
+    "history\\stm32\\AirMonitor_V2\\manufacturing\\Drill_PTH_Through_Via.DRL"
+  ],
+  "16e0051316fc557c977beeb1c11431a36c8d8ec6d168c17a7964d490cc677931": [
+    "history\\stm32\\AirMonitor_V1_first_article\\verification\\cubeide-build-final.txt",
+    "history\\stm32\\AirMonitor_V1_first_article - fix\\verification\\cubeide-build-final.txt",
+    "history\\stm32\\AirMonitor_V2\\verification\\cubeide-build-final.txt"
+  ],
+  "c4034d3f51c3d081a3267db321d45bac7f4a13d129c5aa6d326c492eaa19ed4a": [
+    "history\\stm32\\AirMonitor_V1_first_article\\verification\\delivery-checks.json",
+    "history\\stm32\\AirMonitor_V1_first_article - fix\\verification\\delivery-checks.json",
+    "history\\stm32\\AirMonitor_V2\\verification\\delivery-checks.json"
+  ],
+  "681e8ba3eb0f88f33312da0907195249a7f89286bda855d5f1d6457fbf922747": [
+    "history\\stm32\\AirMonitor_V1_first_article\\verification\\excluded-ANT1-recovery.json",
+    "history\\stm32\\AirMonitor_V1_first_article - fix\\verification\\excluded-ANT1-recovery.json",
+    "history\\stm32\\AirMonitor_V2\\verification\\excluded-ANT1-recovery.json"
+  ],
+  "ea86790a95816b53b8a2608cdac45e7fad37a71c42415c7b7c80453ef2c669a9": [
+    "history\\stm32\\AirMonitor_V1_first_article\\verification\\final-release-decision.json",
+    "history\\stm32\\AirMonitor_V1_first_article - fix\\verification\\final-release-decision.json"
+  ],
+  "29c0c53c6a0d8bfac381fce5571791b1fd2842fd7e4d0e4838b3312977c15756": [
+    "history\\stm32\\AirMonitor_V1_first_article\\verification\\independent-checks.json",
+    "history\\stm32\\AirMonitor_V1_first_article - fix\\verification\\independent-checks.json",
+    "history\\stm32\\AirMonitor_V2\\verification\\independent-checks.json"
+  ],
+  "56683cef246192e67287f3ee21d89245d8f3a8caaf8923ed46b291cf1c22edff": [
+    "history\\stm32\\AirMonitor_V1_first_article\\verification\\p2-power-corners.json",
+    "history\\stm32\\AirMonitor_V1_first_article - fix\\verification\\p2-power-corners.json",
+    "history\\stm32\\AirMonitor_V2\\verification\\p2-power-corners.json"
+  ],
+  "70b8822255d48e112a4d05ea2be73c27ae0560b226f3a5a225da2b8b7a43ef1e": [
+    "history\\stm32\\AirMonitor_V1_first_article\\verification\\protocol-tests-final.txt",
+    "history\\stm32\\AirMonitor_V1_first_article - fix\\verification\\protocol-tests-final.txt",
+    "history\\stm32\\AirMonitor_V2\\verification\\protocol-tests-final.txt",
+    "history\\stm32\\AirMonitor_V2\\verification\\protocol-tests.txt"
+  ],
+  "3803de925249e3c7e1a65b38f9f5d26f46027f4068977b978880b2fee5695c52": [
+    "history\\stm32\\AirMonitor_V1_first_article\\verification\\remaining-errors.csv",
+    "history\\stm32\\AirMonitor_V1_first_article - fix\\verification\\remaining-errors.csv"
+  ],
+  "4fd6ff5fcdc7a1973a39e000de5c0d6582e65d7a20fd1b658081726fc4d8fcc4": [
+    "history\\stm32\\AirMonitor_V1_first_article\\verification\\source-copy-checks.json",
+    "history\\stm32\\AirMonitor_V1_first_article - fix\\verification\\source-copy-checks.json"
+  ],
+  "f7a344ae37d8de467d7f75a33d67f9e4cd6eba9765ba358a363db6e249c55603": [
+    "history\\stm32\\AirMonitor_V1_first_article\\verification\\v1-connection-and-width-audit.json",
+    "history\\stm32\\AirMonitor_V1_first_article - fix\\verification\\v1-connection-and-width-audit.json",
+    "history\\stm32\\AirMonitor_V2\\verification\\v1-connection-and-width-audit.json"
+  ],
+  "d4b1fff4715f5df4cefbc5cd662e4ae8ce4069e807cb021e459edaa2ec0e47de": [
+    "history\\stm32\\AirMonitor_V1_first_article\\verification\\v1-drc-before-repair.txt",
+    "history\\stm32\\AirMonitor_V1_first_article - fix\\verification\\v1-drc-before-repair.txt",
+    "history\\stm32\\AirMonitor_V2\\verification\\v1-drc-before-repair.txt"
+  ],
+  "41d94cb6941b3252e81f9c676c30760fdf33f903e4f853d8a6874835eb76a03d": [
+    "history\\stm32\\AirMonitor_V1_first_article\\verification\\v1-drc-final.txt",
+    "history\\stm32\\AirMonitor_V1_first_article - fix\\verification\\v1-drc-final.txt",
+    "history\\stm32\\AirMonitor_V2\\verification\\v1-drc-final.txt"
+  ],
+  "8cf011819db01c6ac6733cfc60ad271d647ccd73f83387e90758cf2ba2257dea": [
+    "history\\stm32\\AirMonitor_V1_first_article\\verification\\v1-drc-timeout.txt",
+    "history\\stm32\\AirMonitor_V1_first_article\\verification\\v1-step-size.txt",
+    "history\\stm32\\AirMonitor_V1_first_article - fix\\verification\\v1-drc-timeout.txt",
+    "history\\stm32\\AirMonitor_V1_first_article - fix\\verification\\v1-step-size.txt",
+    "history\\stm32\\AirMonitor_V2\\verification\\p1-route-running.txt",
+    "history\\stm32\\AirMonitor_V2\\verification\\routing-native-final.txt",
+    "history\\stm32\\AirMonitor_V2\\verification\\v1-drc-timeout.txt",
+    "history\\stm32\\AirMonitor_V2\\verification\\v1-route.txt",
+    "history\\stm32\\AirMonitor_V2\\verification\\v1-step-size.txt"
+  ],
+  "2779b561d18ede9a537a72a71730d3970b24a750774df83ad9ac57972a631231": [
+    "history\\stm32\\AirMonitor_V1_first_article\\verification\\v1-erc-final.txt",
+    "history\\stm32\\AirMonitor_V1_first_article - fix\\verification\\v1-erc-final.txt",
+    "history\\stm32\\AirMonitor_V2\\verification\\v1-erc-final.txt"
+  ],
+  "2b04013eb9563d0b40b9cf24fca973b9e3a2a645886670827da857bab5f05f73": [
+    "history\\stm32\\AirMonitor_V1_first_article\\verification\\v1-erc-summary.json",
+    "history\\stm32\\AirMonitor_V1_first_article - fix\\verification\\v1-erc-summary.json"
+  ],
+  "dd873a4fa9e1bb0c61234e22b0099a215a36031a56750155bbc0a54bf0282e7a": [
+    "history\\stm32\\AirMonitor_V1_first_article\\verification\\v1-firmware-freeze.json",
+    "history\\stm32\\AirMonitor_V1_first_article - fix\\verification\\v1-firmware-freeze.json",
+    "history\\stm32\\AirMonitor_V2\\verification\\v1-firmware-freeze.json"
+  ],
+  "05f4fff1b3c4af73904a11f777831c597c33a960b4000a4e1339bb0d17d25b8d": [
+    "history\\stm32\\AirMonitor_V1_first_article\\verification\\v1-firmware-unchanged.json",
+    "history\\stm32\\AirMonitor_V1_first_article - fix\\verification\\v1-firmware-unchanged.json",
+    "history\\stm32\\AirMonitor_V2\\verification\\v1-firmware-unchanged.json"
+  ],
+  "b7c5adf3e00d98477708571d5b5937932c85bada7531b271aab7a47e9e233033": [
+    "history\\stm32\\AirMonitor_V1_first_article\\verification\\v1-j4-anchor-edits.json",
+    "history\\stm32\\AirMonitor_V1_first_article - fix\\verification\\v1-j4-anchor-edits.json",
+    "history\\stm32\\AirMonitor_V2\\verification\\v1-j4-anchor-edits.json"
+  ],
+  "ebef5169e329b26cd1bb2ef462e5577666dfab77b62b8ff5409531fbc17fc8d9": [
+    "history\\stm32\\AirMonitor_V1_first_article\\verification\\v1-jlc-table-checks.json",
+    "history\\stm32\\AirMonitor_V1_first_article - fix\\verification\\v1-jlc-table-checks.json",
+    "history\\stm32\\AirMonitor_V2\\verification\\v1-jlc-table-checks.json"
+  ],
+  "c2c35ac678b75cf462f3445c4634f7407be34c9b673e770d670abb9aaecc487e": [
+    "history\\stm32\\AirMonitor_V1_first_article\\verification\\v1-key-lands.json",
+    "history\\stm32\\AirMonitor_V1_first_article - fix\\verification\\v1-key-lands.json",
+    "history\\stm32\\AirMonitor_V2\\verification\\v1-key-lands.json"
+  ],
+  "b1e7e2be843f6198a8288cb139e43e8cda4f46c2308a915cffd9c385088d2509": [
+    "history\\stm32\\AirMonitor_V1_first_article\\verification\\v1-last-connection-fix.txt",
+    "history\\stm32\\AirMonitor_V1_first_article - fix\\verification\\v1-last-connection-fix.txt",
+    "history\\stm32\\AirMonitor_V2\\verification\\v1-last-connection-fix.txt"
+  ],
+  "5cf1ebaf453f1f3d634d5208e6cdc502bc3114e9af052264dd7ddc4468d7a3d0": [
+    "history\\stm32\\AirMonitor_V1_first_article\\verification\\v1-native-final-checks.json",
+    "history\\stm32\\AirMonitor_V1_first_article - fix\\verification\\v1-native-final-checks.json",
+    "history\\stm32\\AirMonitor_V2\\verification\\v1-native-final-checks.json"
+  ],
+  "d244f1d49b8c3f70b9b94ec31ef6fac6e82a80b2a8ba7d66d00e11e8e201894e": [
+    "history\\stm32\\AirMonitor_V1_first_article\\verification\\v1-native-footprint-edits.json",
+    "history\\stm32\\AirMonitor_V1_first_article - fix\\verification\\v1-native-footprint-edits.json",
+    "history\\stm32\\AirMonitor_V2\\verification\\v1-native-footprint-edits.json"
+  ],
+  "c8a9cec5c38eca9fb819affad17cdf429610be6ec43f66b3e996ee2fdd952f6e": [
+    "history\\stm32\\AirMonitor_V1_first_article\\verification\\v1-route-completion.txt",
+    "history\\stm32\\AirMonitor_V1_first_article - fix\\verification\\v1-route-completion.txt",
+    "history\\stm32\\AirMonitor_V2\\verification\\v1-route-completion.txt"
+  ],
+  "5504c3bfed4a65fc71692360cbf0feb6d80e4d5e05d28e3a17fcad2e00595df1": [
+    "history\\stm32\\AirMonitor_V1_first_article\\verification\\v1-state-final.txt",
+    "history\\stm32\\AirMonitor_V1_first_article - fix\\verification\\v1-state-final.txt",
+    "history\\stm32\\AirMonitor_V2\\verification\\v1-state-final.txt"
+  ],
+  "431d3f3e60d96b6644312f64ad335f739c89b79d332f17fe2d7889af7f2b667f": [
+    "history\\stm32\\AirMonitor_V1_first_article\\firmware\\.externalToolBuilders\\Build.launch",
+    "history\\stm32\\AirMonitor_V1_first_article - fix\\firmware\\.externalToolBuilders\\Build.launch",
+    "history\\stm32\\AirMonitor_V2\\firmware\\.externalToolBuilders\\Build.launch"
+  ],
+  "e533769b9afe317424fff7088f323a844b1d5e5fad1816d5253c27c68f0b618f": [
+    "history\\stm32\\AirMonitor_V1_first_article\\firmware\\.settings\\language.settings.xml",
+    "history\\stm32\\AirMonitor_V1_first_article - fix\\firmware\\.settings\\language.settings.xml",
+    "history\\stm32\\AirMonitor_V2\\firmware\\.settings\\language.settings.xml"
+  ],
+  "38f8fa12004eae8dd0b33405f2b0d0b6cde33cf69a9a1a50d448a777238e3694": [
+    "history\\stm32\\AirMonitor_V1_first_article\\firmware\\build\\AirMonitor_V2.bin",
+    "history\\stm32\\AirMonitor_V1_first_article - fix\\firmware\\build\\AirMonitor_V2.bin",
+    "history\\stm32\\AirMonitor_V2\\firmware\\build\\AirMonitor_V2.bin"
+  ],
+  "c17c28ee099ffb69c963fc1cabc58f7ea7ca73668b485916cdc55f17c6211e9d": [
+    "history\\stm32\\AirMonitor_V1_first_article\\firmware\\build\\AirMonitor_V2.elf",
+    "history\\stm32\\AirMonitor_V1_first_article - fix\\firmware\\build\\AirMonitor_V2.elf",
+    "history\\stm32\\AirMonitor_V2\\firmware\\build\\AirMonitor_V2.elf"
+  ],
+  "1899a39ef1d017d2cbdd232e9274e45616a6f0be7a312eb839d1f11826634997": [
+    "history\\stm32\\AirMonitor_V1_first_article\\firmware\\build\\AirMonitor_V2.hex",
+    "history\\stm32\\AirMonitor_V1_first_article - fix\\firmware\\build\\AirMonitor_V2.hex",
+    "history\\stm32\\AirMonitor_V2\\firmware\\build\\AirMonitor_V2.hex"
+  ],
+  "e76e0f26ecbb9e7c7d8dee17882632eb6fdc7063621867132b0b78e41e1a9dc0": [
+    "history\\stm32\\AirMonitor_V1_first_article\\firmware\\build\\AirMonitor_V2.map",
+    "history\\stm32\\AirMonitor_V1_first_article - fix\\firmware\\build\\AirMonitor_V2.map",
+    "history\\stm32\\AirMonitor_V2\\firmware\\build\\AirMonitor_V2.map"
+  ],
+  "719d0beda575ef23dbd5c4f6c50e50b6f4c2c228c12529bf9626af9c600643af": [
+    "history\\stm32\\AirMonitor_V1_first_article\\firmware\\src\\board.h",
+    "history\\stm32\\AirMonitor_V1_first_article - fix\\firmware\\src\\board.h",
+    "history\\stm32\\AirMonitor_V2\\firmware\\src\\board.h"
+  ],
+  "28ee511e463420d0088b15b2d44e66b6b187d4601c2c542406dd1c46f361ecdc": [
+    "history\\stm32\\AirMonitor_V1_first_article\\firmware\\src\\display.c",
+    "history\\stm32\\AirMonitor_V1_first_article - fix\\firmware\\src\\display.c",
+    "history\\stm32\\AirMonitor_V2\\firmware\\src\\display.c"
+  ],
+  "90483a5f313c13edef1fa04918c794cd1b581efc1902c08c3ea7f1d705b4659d": [
+    "history\\stm32\\AirMonitor_V1_first_article\\firmware\\src\\main.c",
+    "history\\stm32\\AirMonitor_V1_first_article - fix\\firmware\\src\\main.c",
+    "history\\stm32\\AirMonitor_V2\\firmware\\src\\main.c"
+  ],
+  "ee42d9877e0f13a0eb8845688224146c5663fac58349a5e0b5dc7bbdfe212d08": [
+    "history\\stm32\\AirMonitor_V1_first_article\\firmware\\src\\protocol.c",
+    "history\\stm32\\AirMonitor_V1_first_article - fix\\firmware\\src\\protocol.c",
+    "history\\stm32\\AirMonitor_V2\\firmware\\src\\protocol.c"
+  ],
+  "598c1927f0e48a039cbddd8e76e2d6e39c606e96fe77b0bb84f5a7f113caa965": [
+    "history\\stm32\\AirMonitor_V1_first_article\\firmware\\src\\protocol.h",
+    "history\\stm32\\AirMonitor_V1_first_article - fix\\firmware\\src\\protocol.h",
+    "history\\stm32\\AirMonitor_V2\\firmware\\src\\protocol.h"
+  ],
+  "7eca38d98a0b888f2ecfab32be3d89d70fe9ec979fa3119aa21c307f67f2749e": [
+    "history\\stm32\\AirMonitor_V1_first_article\\firmware\\src\\syscalls.c",
+    "history\\stm32\\AirMonitor_V1_first_article - fix\\firmware\\src\\syscalls.c",
+    "history\\stm32\\AirMonitor_V2\\firmware\\src\\syscalls.c"
+  ],
+  "25832f035a87f1d20e9c3edb67e8b9ab1175302415b33a357d3efd4d40321a30": [
+    "history\\stm32\\AirMonitor_V1_first_article\\firmware\\tests\\test_protocol.py",
+    "history\\stm32\\AirMonitor_V1_first_article - fix\\firmware\\tests\\test_protocol.py",
+    "history\\stm32\\AirMonitor_V2\\firmware\\tests\\test_protocol.py"
+  ],
+  "c95bae1d1ce0235ecccd3560b772ec1efb97f348a79f0fbe0a634f0c2ccefe2c": [
+    "history\\stm32\\AirMonitor_V1_first_article\\firmware\\vendor\\LICENSE-ST.md",
+    "history\\stm32\\AirMonitor_V1_first_article - fix\\firmware\\vendor\\LICENSE-ST.md",
+    "history\\stm32\\AirMonitor_V2\\firmware\\vendor\\LICENSE-ST.md"
+  ],
+  "5308113be8be5f6cc3f619ae03d60efc6052834482244f9be68198a06467196c": [
+    "history\\stm32\\AirMonitor_V1_first_article\\firmware\\vendor\\startup_stm32g0b1xx.s",
+    "history\\stm32\\AirMonitor_V1_first_article - fix\\firmware\\vendor\\startup_stm32g0b1xx.s",
+    "history\\stm32\\AirMonitor_V2\\firmware\\vendor\\startup_stm32g0b1xx.s"
+  ],
+  "66a7e63b3a2cdc4df695f0879146b9cfd8ab5e8b8b6a8f0347ba0bfae57ce753": [
+    "history\\stm32\\AirMonitor_V1_first_article\\firmware\\vendor\\stm32g0b1xx.h",
+    "history\\stm32\\AirMonitor_V1_first_article - fix\\firmware\\vendor\\stm32g0b1xx.h",
+    "history\\stm32\\AirMonitor_V2\\firmware\\vendor\\stm32g0b1xx.h"
+  ],
+  "7e4062c29e952243490d0d2ae3a41fc78e6653fa08cb55cffd692f69682e8f1e": [
+    "history\\stm32\\AirMonitor_V1_first_article\\firmware\\vendor\\stm32g0xx.h",
+    "history\\stm32\\AirMonitor_V1_first_article - fix\\firmware\\vendor\\stm32g0xx.h",
+    "history\\stm32\\AirMonitor_V2\\firmware\\vendor\\stm32g0xx.h"
+  ],
+  "e0acc8e5e380c1142d47709dd265423d8a65087c685259b08a56e27d3185a848": [
+    "history\\stm32\\AirMonitor_V1_first_article\\firmware\\vendor\\system_stm32g0xx.c",
+    "history\\stm32\\AirMonitor_V1_first_article - fix\\firmware\\vendor\\system_stm32g0xx.c",
+    "history\\stm32\\AirMonitor_V2\\firmware\\vendor\\system_stm32g0xx.c"
+  ],
+  "30f42f16cd8e64af627a11ee2dfb612fe1b571607ad7212a18436edd96e1b0a1": [
+    "history\\stm32\\AirMonitor_V1_first_article\\firmware\\vendor\\system_stm32g0xx.h",
+    "history\\stm32\\AirMonitor_V1_first_article - fix\\firmware\\vendor\\system_stm32g0xx.h",
+    "history\\stm32\\AirMonitor_V2\\firmware\\vendor\\system_stm32g0xx.h"
+  ],
+  "b211a8bbcfd62c9f0b3b3f1674927c9b58a0d95b02e449a0866ad2c99cb64232": [
+    "history\\stm32\\AirMonitor_V1_first_article\\firmware\\vendor\\CMSIS\\cachel1_armv7.h",
+    "history\\stm32\\AirMonitor_V1_first_article - fix\\firmware\\vendor\\CMSIS\\cachel1_armv7.h",
+    "history\\stm32\\AirMonitor_V2\\firmware\\vendor\\CMSIS\\cachel1_armv7.h"
+  ],
+  "5bc0d7ed8e36e9bcb868c4042fff350c702eca305df4162fb00384789e35ee1c": [
+    "history\\stm32\\AirMonitor_V1_first_article\\firmware\\vendor\\CMSIS\\cmsis_armcc.h",
+    "history\\stm32\\AirMonitor_V1_first_article - fix\\firmware\\vendor\\CMSIS\\cmsis_armcc.h",
+    "history\\stm32\\AirMonitor_V2\\firmware\\vendor\\CMSIS\\cmsis_armcc.h"
+  ],
+  "d5da2b48204f0d0cf1ff38ffccb527e5706cd0a091ff0a331eb41d6596c33fe5": [
+    "history\\stm32\\AirMonitor_V1_first_article\\firmware\\vendor\\CMSIS\\cmsis_armclang.h",
+    "history\\stm32\\AirMonitor_V1_first_article - fix\\firmware\\vendor\\CMSIS\\cmsis_armclang.h",
+    "history\\stm32\\AirMonitor_V2\\firmware\\vendor\\CMSIS\\cmsis_armclang.h"
+  ],
+  "3e8ffb284f4f155de3ea93841cca853b41d5e812b53e52c64c3d4a67b7f1ec7c": [
+    "history\\stm32\\AirMonitor_V1_first_article\\firmware\\vendor\\CMSIS\\cmsis_armclang_ltm.h",
+    "history\\stm32\\AirMonitor_V1_first_article - fix\\firmware\\vendor\\CMSIS\\cmsis_armclang_ltm.h",
+    "history\\stm32\\AirMonitor_V2\\firmware\\vendor\\CMSIS\\cmsis_armclang_ltm.h"
+  ],
+  "b51963d271c1571ca3463654c76aa7ea50c4eac5d0a2710df10414ac64d9e0f8": [
+    "history\\stm32\\AirMonitor_V1_first_article\\firmware\\vendor\\CMSIS\\cmsis_compiler.h",
+    "history\\stm32\\AirMonitor_V1_first_article - fix\\firmware\\vendor\\CMSIS\\cmsis_compiler.h",
+    "history\\stm32\\AirMonitor_V2\\firmware\\vendor\\CMSIS\\cmsis_compiler.h"
+  ],
+  "43bfd1fe69fbbc2ca70aaf7d43cc3e20f16e0c7f66e1bdef9b51af6dc14b2617": [
+    "history\\stm32\\AirMonitor_V1_first_article\\firmware\\vendor\\CMSIS\\cmsis_gcc.h",
+    "history\\stm32\\AirMonitor_V1_first_article - fix\\firmware\\vendor\\CMSIS\\cmsis_gcc.h",
+    "history\\stm32\\AirMonitor_V2\\firmware\\vendor\\CMSIS\\cmsis_gcc.h"
+  ],
+  "2d255c8429e507e52cb603f2970bed4cc4a6cdcc3eb7fc7997385abad7364837": [
+    "history\\stm32\\AirMonitor_V1_first_article\\firmware\\vendor\\CMSIS\\cmsis_iccarm.h",
+    "history\\stm32\\AirMonitor_V1_first_article - fix\\firmware\\vendor\\CMSIS\\cmsis_iccarm.h",
+    "history\\stm32\\AirMonitor_V2\\firmware\\vendor\\CMSIS\\cmsis_iccarm.h"
+  ],
+  "184c19fd3ee73632edf35a0b4d49cd48be75fbf49e6ccb19d9db05fa83bea4b3": [
+    "history\\stm32\\AirMonitor_V1_first_article\\firmware\\vendor\\CMSIS\\cmsis_version.h",
+    "history\\stm32\\AirMonitor_V1_first_article - fix\\firmware\\vendor\\CMSIS\\cmsis_version.h",
+    "history\\stm32\\AirMonitor_V2\\firmware\\vendor\\CMSIS\\cmsis_version.h"
+  ],
+  "a40954bccbf202bd65ee721ea688122561e005c9f9f9d18e082280c5b897d0e4": [
+    "history\\stm32\\AirMonitor_V1_first_article\\firmware\\vendor\\CMSIS\\core_armv81mml.h",
+    "history\\stm32\\AirMonitor_V1_first_article - fix\\firmware\\vendor\\CMSIS\\core_armv81mml.h",
+    "history\\stm32\\AirMonitor_V2\\firmware\\vendor\\CMSIS\\core_armv81mml.h"
+  ],
+  "458b1e6788079ded52adc7d06383701c865ca97b67c5e7a0a44884194f91a842": [
+    "history\\stm32\\AirMonitor_V1_first_article\\firmware\\vendor\\CMSIS\\core_armv8mbl.h",
+    "history\\stm32\\AirMonitor_V1_first_article - fix\\firmware\\vendor\\CMSIS\\core_armv8mbl.h",
+    "history\\stm32\\AirMonitor_V2\\firmware\\vendor\\CMSIS\\core_armv8mbl.h"
+  ],
+  "5a68204fa31cda7d04d41c9ceaf3f4b1217908f59366f757ee778181c7cc8cb9": [
+    "history\\stm32\\AirMonitor_V1_first_article\\firmware\\vendor\\CMSIS\\core_armv8mml.h",
+    "history\\stm32\\AirMonitor_V1_first_article - fix\\firmware\\vendor\\CMSIS\\core_armv8mml.h",
+    "history\\stm32\\AirMonitor_V2\\firmware\\vendor\\CMSIS\\core_armv8mml.h"
+  ],
+  "ac13cb645f108666a0e57c93467872660d6bc860a839f840dc870b7a5863b4bf": [
+    "history\\stm32\\AirMonitor_V1_first_article\\firmware\\vendor\\CMSIS\\core_cm0.h",
+    "history\\stm32\\AirMonitor_V1_first_article - fix\\firmware\\vendor\\CMSIS\\core_cm0.h",
+    "history\\stm32\\AirMonitor_V2\\firmware\\vendor\\CMSIS\\core_cm0.h"
+  ],
+  "a09fa9c6b8b21d1920bce15b98aa56182b027e9278cca0b154812bac2aea3cfa": [
+    "history\\stm32\\AirMonitor_V1_first_article\\firmware\\vendor\\CMSIS\\core_cm0plus.h",
+    "history\\stm32\\AirMonitor_V1_first_article - fix\\firmware\\vendor\\CMSIS\\core_cm0plus.h",
+    "history\\stm32\\AirMonitor_V2\\firmware\\vendor\\CMSIS\\core_cm0plus.h"
+  ],
+  "944bf0c4f940eef30a632cd99d5dcfe8270e8a8431eb98c0f081bcf4f61f728e": [
+    "history\\stm32\\AirMonitor_V1_first_article\\firmware\\vendor\\CMSIS\\core_cm1.h",
+    "history\\stm32\\AirMonitor_V1_first_article - fix\\firmware\\vendor\\CMSIS\\core_cm1.h",
+    "history\\stm32\\AirMonitor_V2\\firmware\\vendor\\CMSIS\\core_cm1.h"
+  ],
+  "77822e9738885394ec52fca6f617452b823a0b55e2664ee225e65576cf0e8f2d": [
+    "history\\stm32\\AirMonitor_V1_first_article\\firmware\\vendor\\CMSIS\\core_cm23.h",
+    "history\\stm32\\AirMonitor_V1_first_article - fix\\firmware\\vendor\\CMSIS\\core_cm23.h",
+    "history\\stm32\\AirMonitor_V2\\firmware\\vendor\\CMSIS\\core_cm23.h"
+  ],
+  "c9937781259a8897adf514445441c68570087d6a72a558d8a4afe75cdb62dbd2": [
+    "history\\stm32\\AirMonitor_V1_first_article\\firmware\\vendor\\CMSIS\\core_cm3.h",
+    "history\\stm32\\AirMonitor_V1_first_article - fix\\firmware\\vendor\\CMSIS\\core_cm3.h",
+    "history\\stm32\\AirMonitor_V2\\firmware\\vendor\\CMSIS\\core_cm3.h"
+  ],
+  "225c47c36230edaa314f1e7a45b38279f6ab4d58faeb132226db35f7007d58aa": [
+    "history\\stm32\\AirMonitor_V1_first_article\\firmware\\vendor\\CMSIS\\core_cm33.h",
+    "history\\stm32\\AirMonitor_V1_first_article - fix\\firmware\\vendor\\CMSIS\\core_cm33.h",
+    "history\\stm32\\AirMonitor_V2\\firmware\\vendor\\CMSIS\\core_cm33.h"
+  ],
+  "206b427589981b78169c1d9b73e898e4e8de4efbd76fd0c2df7df81d645b9fa2": [
+    "history\\stm32\\AirMonitor_V1_first_article\\firmware\\vendor\\CMSIS\\core_cm35p.h",
+    "history\\stm32\\AirMonitor_V1_first_article - fix\\firmware\\vendor\\CMSIS\\core_cm35p.h",
+    "history\\stm32\\AirMonitor_V2\\firmware\\vendor\\CMSIS\\core_cm35p.h"
+  ],
+  "f5b63d52dd1557b15ca414cb59c264f595a7b5669db2a5878dffe22f4caedc8c": [
+    "history\\stm32\\AirMonitor_V1_first_article\\firmware\\vendor\\CMSIS\\core_cm4.h",
+    "history\\stm32\\AirMonitor_V1_first_article - fix\\firmware\\vendor\\CMSIS\\core_cm4.h",
+    "history\\stm32\\AirMonitor_V2\\firmware\\vendor\\CMSIS\\core_cm4.h"
+  ],
+  "5707f716cf03f7e80151108ae94601fcfdf362dd2d830876040213318f6dee3a": [
+    "history\\stm32\\AirMonitor_V1_first_article\\firmware\\vendor\\CMSIS\\core_cm55.h",
+    "history\\stm32\\AirMonitor_V1_first_article - fix\\firmware\\vendor\\CMSIS\\core_cm55.h",
+    "history\\stm32\\AirMonitor_V2\\firmware\\vendor\\CMSIS\\core_cm55.h"
+  ],
+  "e974d0a91752487d0154457cd422c37667328e9ddb7ba4fa2fed479a63577f63": [
+    "history\\stm32\\AirMonitor_V1_first_article\\firmware\\vendor\\CMSIS\\core_cm7.h",
+    "history\\stm32\\AirMonitor_V1_first_article - fix\\firmware\\vendor\\CMSIS\\core_cm7.h",
+    "history\\stm32\\AirMonitor_V2\\firmware\\vendor\\CMSIS\\core_cm7.h"
+  ],
+  "75bc123889f0f5ca33c4d16b6cbdd580a3572663c899fadb2c8e28f6a5e6fead": [
+    "history\\stm32\\AirMonitor_V1_first_article\\firmware\\vendor\\CMSIS\\core_cm85.h",
+    "history\\stm32\\AirMonitor_V1_first_article - fix\\firmware\\vendor\\CMSIS\\core_cm85.h",
+    "history\\stm32\\AirMonitor_V2\\firmware\\vendor\\CMSIS\\core_cm85.h"
+  ],
+  "c81377a69a4ea8ecaead42194f2ce8ab59bd4ee7bd638e423f5b1f5ec283d154": [
+    "history\\stm32\\AirMonitor_V1_first_article\\firmware\\vendor\\CMSIS\\core_sc000.h",
+    "history\\stm32\\AirMonitor_V1_first_article - fix\\firmware\\vendor\\CMSIS\\core_sc000.h",
+    "history\\stm32\\AirMonitor_V2\\firmware\\vendor\\CMSIS\\core_sc000.h"
+  ],
+  "73dd461c12c7d3a693840df3084fd8f85122095c6f21fa3d779b0f3eceaebad5": [
+    "history\\stm32\\AirMonitor_V1_first_article\\firmware\\vendor\\CMSIS\\core_sc300.h",
+    "history\\stm32\\AirMonitor_V1_first_article - fix\\firmware\\vendor\\CMSIS\\core_sc300.h",
+    "history\\stm32\\AirMonitor_V2\\firmware\\vendor\\CMSIS\\core_sc300.h"
+  ],
+  "92d8661f2947d00da91653d04794cde0593fdaafb3438842a0477775716aafc5": [
+    "history\\stm32\\AirMonitor_V1_first_article\\firmware\\vendor\\CMSIS\\core_starmc1.h",
+    "history\\stm32\\AirMonitor_V1_first_article - fix\\firmware\\vendor\\CMSIS\\core_starmc1.h",
+    "history\\stm32\\AirMonitor_V2\\firmware\\vendor\\CMSIS\\core_starmc1.h"
+  ],
+  "b40930bbcf80744c86c46a12bc9da056641d722716c378f5659b9e555ef833e1": [
+    "history\\stm32\\AirMonitor_V1_first_article\\firmware\\vendor\\CMSIS\\LICENSE.txt",
+    "history\\stm32\\AirMonitor_V1_first_article - fix\\firmware\\vendor\\CMSIS\\LICENSE.txt",
+    "history\\stm32\\AirMonitor_V2\\firmware\\vendor\\CMSIS\\LICENSE.txt"
+  ],
+  "29206b52ee02290ed6f5a5415ebd4187de802cf176d9b3cb844390d8e5571372": [
+    "history\\stm32\\AirMonitor_V1_first_article\\firmware\\vendor\\CMSIS\\mpu_armv7.h",
+    "history\\stm32\\AirMonitor_V1_first_article - fix\\firmware\\vendor\\CMSIS\\mpu_armv7.h",
+    "history\\stm32\\AirMonitor_V2\\firmware\\vendor\\CMSIS\\mpu_armv7.h"
+  ],
+  "2c7d22a344cedcc1e35380d1f76f0e6c55da5e3101e6a41fd85497d1841fe8c9": [
+    "history\\stm32\\AirMonitor_V1_first_article\\firmware\\vendor\\CMSIS\\mpu_armv8.h",
+    "history\\stm32\\AirMonitor_V1_first_article - fix\\firmware\\vendor\\CMSIS\\mpu_armv8.h",
+    "history\\stm32\\AirMonitor_V2\\firmware\\vendor\\CMSIS\\mpu_armv8.h"
+  ],
+  "d76f5cc0c59a59e035115f700b8e8d95b7b98ecb99a2924e885f82a94903d984": [
+    "history\\stm32\\AirMonitor_V1_first_article\\firmware\\vendor\\CMSIS\\pac_armv81.h",
+    "history\\stm32\\AirMonitor_V1_first_article - fix\\firmware\\vendor\\CMSIS\\pac_armv81.h",
+    "history\\stm32\\AirMonitor_V2\\firmware\\vendor\\CMSIS\\pac_armv81.h"
+  ],
+  "cea8c105c5f41ba831fe4d9e8e39758068cd4c414383348dc2835d6be447cca0": [
+    "history\\stm32\\AirMonitor_V1_first_article\\firmware\\vendor\\CMSIS\\pmu_armv8.h",
+    "history\\stm32\\AirMonitor_V1_first_article - fix\\firmware\\vendor\\CMSIS\\pmu_armv8.h",
+    "history\\stm32\\AirMonitor_V2\\firmware\\vendor\\CMSIS\\pmu_armv8.h"
+  ],
+  "45565c8cb04c653aabaf3cceddfc848b6a0de28c20d4f7e3d475a992c7eee788": [
+    "history\\stm32\\AirMonitor_V1_first_article\\firmware\\vendor\\CMSIS\\tz_context.h",
+    "history\\stm32\\AirMonitor_V1_first_article - fix\\firmware\\vendor\\CMSIS\\tz_context.h",
+    "history\\stm32\\AirMonitor_V2\\firmware\\vendor\\CMSIS\\tz_context.h"
+  ],
+  "f8e82b671876919f6509939226b0170fe72b2caf2f19d4080e65832a1f028374": [
+    "history\\stm32\\AirMonitor_V1_first_article - fix\\hardware\\EasyEDA\\pcb\\PCB1.epcb2",
+    "history\\stm32\\AirMonitor_V2\\hardware\\EasyEDA\\pcb\\PCB1.epcb2"
+  ],
+  "7d5ae75b35213b4f46bfa29485a12e51f6f52232635239973bfa0794470b11dc": [
+    "history\\stm32\\AirMonitor_V2\\verification\\interface-placement.txt",
+    "history\\stm32\\AirMonitor_V2\\verification\\pcb-baseline.txt",
+    "history\\stm32\\AirMonitor_V2\\verification\\pcb-drc-first.txt",
+    "history\\stm32\\AirMonitor_V2\\verification\\routing-retry.txt"
+  ],
+  "5325e7484d563e7c030946a6725a51cf996de64f949cf66620ca8d7e2cf12635": [
+    "history\\stm32\\AirMonitor_V2\\verification\\p1-sheet.txt",
+    "history\\stm32\\AirMonitor_V2\\verification\\sheet-properties.txt"
+  ]
+}

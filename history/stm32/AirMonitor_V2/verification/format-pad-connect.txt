@@ -1,0 +1,2 @@
+
+{"ok":true,"value":{"name":"EPadConnect","comment":"焊盘 - 连接方式","values":[{"name":"DIVERGENCE","value":"DIVERGENCE","description":"热焊（发散）"},{"name":"DIRECT","value":"DIRECT","description":"直连"},{"name":"NON_CONNECT","value":"NON_CONNECT","description":"无连接"}]},"logs":[],"durationMs":279}

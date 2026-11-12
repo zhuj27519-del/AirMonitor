@@ -1,0 +1,60 @@
+2026-10-26 12:29:52.342 INFO   Freerouting CLI v2.5.0 (build-date: 2026-10-05)
+2026-10-26 12:29:52.358 INFO   Hardware: 20 CPU cores, 25920 MB RAM
+2026-10-26 12:29:52.358 WARN   Deprecated settings path '-mp / --router.max_passes'; use '--router.autorouter.max_passes' instead. The old path will be removed in a future release.
+2026-10-26 12:29:52.368 WARN   Could not create HttpClient for VersionChecker: java.io.IOException: Unable to establish loopback connection
+2026-10-26 12:29:52.368 WARN   Deprecated settings path 'router.max_passes'; use 'router.autorouter.max_passes' instead. The old path will be removed in a future release.
+2026-10-26 12:29:52.630 INFO   [59BB05\866A4A] Loading board file 'board.dsn'...
+2026-10-26 12:29:52.642 INFO   [59BB05\866A4A] Job '59BB05\866A4A' started at 2026-10-26T04:29:52.642822700Z.
+2026-10-26 12:29:52.654 WARN   Design Warning: Board has 55 pre-existing clearance violation(s) in the loaded design (before routing):
+  - 55 unfixable violation(s) (cannot be resolved by Freerouting):
+      * 15 pin-to-pin clearance violations (first 5 shown):
+          - u1.4a86bcabff042c8763 <-> u1.4a86bcabff042c8755 [net GND]
+          - u1.4a86bcabff042c8763 <-> u1.4a86bcabff042c8754 [net VBUS]
+          - u1.4a86bcabff042c8762 <-> u1.4a86bcabff042c8743 [net VBUS]
+          - u1.4a86bcabff042c8762 <-> u1.4a86bcabff042c8742 [net GND]
+          - u1.98d9076e16c5900e17 [net PMS_RST] <-> u1.1ddfb59327c496de15 [net 5V]
+          ... and 10 more
+      * 40 fixed trace/via clearance violations (first 5 shown):
+          - FixedVia#406 [net GND] <-> u1.a27c6d8a4f5bc17d [net GND]
+          - FixedVia#406 [net GND] <-> u1.a27c6d8a4f5bc17d [net GND]
+          - FixedVia#405 [net GND] <-> u1.b0ff1a833c0f5412 [net GND]
+          - FixedVia#405 [net GND] <-> u1.b0ff1a833c0f5412 [net GND]
+          - FixedVia#404 [net TFT_CS] <-> u1.4b585c4119b35a8 [net TFT_CS]
+          ... and 35 more
+  - 0 potentially fixable violations
+Notice: Freerouting does not modify component placement, board outlines, or fixed items.
+Resolving these 55 unfixable violation(s) is the responsibility of the board author in their EDA tool (e.g. KiCad).
+2026-10-26 12:29:52.657 INFO   [59BB05\866A4A] Pipeline thread limits: autorouter pass is single-threaded, optimizer.max_threads=19.
+2026-10-26 12:29:52.667 INFO   [59BB05\866A4A] Fanout stage started on board '812acb53b0030e18d755276f67e35e83' with 104 of 137 SMD pins needing fanout (0 already connected, 33 netless).
+2026-10-26 12:29:53.277 WARN   Analytics tracking: first delivery failure in this window - /v1/analytics/identify - UnknownHostException: api.freerouting.app. Further failures will be aggregated and reported every 60 minutes. → Action: DNS resolution failed. Verify that this host has network access and that api.freerouting.app is reachable (try: nslookup api.freerouting.app).
+2026-10-26 12:29:57.762 WARN   BasicBoard.normalizeTraces: reached 2000 iterations for net 'GND' — stopping to prevent hang. The board geometry for this net may be oscillating (split/combine cycle); traces are kept as-is and further normalization for this net is suppressed on this board candidate.
+2026-10-26 12:29:57.913 INFO   [59BB05\866A4A] Fanout pass #1 on board 'a4a1d44d0c6d9ee57a1783c3a19ad6c7' completed in 5.24 seconds with 92 SMD pins fanouted, 0 not routed, 0 insert errors, +21 extra vias (0 SMD pins still to check in pass, ripup costs=100).
+2026-10-26 12:30:01.923 WARN   BasicBoard.normalizeTraces: reached 2000 iterations for net '3V3' — stopping to prevent hang. The board geometry for this net may be oscillating (split/combine cycle); traces are kept as-is and further normalization for this net is suppressed on this board candidate.
+2026-10-26 12:30:02.059 INFO   [59BB05\866A4A] Fanout pass #2 on board '13be39d3d73945e42561686550e01011' completed in 4.13 seconds with 65 SMD pins fanouted, 0 not routed, 0 insert errors, +3 extra vias (0 SMD pins still to check in pass, ripup costs=200).
+2026-10-26 12:30:02.174 INFO   [59BB05\866A4A] Fanout pass #3 on board 'e129a480d2f31e66f7ce903697c89943' completed in 0.11 seconds with 60 SMD pins fanouted, 0 not routed, 0 insert errors, +0 extra vias (0 SMD pins still to check in pass, ripup costs=300).
+2026-10-26 12:30:02.307 INFO   [59BB05\866A4A] Fanout pass #4 on board '8f2c5cf7c2c233d6cf177389d36221fa' completed in 0.13 seconds with 60 SMD pins fanouted, 0 not routed, 0 insert errors, +0 extra vias (0 SMD pins still to check in pass, ripup costs=400).
+2026-10-26 12:30:02.419 INFO   [59BB05\866A4A] Fanout pass #5 on board 'e45a4ef6318def781f5f33641758ba19' completed in 0.10 seconds with 60 SMD pins fanouted, 0 not routed, 0 insert errors, +0 extra vias (0 SMD pins still to check in pass, ripup costs=500).
+2026-10-26 12:30:02.533 INFO   [59BB05\866A4A] Fanout pass #6 on board 'f47318ba6195fbf8c511f61d5e7fcd77' completed in 0.11 seconds with 60 SMD pins fanouted, 0 not routed, 0 insert errors, +0 extra vias (0 SMD pins still to check in pass, ripup costs=600).
+2026-10-26 12:30:02.533 INFO   Fanout stopped after 6 passes: no progress for 3 consecutive passes.
+2026-10-26 12:30:02.536 INFO   [59BB05\866A4A] Fanout stage completed: started with 104 total SMD pins, completed in 9.87 seconds, escaped pins: 55/104 (52.9%), using 9.69 total CPU seconds, 8.99 GB total allocated, and 61.8 MB peak heap usage.
+2026-10-26 12:30:02.570 INFO   [59BB05\866A4A] Auto-routing stage started on board 'f47318ba6195fbf8c511f61d5e7fcd77' with baseline score 191.90 for 73 unrouted items.
+2026-10-26 12:30:03.790 INFO   [59BB05\866A4A] Auto-routing pass #1 on board 'f47318ba6195fbf8c511f61d5e7fcd77' was completed in 1.20 seconds with score 556.98 (34 unrouted and 55 violations).
+2026-10-26 12:30:04.500 INFO   [59BB05\866A4A] Auto-routing pass #2 on board 'c3ca68c59d12464907bfdd00bfaac681' was completed in 0.69 seconds with score 556.98 (34 unrouted and 55 violations).
+2026-10-26 12:30:05.315 INFO   [59BB05\866A4A] Auto-routing pass #3 on board '1f3b8473471af8db71ab338c737912c6' was completed in 0.80 seconds with score 569.68 (33 unrouted and 55 violations).
+2026-10-26 12:30:05.923 INFO   [59BB05\866A4A] Auto-routing pass #4 on board 'f06e43adf2e62ffed7f6932c2e6d81e1' was completed in 0.58 seconds with score 582.38 (32 unrouted and 55 violations).
+2026-10-26 12:30:06.588 INFO   [59BB05\866A4A] Auto-routing pass #5 on board '8fff7bf61d39bb2b77003a6cc0663280' was completed in 0.65 seconds with score 595.07 (31 unrouted and 55 violations).
+2026-10-26 12:30:07.138 INFO   [59BB05\866A4A] Auto-routing pass #6 on board 'ece1bf85fff69eacd0ed94909e6a3c5d' was completed in 0.50 seconds with score 595.07 (31 unrouted and 55 violations).
+2026-10-26 12:30:07.735 INFO   [59BB05\866A4A] Auto-routing pass #7 on board '75f8453835f2ef0823e1f90a8b65bf7b' was completed in 0.58 seconds with score 595.07 (31 unrouted and 55 violations).
+2026-10-26 12:30:08.295 INFO   [59BB05\866A4A] Auto-routing pass #8 on board 'a73b3fad2b3f1a4ef3eb389cc401a498' was completed in 0.54 seconds with score 595.07 (31 unrouted and 55 violations).
+2026-10-26 12:30:08.950 INFO   [59BB05\866A4A] Auto-routing pass #9 on board 'de2c89362188801510c906170f7d9307' was completed in 0.64 seconds with score 595.07 (31 unrouted and 55 violations).
+2026-10-26 12:30:09.461 INFO   [59BB05\866A4A] Auto-routing pass #10 on board 'c7e27c35704712ca174483e0e494b468' was completed in 0.49 seconds with score 595.07 (31 unrouted and 55 violations).
+2026-10-26 12:30:09.945 INFO   [59BB05\866A4A] Auto-routing pass #11 on board '44582629d5da7fbd408bb00371579400' was completed in 0.46 seconds with score 595.07 (31 unrouted and 55 violations).
+2026-10-26 12:30:10.492 INFO   [59BB05\866A4A] Auto-routing pass #12 on board '18de26c4483ecb1c670afc2a10838f8e' was completed in 0.50 seconds with score 595.07 (31 unrouted and 55 violations).
+2026-10-26 12:30:10.955 INFO   [59BB05\866A4A] Auto-routing pass #13 on board 'fd8f520d1e73baa5b930b5e91f28a7b8' was completed in 0.44 seconds with score 595.07 (31 unrouted and 55 violations).
+2026-10-26 12:30:11.482 INFO   [59BB05\866A4A] Auto-routing pass #14 on board 'f730c73d19691bfd0b0dbe88a2d23de4' was completed in 0.51 seconds with score 595.07 (31 unrouted and 55 violations).
+2026-10-26 12:30:11.991 INFO   [59BB05\866A4A] Auto-routing pass #15 on board '6aa5524fa1ecb46fdbb5209c81544ddb' was completed in 0.48 seconds with score 595.07 (31 unrouted and 55 violations).
+2026-10-26 12:30:12.032 INFO   [59BB05\866A4A] Auto-routing stage completed: started with 87 unrouted nets, completed in 19.36 seconds, final score: 595.07 (31 unrouted and 55 violations), using 0.00 total CPU seconds, 0.00 GB total allocated, and 40.2 MB peak heap usage.
+2026-10-26 12:30:12.043 INFO   [59BB05\866A4A] Skipping optimization stage: the board has 31 unrouted connection(s) (optimizer only runs on completely routed boards).
+2026-10-26 12:30:12.049 INFO   [59BB05\866A4A] Job '59BB05\866A4A' finished with state: COMPLETED (elapsed: 19.41 seconds, finished at UTC: 2026-10-26T04:30:12.049619100Z).
+2026-10-26 12:30:12.057 INFO   Saving output file 'C:\Users\Peter\Documents\Codex\2026-10-26\files-pasted-by-the-user-project\work\board.ses' (SES)...
+2026-10-26 12:30:12.059 INFO   Successfully saved output file 'C:\Users\Peter\Documents\Codex\2026-10-26\files-pasted-by-the-user-project\work\board.ses' (51522 bytes).

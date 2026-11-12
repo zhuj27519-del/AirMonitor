@@ -1,0 +1,2 @@
+
+{"ok":true,"value":{"sessionId":"0d3feb59-1928-472e-a4be-337b247bac4e","renderId":4,"path":"C:\\Users\\Peter\\Documents\\Codex\\2026-10-26\\files-pasted-by-the-user-project\\outputs\\AirMonitor_V2\\hardware\\EasyEDA\\AirMonitor V2 - PROVISIONAL.eprj3","headless":true},"logs":[],"durationMs":1040}

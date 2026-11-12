@@ -1,0 +1,82 @@
+[
+  {
+    "file": "hardware\\EasyEDA\\pcb\\PCB1.epcb2",
+    "footprint": "62f5990f8876e5a1",
+    "pad": "A9",
+    "before": {
+      "width": 27.559
+    },
+    "width": 29.921259842519685,
+    "connectMode": null
+  },
+  {
+    "file": "hardware\\EasyEDA\\pcb\\PCB1.epcb2",
+    "footprint": "62f5990f8876e5a1",
+    "pad": "B9",
+    "before": {
+      "width": 27.559
+    },
+    "width": 29.921259842519685,
+    "connectMode": null
+  },
+  {
+    "file": "hardware\\EasyEDA\\pcb\\PCB1.epcb2",
+    "footprint": "96b152974707cdac",
+    "pad": "21",
+    "before": {
+      "connectMode": null
+    },
+    "width": 62.992,
+    "connectMode": "DIRECT"
+  },
+  {
+    "file": "hardware\\EasyEDA\\pcb\\PCB1.epcb2",
+    "footprint": "a3dfe8fc6158c620",
+    "pad": "4",
+    "before": {
+      "connectMode": null
+    },
+    "width": 92.126,
+    "connectMode": "DIRECT"
+  },
+  {
+    "file": "hardware\\EasyEDA\\sch\\Schematic1\\P1.esch2",
+    "footprint": "62f5990f8876e5a1",
+    "pad": "A9",
+    "before": {
+      "width": 27.559
+    },
+    "width": 29.921259842519685,
+    "connectMode": null
+  },
+  {
+    "file": "hardware\\EasyEDA\\sch\\Schematic1\\P1.esch2",
+    "footprint": "62f5990f8876e5a1",
+    "pad": "B9",
+    "before": {
+      "width": 27.559
+    },
+    "width": 29.921259842519685,
+    "connectMode": null
+  },
+  {
+    "file": "hardware\\EasyEDA\\sch\\Schematic1\\P1.esch2",
+    "footprint": "a3dfe8fc6158c620",
+    "pad": "4",
+    "before": {
+      "connectMode": null
+    },
+    "width": 92.126,
+    "connectMode": "DIRECT"
+  },
+  {
+    "file": "hardware\\EasyEDA\\sch\\Schematic1\\P1.esch2",
+    "footprint": "96b152974707cdac",
+    "pad": "21",
+    "before": {
+      "connectMode": null
+    },
+    "width": 62.992,
+    "connectMode": "DIRECT"
+  }
+]

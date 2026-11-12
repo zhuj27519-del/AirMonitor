@@ -1,0 +1,27 @@
+{
+  "revision": "P2",
+  "temperature_c": [
+    -40,
+    125
+  ],
+  "reference_temperature_c": 25,
+  "resistor_fractional_bound": 0.0035,
+  "precision_ovp_nominal_v": 5.36,
+  "precision_ovp_rising_corners_v": [
+    5.270293595201793,
+    5.450656876281987
+  ],
+  "precision_ovp_falling_corners_v": [
+    5.150472070538116,
+    5.396708456813848
+  ],
+  "scope": "Static rising/falling threshold bounds using TI full-temperature comparator limits, +/-15nA INB leakage, independent 0.1% and 25ppm/C resistor tolerances. No aging, transient or PCB leakage allowance.",
+  "backup_ovp_nominal_v": 5.464799999999999,
+  "startup_max_us": 450,
+  "nominal_5v_ramp_ms": 42.016806722689076,
+  "transient_scope": "TLV6700 propagation delay is typical only. Internal TPS25940 OVP remains active as a faster backup; no guaranteed instantaneous 5.5V clamp is claimed. Verify hot-plug and startup on hardware.",
+  "sources": [
+    "https://www.ti.com/lit/ds/symlink/tlv6700.pdf",
+    "https://www.ti.com/lit/ds/symlink/tps25940.pdf"
+  ]
+}
