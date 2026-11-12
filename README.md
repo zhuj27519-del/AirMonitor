@@ -36,3 +36,7 @@ arduino-cli compile --fqbn esp8266:esp8266:nodemcuv2 src/AirMonitor
 参见 [项目结构](docs/STRUCTURE.md)、[历史版本](docs/VERSIONS.md)、[检查报告](docs/AUDIT.md)、[TODO](TODO.md)。`docs/inventory.json` 记录来源、SHA-256 和目标路径；`docs/duplicates.json` 记录内容相同的文件。
 
 原始目录未移动、未删除。压缩包、旧 Git bundle、订单 PDF、构建产物只在本地保留并排除 Git，避免未经检查的归档内容或订单隐私进入仓库。历史 CAD 工程保留目录完整性，不将共享文件强行合并。
+
+## GitHub
+
+私有仓库：https://github.com/zhuj27519-del/AirMonitor 。主分支为 main。首次上传已核对 commit SHA 与 tree SHA 一致；完整原始归档仍仅本地保存。
