@@ -1,0 +1,46 @@
+[
+  {
+    "file": "front-angle.jpg",
+    "source_filename": "68e99335631fc91923926c357a791be4.jpg",
+    "sha256": "a70fdd67474415783d01359eca08c615aa3d298da09087b5238c98e6845aab47",
+    "bytes": 198936,
+    "width": 1080,
+    "height": 1920,
+    "caption": "正面斜视：显示屏、支柱及侧面装配",
+    "processing": "none",
+    "capture_date": null
+  },
+  {
+    "file": "rear-assembly.jpg",
+    "source_filename": "0de04d0c0a1c1c32836ab5af00930158.jpg",
+    "sha256": "42c88a74934271b2d5f7a028bb1b1cc879c74f6ff295153df320b7106d4d9cb4",
+    "bytes": 179943,
+    "width": 1080,
+    "height": 1920,
+    "caption": "背面装配：背板、模块安装及开孔",
+    "processing": "none",
+    "capture_date": null
+  },
+  {
+    "file": "side-wiring.jpg",
+    "source_filename": "7d68b568f17807329a5121328ff55522.jpg",
+    "sha256": "bcd8536703381bfcd425430b616cc69ec65bace3f8f9071bcc466f7adc6bafba",
+    "bytes": 196320,
+    "width": 1080,
+    "height": 1920,
+    "caption": "侧面布线：板间空间、跳线和支柱；背景含人物",
+    "processing": "none",
+    "capture_date": null
+  },
+  {
+    "file": "front-display.jpg",
+    "source_filename": "e84839a461235b7dc8fb3ee953c49462.jpg",
+    "sha256": "ce23c5ab9f3c002cfc033979167ca7334a123f242d13d897f4e6a973460f9d2e",
+    "bytes": 211579,
+    "width": 1280,
+    "height": 1707,
+    "caption": "正面显示：AirMonitor V4 界面及 ONLINE 状态",
+    "processing": "none",
+    "capture_date": null
+  }
+]

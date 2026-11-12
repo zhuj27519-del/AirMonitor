@@ -2,6 +2,12 @@
 
 环境监测器工程恢复与归档，整理日期：2026-11-12。统一工作目录：`D:\Projects\AirMonitor`。
 
+## 原型机实拍
+
+<img src="docs/images/prototype-v4/front-display.jpg" alt="AirMonitor V4 原型机正面显示" width="420">
+
+用户提供的 V4 原型机照片，拍摄日期及对应固件提交待确认。照片中可见 ONLINE 和各项读数；不代表测量精度或全部硬件验收已通过。更多照片见 [实物与装配记录](docs/images/prototype-v4/README.md)。
+
 ## 当前主源码
 
 `src/AirMonitor/AirMonitor.ino` 原样恢复自 `AirMonitor_V4_9Text_Matched`，为 ESP8266 + HF035 九文本控件方案。选择依据为源码中明确的 0..8 页面控件映射和接线；不是仅按文件修改时间选择。它是待实物验证的工作基线，不代表已经量产或通过实测。
